@@ -1,1 +1,17 @@
+📊 Interactive Visualizations
 
+This project includes two interactive map visualizations of U.S. airline route data, highlighting key origin and destination airports based on 2015 passenger volume.
+
+🌐 1. Folium Map – Origin Airports
+An interactive leaflet map displaying major origin cities, with circle sizes proportional to passenger volume.
+
+👉 Open Folium Map
+(Download and open in your browser)
+
+🗺️ 2. Bokeh Map – Origin & Destination Airports
+A Web Mercator-projected map with:
+
+🔵 Blue circles representing origin airports
+🔴 Red circles representing destination airports
+🧭 Hover tool showing city names and total passengers
+👉 Open Bokeh Map
