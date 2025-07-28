@@ -22,8 +22,14 @@ A Web Mercator-projected map with:
 👉 Open Bokeh Map
 ()
 
-To open the interactive map directly from python use the snippet;
+1. To open the interactive map directly from python use the snippet;
 
 import webbrowser
+
 file_path = "/users/path/to/folium_airport_map.html"
+
 webbrowser.open(f"file://{file_path}")
+
+2. On your Terminal or notebook run;
+
+jupyter nbconvert --to html your_notebook_name.ipynb
