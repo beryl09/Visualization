@@ -1,0 +1,1002 @@
+PASSENGERS,Passenger Miles,CARRIER_NAME-ORIGIN_CITY_NAME-DEST_CITY_NAME,CARRIER_NAME,ORIGIN_CITY_NAME,DEST_CITY_NAME,ORIGIN_LATITUDE,ORIGIN_LONGITUDE,DEST_LATITUDE,DEST_LONGITUDE
+901242930,1301209121647,Grand Total Total,Grand Total Total,,,44.933143,7.540121,44.933143,7.540121
+1061526,808294378,"Delta Air Lines Inc.-Atlanta, GA-New York, NY Total Total",Delta Air Lines Inc.,"Atlanta, GA","New York, NY",33.7544657,-84.3898151,40.7127281,-74.0060152
+1047732,797803500,"Delta Air Lines Inc.-New York, NY-Atlanta, GA Total Total",Delta Air Lines Inc.,"New York, NY","Atlanta, GA",40.7127281,-74.0060152,33.7544657,-84.3898151
+1025421,414270084,"Delta Air Lines Inc.-Orlando, FL-Atlanta, GA Total Total",Delta Air Lines Inc.,"Orlando, FL","Atlanta, GA",28.5421109,-81.3790304,33.7544657,-84.3898151
+1022276,412999504,"Delta Air Lines Inc.-Atlanta, GA-Orlando, FL Total Total",Delta Air Lines Inc.,"Atlanta, GA","Orlando, FL",33.7544657,-84.3898151,28.5421109,-81.3790304
+976248,1067279178,"American Airlines Inc.-Miami, FL-New York, NY Total Total",American Airlines Inc.,"Miami, FL","New York, NY",25.7741728,-80.19362,40.7127281,-74.0060152
+966296,1193375560,"American Airlines Inc.-Dallas/Fort Worth, TX-Los Angeles, CA Total Total",American Airlines Inc.,"Dallas/Fort Worth, TX","Los Angeles, CA",32.8369894,-97.033926,34.0536909,-118.242766
+961273,1050907668,"American Airlines Inc.-New York, NY-Miami, FL Total Total",American Airlines Inc.,"New York, NY","Miami, FL",40.7127281,-74.0060152,25.7741728,-80.19362
+950381,1173720535,"American Airlines Inc.-Los Angeles, CA-Dallas/Fort Worth, TX Total Total",American Airlines Inc.,"Los Angeles, CA","Dallas/Fort Worth, TX",34.0536909,-118.242766,32.8369894,-97.033926
+929682,505143067,"Delta Air Lines Inc.-Atlanta, GA-Washington, DC Total Total",Delta Air Lines Inc.,"Atlanta, GA","Washington, DC",33.7544657,-84.3898151,38.8950368,-77.0365427
+929395,504959818,"Delta Air Lines Inc.-Washington, DC-Atlanta, GA Total Total",Delta Air Lines Inc.,"Washington, DC","Atlanta, GA",38.8950368,-77.0365427,33.7544657,-84.3898151
+864661,86466100,"Hawaiian Airlines Inc.-Kahului, HI-Honolulu, HI Total Total",Hawaiian Airlines Inc.,"Kahului, HI","Honolulu, HI",20.8747708,-156.4529879,21.304547,-157.855676
+857176,85717600,"Hawaiian Airlines Inc.-Honolulu, HI-Kahului, HI Total Total",Hawaiian Airlines Inc.,"Honolulu, HI","Kahului, HI",21.304547,-157.855676,20.8747708,-156.4529879
+843113,489848653,"Delta Air Lines Inc.-Atlanta, GA-Fort Lauderdale, FL Total Total",Delta Air Lines Inc.,"Atlanta, GA","Fort Lauderdale, FL",33.7544657,-84.3898151,26.1223084,-80.1433786
+842994,489779514,"Delta Air Lines Inc.-Fort Lauderdale, FL-Atlanta, GA Total Total",Delta Air Lines Inc.,"Fort Lauderdale, FL","Atlanta, GA",26.1223084,-80.1433786,33.7544657,-84.3898151
+791897,321510182,"Delta Air Lines Inc.-Tampa, FL-Atlanta, GA Total Total",Delta Air Lines Inc.,"Tampa, FL","Atlanta, GA",27.9477595,-82.458444,33.7544657,-84.3898151
+785771,319023026,"Delta Air Lines Inc.-Atlanta, GA-Tampa, FL Total Total",Delta Air Lines Inc.,"Atlanta, GA","Tampa, FL",33.7544657,-84.3898151,27.9477595,-82.458444
+757680,556033240,"American Airlines Inc.-Chicago, IL-New York, NY Total Total",American Airlines Inc.,"Chicago, IL","New York, NY",41.8755616,-87.6244212,40.7127281,-74.0060152
+746266,547630833,"American Airlines Inc.-New York, NY-Chicago, IL Total Total",American Airlines Inc.,"New York, NY","Chicago, IL",40.7127281,-74.0060152,41.8755616,-87.6244212
+745966,1452395802,"Delta Air Lines Inc.-Atlanta, GA-Los Angeles, CA Total Total",Delta Air Lines Inc.,"Atlanta, GA","Los Angeles, CA",33.7544657,-84.3898151,34.0536909,-118.242766
+743659,596414518,"American Airlines Inc.-Chicago, IL-Dallas/Fort Worth, TX Total Total",American Airlines Inc.,"Chicago, IL","Dallas/Fort Worth, TX",41.8755616,-87.6244212,32.8369894,-97.033926
+742706,1371035276,"United Air Lines Inc.-San Francisco, CA-Chicago, IL Total Total",United Air Lines Inc.,"San Francisco, CA","Chicago, IL",37.7792588,-122.4193286,41.8755616,-87.6244212
+741302,1368443933,"United Air Lines Inc.-Chicago, IL-San Francisco, CA Total Total",United Air Lines Inc.,"Chicago, IL","San Francisco, CA",41.8755616,-87.6244212,37.7792588,-122.4193286
+738529,443866404,"Delta Air Lines Inc.-Atlanta, GA-Chicago, IL Total Total",Delta Air Lines Inc.,"Atlanta, GA","Chicago, IL",33.7544657,-84.3898151,41.8755616,-87.6244212
+737915,591807830,"American Airlines Inc.-Dallas/Fort Worth, TX-Chicago, IL Total Total",American Airlines Inc.,"Dallas/Fort Worth, TX","Chicago, IL",32.8369894,-97.033926,41.8755616,-87.6244212
+735482,1431983454,"Delta Air Lines Inc.-Los Angeles, CA-Atlanta, GA Total Total",Delta Air Lines Inc.,"Los Angeles, CA","Atlanta, GA",34.0536909,-118.242766,33.7544657,-84.3898151
+727694,437303604,"Delta Air Lines Inc.-Chicago, IL-Atlanta, GA Total Total",Delta Air Lines Inc.,"Chicago, IL","Atlanta, GA",41.8755616,-87.6244212,33.7544657,-84.3898151
+702640,2424990967,"British Airways Plc-London, United Kingdom-New York, NY Total Total",British Airways Plc,"London, United Kingdom","New York, NY",51.4893335,-0.1440551,40.7127281,-74.0060152
+695176,965773580,"American Airlines Inc.-Dallas/Fort Worth, TX-New York, NY Total Total",American Airlines Inc.,"Dallas/Fort Worth, TX","New York, NY",32.8369894,-97.033926,40.7127281,-74.0060152
+692377,961872867,"American Airlines Inc.-New York, NY-Dallas/Fort Worth, TX Total Total",American Airlines Inc.,"New York, NY","Dallas/Fort Worth, TX",40.7127281,-74.0060152,32.8369894,-97.033926
+692185,2388972015,"British Airways Plc-New York, NY-London, United Kingdom Total Total",British Airways Plc,"New York, NY","London, United Kingdom",40.7127281,-74.0060152,51.4893335,-0.1440551
+685635,992799480,"Alaska Airlines Inc.-Anchorage, AK-Seattle, WA Total Total",Alaska Airlines Inc.,"Anchorage, AK","Seattle, WA",61.2163129,-149.894852,47.6038321,-122.330062
+676200,979137600,"Alaska Airlines Inc.-Seattle, WA-Anchorage, AK Total Total",Alaska Airlines Inc.,"Seattle, WA","Anchorage, AK",47.6038321,-122.330062,61.2163129,-149.894852
+674666,109970558,"Hawaiian Airlines Inc.-Kona, HI-Honolulu, HI Total Total",Hawaiian Airlines Inc.,"Kona, HI","Honolulu, HI",19.6472213,-155.9966428,21.304547,-157.855676
+670302,109259226,"Hawaiian Airlines Inc.-Honolulu, HI-Kona, HI Total Total",Hawaiian Airlines Inc.,"Honolulu, HI","Kona, HI",21.304547,-157.855676,19.6472213,-155.9966428
+666659,635993426,"Alaska Airlines Inc.-Seattle, WA-Los Angeles, CA Total Total",Alaska Airlines Inc.,"Seattle, WA","Los Angeles, CA",47.6038321,-122.330062,34.0536909,-118.242766
+664464,633899301,"Alaska Airlines Inc.-Los Angeles, CA-Seattle, WA Total Total",Alaska Airlines Inc.,"Los Angeles, CA","Seattle, WA",34.0536909,-118.242766,47.6038321,-122.330062
+660492,910818468,"United Air Lines Inc.-Houston, TX-Los Angeles, CA Total Total",United Air Lines Inc.,"Houston, TX","Los Angeles, CA",29.7589382,-95.3676974,34.0536909,-118.242766
+656438,177238260,"Delta Air Lines Inc.-Jacksonville, FL-Atlanta, GA Total Total",Delta Air Lines Inc.,"Jacksonville, FL","Atlanta, GA",30.3321838,-81.655651,33.7544657,-84.3898151
+656135,1682986275,"United Air Lines Inc.-San Francisco, CA-Newark, NJ Total Total",United Air Lines Inc.,"San Francisco, CA","Newark, NJ",37.7792588,-122.4193286,40.735657,-74.1723667
+649324,614274812,"JetBlue Airways-New York, NY-Orlando, FL Total Total",JetBlue Airways,"New York, NY","Orlando, FL",40.7127281,-74.0060152,28.5421109,-81.3790304
+646644,174593880,"Delta Air Lines Inc.-Atlanta, GA-Jacksonville, FL Total Total",Delta Air Lines Inc.,"Atlanta, GA","Jacksonville, FL",33.7544657,-84.3898151,30.3321838,-81.655651
+643962,609191070,"JetBlue Airways-Orlando, FL-New York, NY Total Total",JetBlue Airways,"Orlando, FL","New York, NY",28.5421109,-81.3790304,40.7127281,-74.0060152
+642859,1648933335,"United Air Lines Inc.-Newark, NJ-San Francisco, CA Total Total",United Air Lines Inc.,"Newark, NJ","San Francisco, CA",40.735657,-74.1723667,37.7792588,-122.4193286
+636622,682290266,"JetBlue Airways-Fort Lauderdale, FL-New York, NY Total Total",JetBlue Airways,"Fort Lauderdale, FL","New York, NY",26.1223084,-80.1433786,40.7127281,-74.0060152
+635303,680880304,"JetBlue Airways-New York, NY-Fort Lauderdale, FL Total Total",JetBlue Airways,"New York, NY","Fort Lauderdale, FL",40.7127281,-74.0060152,26.1223084,-80.1433786
+633505,64617510,"Hawaiian Airlines Inc.-Honolulu, HI-Lihue, HI Total Total",Hawaiian Airlines Inc.,"Honolulu, HI","Lihue, HI",21.304547,-157.855676,21.971865,-159.3526015
+633476,64614552,"Hawaiian Airlines Inc.-Lihue, HI-Honolulu, HI Total Total",Hawaiian Airlines Inc.,"Lihue, HI","Honolulu, HI",21.971865,-159.3526015,21.304547,-157.855676
+633236,751637672,"American Airlines Inc.-Washington, DC-Dallas/Fort Worth, TX Total Total",American Airlines Inc.,"Washington, DC","Dallas/Fort Worth, TX",38.8950368,-77.0365427,32.8369894,-97.033926
+631650,749769500,"American Airlines Inc.-Dallas/Fort Worth, TX-Washington, DC Total Total",American Airlines Inc.,"Dallas/Fort Worth, TX","Washington, DC",32.8369894,-97.033926,38.8950368,-77.0365427
+630334,869230586,"United Air Lines Inc.-Los Angeles, CA-Houston, TX Total Total",United Air Lines Inc.,"Los Angeles, CA","Houston, TX",34.0536909,-118.242766,29.7589382,-95.3676974
+619004,147941956,"Southwest Airlines Co.-Houston, TX-Dallas, TX Total Total",Southwest Airlines Co.,"Houston, TX","Dallas, TX",29.7589382,-95.3676974,32.7762719,-96.7968559
+617151,691826271,"American Airlines Inc.-Miami, FL-Dallas/Fort Worth, TX Total Total",American Airlines Inc.,"Miami, FL","Dallas/Fort Worth, TX",25.7741728,-80.19362,32.8369894,-97.033926
+615763,147167357,"Southwest Airlines Co.-Dallas, TX-Houston, TX Total Total",Southwest Airlines Co.,"Dallas, TX","Houston, TX",32.7762719,-96.7968559,29.7589382,-95.3676974
+612956,687123676,"American Airlines Inc.-Dallas/Fort Worth, TX-Miami, FL Total Total",American Airlines Inc.,"Dallas/Fort Worth, TX","Miami, FL",32.8369894,-97.033926,25.7741728,-80.19362
+610251,362489094,"Delta Air Lines Inc.-Atlanta, GA-Miami, FL Total Total",Delta Air Lines Inc.,"Atlanta, GA","Miami, FL",33.7544657,-84.3898151,25.7741728,-80.19362
+610108,553367956,"Delta Air Lines Inc.-Minneapolis, MN-Atlanta, GA Total Total",Delta Air Lines Inc.,"Minneapolis, MN","Atlanta, GA",44.9772995,-93.2654692,33.7544657,-84.3898151
+609267,552605169,"Delta Air Lines Inc.-Atlanta, GA-Minneapolis, MN Total Total",Delta Air Lines Inc.,"Atlanta, GA","Minneapolis, MN",33.7544657,-84.3898151,44.9772995,-93.2654692
+604902,359311788,"Delta Air Lines Inc.-Miami, FL-Atlanta, GA Total Total",Delta Air Lines Inc.,"Miami, FL","Atlanta, GA",25.7741728,-80.19362,33.7544657,-84.3898151
+604841,1054842704,"United Air Lines Inc.-Los Angeles, CA-Chicago, IL Total Total",United Air Lines Inc.,"Los Angeles, CA","Chicago, IL",34.0536909,-118.242766,41.8755616,-87.6244212
+600470,114089300,"American Airlines Inc.-Austin, TX-Dallas/Fort Worth, TX Total Total",American Airlines Inc.,"Austin, TX","Dallas/Fort Worth, TX",30.2711286,-97.7436995,32.8369894,-97.033926
+592306,112538140,"American Airlines Inc.-Dallas/Fort Worth, TX-Austin, TX Total Total",American Airlines Inc.,"Dallas/Fort Worth, TX","Austin, TX",32.8369894,-97.033926,30.2711286,-97.7436995
+585894,208578264,"Delta Air Lines Inc.-Raleigh/Durham, NC-Atlanta, GA Total Total",Delta Air Lines Inc.,"Raleigh/Durham, NC","Atlanta, GA",35.8803614,-78.7872382,33.7544657,-84.3898151
+584749,248518325,"Delta Air Lines Inc.-New Orleans, LA-Atlanta, GA Total Total",Delta Air Lines Inc.,"New Orleans, LA","Atlanta, GA",29.9559145,-90.0730259,33.7544657,-84.3898151
+584228,1433695512,"United Air Lines Inc.-Los Angeles, CA-Newark, NJ Total Total",United Air Lines Inc.,"Los Angeles, CA","Newark, NJ",34.0536909,-118.242766,40.735657,-74.1723667
+580806,549442476,"Delta Air Lines Inc.-Atlanta, GA-Boston, MA Total Total",Delta Air Lines Inc.,"Atlanta, GA","Boston, MA",33.7544657,-84.3898151,42.3554334,-71.060511
+578646,245924550,"Delta Air Lines Inc.-Atlanta, GA-New Orleans, LA Total Total",Delta Air Lines Inc.,"Atlanta, GA","New Orleans, LA",33.7544657,-84.3898151,29.9559145,-90.0730259
+575949,313892205,"Delta Air Lines Inc.-West Palm Beach/Palm Beach, FL-Atlanta, GA Total Total",Delta Air Lines Inc.,"West Palm Beach/Palm Beach, FL","Atlanta, GA",26.715364,-80.0532942,33.7544657,-84.3898151
+575027,543975542,"Delta Air Lines Inc.-Boston, MA-Atlanta, GA Total Total",Delta Air Lines Inc.,"Boston, MA","Atlanta, GA",42.3554334,-71.060511,33.7544657,-84.3898151
+574815,204634140,"Delta Air Lines Inc.-Atlanta, GA-Raleigh/Durham, NC Total Total",Delta Air Lines Inc.,"Atlanta, GA","Raleigh/Durham, NC",33.7544657,-84.3898151,35.8803614,-78.7872382
+571833,311648985,"Delta Air Lines Inc.-Atlanta, GA-West Palm Beach/Palm Beach, FL Total Total",Delta Air Lines Inc.,"Atlanta, GA","West Palm Beach/Palm Beach, FL",33.7544657,-84.3898151,26.715364,-80.0532942
+571324,339366456,"Delta Air Lines Inc.-Atlanta, GA-Detroit, MI Total Total",Delta Air Lines Inc.,"Atlanta, GA","Detroit, MI",33.7544657,-84.3898151,42.3315509,-83.0466403
+563662,1383226548,"United Air Lines Inc.-Newark, NJ-Los Angeles, CA Total Total",United Air Lines Inc.,"Newark, NJ","Los Angeles, CA",40.735657,-74.1723667,34.0536909,-118.242766
+561415,138669505,"American Airlines Inc.-Dallas/Fort Worth, TX-San Antonio, TX Total Total",American Airlines Inc.,"Dallas/Fort Worth, TX","San Antonio, TX",32.8369894,-97.033926,29.4246002,-98.4951405
+561059,333269046,"Delta Air Lines Inc.-Detroit, MI-Atlanta, GA Total Total",Delta Air Lines Inc.,"Detroit, MI","Atlanta, GA",42.3315509,-83.0466403,33.7544657,-84.3898151
+556997,137578259,"American Airlines Inc.-San Antonio, TX-Dallas/Fort Worth, TX Total Total",American Airlines Inc.,"San Antonio, TX","Dallas/Fort Worth, TX",29.4246002,-98.4951405,32.8369894,-97.033926
+553937,966066128,"United Air Lines Inc.-Chicago, IL-Los Angeles, CA Total Total",United Air Lines Inc.,"Chicago, IL","Los Angeles, CA",41.8755616,-87.6244212,34.0536909,-118.242766
+548875,579063125,"American Airlines Inc.-Dallas/Fort Worth, TX-Las Vegas, NV Total Total",American Airlines Inc.,"Dallas/Fort Worth, TX","Las Vegas, NV",32.8369894,-97.033926,36.1674263,-115.1484131
+546855,471389010,"United Air Lines Inc.-Houston, TX-Denver, CO Total Total",United Air Lines Inc.,"Houston, TX","Denver, CO",29.7589382,-95.3676974,39.7392364,-104.984862
+546302,470912324,"United Air Lines Inc.-Denver, CO-Houston, TX Total Total",United Air Lines Inc.,"Denver, CO","Houston, TX",39.7392364,-104.984862,29.7589382,-95.3676974
+540477,570203235,"American Airlines Inc.-Las Vegas, NV-Dallas/Fort Worth, TX Total Total",American Airlines Inc.,"Las Vegas, NV","Dallas/Fort Worth, TX",36.1674263,-115.1484131,32.8369894,-97.033926
+540373,791106072,"American Airlines Inc.-Dallas/Fort Worth, TX-San Francisco, CA Total Total",American Airlines Inc.,"Dallas/Fort Worth, TX","San Francisco, CA",32.8369894,-97.033926,37.7792588,-122.4193286
+539973,359622018,"Delta Air Lines Inc.-Atlanta, GA-Philadelphia, PA Total Total",Delta Air Lines Inc.,"Atlanta, GA","Philadelphia, PA",33.7544657,-84.3898151,39.9527237,-75.1635262
+539311,394236341,"Delta Air Lines Inc.-Atlanta, GA-Dallas/Fort Worth, TX Total Total",Delta Air Lines Inc.,"Atlanta, GA","Dallas/Fort Worth, TX",33.7544657,-84.3898151,32.8369894,-97.033926
+538636,116345376,"Hawaiian Airlines Inc.-Honolulu, HI-Hilo, HI Total Total",Hawaiian Airlines Inc.,"Honolulu, HI","Hilo, HI",21.304547,-157.855676,19.6854458,-155.1003754
+534917,491764743,"American Airlines Inc.-Miami, FL-Washington, DC Total Total",American Airlines Inc.,"Miami, FL","Washington, DC",25.7741728,-80.19362,38.8950368,-77.0365427
+529018,864944430,"United Air Lines Inc.-Houston, TX-San Francisco, CA Total Total",United Air Lines Inc.,"Houston, TX","San Francisco, CA",29.7589382,-95.3676974,37.7792588,-122.4193286
+528377,351899082,"Delta Air Lines Inc.-Philadelphia, PA-Atlanta, GA Total Total",Delta Air Lines Inc.,"Philadelphia, PA","Atlanta, GA",39.9527237,-75.1635262,33.7544657,-84.3898151
+527165,119139290,"Delta Air Lines Inc.-Charlotte, NC-Atlanta, GA Total Total",Delta Air Lines Inc.,"Charlotte, NC","Atlanta, GA",35.2272086,-80.8430827,33.7544657,-84.3898151
+525796,483383600,"American Airlines Inc.-Washington, DC-Miami, FL Total Total",American Airlines Inc.,"Washington, DC","Miami, FL",38.8950368,-77.0365427,25.7741728,-80.19362
+523623,766584072,"American Airlines Inc.-San Francisco, CA-Dallas/Fort Worth, TX Total Total",American Airlines Inc.,"San Francisco, CA","Dallas/Fort Worth, TX",37.7792588,-122.4193286,32.8369894,-97.033926
+523281,484034485,"United Air Lines Inc.-Chicago, IL-Houston, TX Total Total",United Air Lines Inc.,"Chicago, IL","Houston, TX",41.8755616,-87.6244212,29.7589382,-95.3676974
+523026,483799050,"United Air Lines Inc.-Houston, TX-Chicago, IL Total Total",United Air Lines Inc.,"Houston, TX","Chicago, IL",29.7589382,-95.3676974,41.8755616,-87.6244212
+521332,117821032,"Delta Air Lines Inc.-Atlanta, GA-Charlotte, NC Total Total",Delta Air Lines Inc.,"Atlanta, GA","Charlotte, NC",33.7544657,-84.3898151,35.2272086,-80.8430827
+521001,112536216,"Hawaiian Airlines Inc.-Hilo, HI-Honolulu, HI Total Total",Hawaiian Airlines Inc.,"Hilo, HI","Honolulu, HI",19.6854458,-155.1003754,21.304547,-157.855676
+519946,380080526,"Delta Air Lines Inc.-Dallas/Fort Worth, TX-Atlanta, GA Total Total",Delta Air Lines Inc.,"Dallas/Fort Worth, TX","Atlanta, GA",32.8369894,-97.033926,33.7544657,-84.3898151
+518609,66900561,"Horizon Air-Seattle, WA-Portland, OR Total Total",Horizon Air,"Seattle, WA","Portland, OR",47.6038321,-122.330062,45.5202471,-122.674194
+516984,845268840,"United Air Lines Inc.-San Francisco, CA-Houston, TX Total Total",United Air Lines Inc.,"San Francisco, CA","Houston, TX",37.7792588,-122.4193286,29.7589382,-95.3676974
+513731,376564282,"United Air Lines Inc.-New York, NY-Chicago, IL Total Total",United Air Lines Inc.,"New York, NY","Chicago, IL",40.7127281,-74.0060152,41.8755616,-87.6244212
+511819,66024651,"Horizon Air-Portland, OR-Seattle, WA Total Total",Horizon Air,"Portland, OR","Seattle, WA",45.5202471,-122.674194,47.6038321,-122.330062
+510708,611317476,"American Airlines Inc.-Miami, FL-Chicago, IL Total Total",American Airlines Inc.,"Miami, FL","Chicago, IL",25.7741728,-80.19362,41.8755616,-87.6244212
+509878,294199606,"Delta Air Lines Inc.-Atlanta, GA-Baltimore, MD Total Total",Delta Air Lines Inc.,"Atlanta, GA","Baltimore, MD",33.7544657,-84.3898151,39.2908816,-76.610759
+509859,294188643,"Delta Air Lines Inc.-Baltimore, MD-Atlanta, GA Total Total",Delta Air Lines Inc.,"Baltimore, MD","Atlanta, GA",39.2908816,-76.610759,33.7544657,-84.3898151
+508413,500786805,"American Airlines Inc.-Dallas/Fort Worth, TX-Orlando, FL Total Total",American Airlines Inc.,"Dallas/Fort Worth, TX","Orlando, FL",32.8369894,-97.033926,28.5421109,-81.3790304
+508178,372495377,"United Air Lines Inc.-Chicago, IL-New York, NY Total Total",United Air Lines Inc.,"Chicago, IL","New York, NY",41.8755616,-87.6244212,40.7127281,-74.0060152
+507176,450372288,"United Air Lines Inc.-Chicago, IL-Denver, CO Total Total",United Air Lines Inc.,"Chicago, IL","Denver, CO",41.8755616,-87.6244212,39.7392364,-104.984862
+506420,449700960,"United Air Lines Inc.-Denver, CO-Chicago, IL Total Total",United Air Lines Inc.,"Denver, CO","Chicago, IL",39.7392364,-104.984862,41.8755616,-87.6244212
+505059,497483115,"American Airlines Inc.-Orlando, FL-Dallas/Fort Worth, TX Total Total",American Airlines Inc.,"Orlando, FL","Dallas/Fort Worth, TX",28.5421109,-81.3790304,32.8369894,-97.033926
+502135,1215835495,"United Air Lines Inc.-San Francisco, CA-Washington, DC Total Total",United Air Lines Inc.,"San Francisco, CA","Washington, DC",37.7792588,-122.4193286,38.8950368,-77.0365427
+501987,1215428263,"United Air Lines Inc.-Washington, DC-San Francisco, CA Total Total",United Air Lines Inc.,"Washington, DC","San Francisco, CA",38.8950368,-77.0365427,37.7792588,-122.4193286
+501976,702766400,"United Air Lines Inc.-Newark, NJ-Houston, TX Total Total",United Air Lines Inc.,"Newark, NJ","Houston, TX",40.735657,-74.1723667,29.7589382,-95.3676974
+501474,797343660,"Delta Air Lines Inc.-Atlanta, GA-Salt Lake City, UT Total Total",Delta Air Lines Inc.,"Atlanta, GA","Salt Lake City, UT",33.7544657,-84.3898151,40.7596198,-111.886797
+499975,483475825,"United Air Lines Inc.-Denver, CO-San Francisco, CA Total Total",United Air Lines Inc.,"Denver, CO","San Francisco, CA",39.7392364,-104.984862,37.7792588,-122.4193286
+499904,794847360,"Delta Air Lines Inc.-Salt Lake City, UT-Atlanta, GA Total Total",Delta Air Lines Inc.,"Salt Lake City, UT","Atlanta, GA",40.7596198,-111.886797,33.7544657,-84.3898151
+498339,596511783,"American Airlines Inc.-Chicago, IL-Miami, FL Total Total",American Airlines Inc.,"Chicago, IL","Miami, FL",41.8755616,-87.6244212,25.7741728,-80.19362
+497163,167543931,"United Air Lines Inc.-San Francisco, CA-Los Angeles, CA Total Total",United Air Lines Inc.,"San Francisco, CA","Los Angeles, CA",37.7792588,-122.4193286,34.0536909,-118.242766
+495550,167000350,"United Air Lines Inc.-Los Angeles, CA-San Francisco, CA Total Total",United Air Lines Inc.,"Los Angeles, CA","San Francisco, CA",34.0536909,-118.242766,37.7792588,-122.4193286
+494484,468520824,"Delta Air Lines Inc.-New York, NY-Orlando, FL Total Total",Delta Air Lines Inc.,"New York, NY","Orlando, FL",40.7127281,-74.0060152,28.5421109,-81.3790304
+491966,427026488,"American Airlines Inc.-Dallas/Fort Worth, TX-Phoenix, AZ Total Total",American Airlines Inc.,"Dallas/Fort Worth, TX","Phoenix, AZ",32.8369894,-97.033926,33.4484367,-112.074141
+489499,855154753,"Delta Air Lines Inc.-Las Vegas, NV-Atlanta, GA Total Total",Delta Air Lines Inc.,"Las Vegas, NV","Atlanta, GA",36.1674263,-115.1484131,33.7544657,-84.3898151
+488389,1143807038,"American Airlines Inc.-Los Angeles, CA-Miami, FL Total Total",American Airlines Inc.,"Los Angeles, CA","Miami, FL",34.0536909,-118.242766,25.7741728,-80.19362
+487190,682066000,"United Air Lines Inc.-Houston, TX-Newark, NJ Total Total",United Air Lines Inc.,"Houston, TX","Newark, NJ",29.7589382,-95.3676974,40.735657,-74.1723667
+487075,1205510625,"Delta Air Lines Inc.-Los Angeles, CA-New York, NY Total Total",Delta Air Lines Inc.,"Los Angeles, CA","New York, NY",34.0536909,-118.242766,40.7127281,-74.0060152
+486948,1770055980,"Compagnie Natl Air France-New York, NY-Paris, France Total Total",Compagnie Natl Air France,"New York, NY","Paris, France",40.7127281,-74.0060152,48.8534951,2.3483915
+486409,250500635,"Delta Air Lines Inc.-Fort Myers, FL-Atlanta, GA Total Total",Delta Air Lines Inc.,"Fort Myers, FL","Atlanta, GA",26.640628,-81.8723084,33.7544657,-84.3898151
+485810,848710070,"Delta Air Lines Inc.-Atlanta, GA-Las Vegas, NV Total Total",Delta Air Lines Inc.,"Atlanta, GA","Las Vegas, NV",33.7544657,-84.3898151,36.1674263,-115.1484131
+485741,250156615,"Delta Air Lines Inc.-Atlanta, GA-Fort Myers, FL Total Total",Delta Air Lines Inc.,"Atlanta, GA","Fort Myers, FL",33.7544657,-84.3898151,26.640628,-81.8723084
+485161,568123531,"American Airlines Inc.-Dallas/Fort Worth, TX-San Diego, CA Total Total",American Airlines Inc.,"Dallas/Fort Worth, TX","San Diego, CA",32.8369894,-97.033926,32.7174202,-117.162772
+484687,454151719,"United Air Lines Inc.-Newark, NJ-Orlando, FL Total Total",United Air Lines Inc.,"Newark, NJ","Orlando, FL",40.735657,-74.1723667,28.5421109,-81.3790304
+484388,420448784,"American Airlines Inc.-Phoenix, AZ-Dallas/Fort Worth, TX Total Total",American Airlines Inc.,"Phoenix, AZ","Dallas/Fort Worth, TX",33.4484367,-112.074141,32.8369894,-97.033926
+478531,330992751,"Delta Air Lines Inc.-Atlanta, GA-Houston, TX Total Total",Delta Air Lines Inc.,"Atlanta, GA","Houston, TX",33.7544657,-84.3898151,29.7589382,-95.3676974
+477726,559417146,"American Airlines Inc.-San Diego, CA-Dallas/Fort Worth, TX Total Total",American Airlines Inc.,"San Diego, CA","Dallas/Fort Worth, TX",32.7174202,-117.162772,32.8369894,-97.033926
+476768,831483392,"American Airlines Inc.-Chicago, IL-Los Angeles, CA Total Total",American Airlines Inc.,"Chicago, IL","Los Angeles, CA",41.8755616,-87.6244212,34.0536909,-118.242766
+474376,91080192,"American Airlines Inc.-Orlando, FL-Miami, FL Total Total",American Airlines Inc.,"Orlando, FL","Miami, FL",28.5421109,-81.3790304,25.7741728,-80.19362
+474259,449363486,"Delta Air Lines Inc.-Orlando, FL-New York, NY Total Total",Delta Air Lines Inc.,"Orlando, FL","New York, NY",28.5421109,-81.3790304,40.7127281,-74.0060152
+473892,1172882700,"Delta Air Lines Inc.-New York, NY-Los Angeles, CA Total Total",Delta Air Lines Inc.,"New York, NY","Los Angeles, CA",40.7127281,-74.0060152,34.0536909,-118.242766
+473438,1108791796,"American Airlines Inc.-Miami, FL-Los Angeles, CA Total Total",American Airlines Inc.,"Miami, FL","Los Angeles, CA",25.7741728,-80.19362,34.0536909,-118.242766
+473156,825184064,"American Airlines Inc.-Los Angeles, CA-Chicago, IL Total Total",American Airlines Inc.,"Los Angeles, CA","Chicago, IL",34.0536909,-118.242766,41.8755616,-87.6244212
+472873,90791616,"American Airlines Inc.-Miami, FL-Orlando, FL Total Total",American Airlines Inc.,"Miami, FL","Orlando, FL",25.7741728,-80.19362,28.5421109,-81.3790304
+472409,1717206715,"Compagnie Natl Air France-Paris, France-New York, NY Total Total",Compagnie Natl Air France,"Paris, France","New York, NY",48.8534951,2.3483915,40.7127281,-74.0060152
+469733,301098853,"American Airlines Inc.-Dallas/Fort Worth, TX-Denver, CO Total Total",American Airlines Inc.,"Dallas/Fort Worth, TX","Denver, CO",32.8369894,-97.033926,39.7392364,-104.984862
+466707,299159187,"American Airlines Inc.-Denver, CO-Dallas/Fort Worth, TX Total Total",American Airlines Inc.,"Denver, CO","Dallas/Fort Worth, TX",39.7392364,-104.984862,32.8369894,-97.033926
+465881,436530497,"United Air Lines Inc.-Orlando, FL-Newark, NJ Total Total",United Air Lines Inc.,"Orlando, FL","Newark, NJ",28.5421109,-81.3790304,40.735657,-74.1723667
+465663,322100379,"Delta Air Lines Inc.-Houston, TX-Atlanta, GA Total Total",Delta Air Lines Inc.,"Houston, TX","Atlanta, GA",29.7589382,-95.3676974,33.7544657,-84.3898151
+461607,987377373,"Delta Air Lines Inc.-Atlanta, GA-San Francisco, CA Total Total",Delta Air Lines Inc.,"Atlanta, GA","San Francisco, CA",33.7544657,-84.3898151,37.7792588,-122.4193286
+456647,274901494,"Southwest Airlines Co.-Denver, CO-Phoenix, AZ Total Total",Southwest Airlines Co.,"Denver, CO","Phoenix, AZ",39.7392364,-104.984862,33.4484367,-112.074141
+454751,273760102,"Southwest Airlines Co.-Phoenix, AZ-Denver, CO Total Total",Southwest Airlines Co.,"Phoenix, AZ","Denver, CO",33.4484367,-112.074141,39.7392364,-104.984862
+454238,439248146,"United Air Lines Inc.-San Francisco, CA-Denver, CO Total Total",United Air Lines Inc.,"San Francisco, CA","Denver, CO",37.7792588,-122.4193286,39.7392364,-104.984862
+451782,966361698,"Delta Air Lines Inc.-San Francisco, CA-Atlanta, GA Total Total",Delta Air Lines Inc.,"San Francisco, CA","Atlanta, GA",37.7792588,-122.4193286,33.7544657,-84.3898151
+443733,266580017,"United Air Lines Inc.-Chicago, IL-Washington, DC Total Total",United Air Lines Inc.,"Chicago, IL","Washington, DC",41.8755616,-87.6244212,38.8950368,-77.0365427
+441084,94391976,"Delta Air Lines Inc.-Nashville, TN-Atlanta, GA Total Total",Delta Air Lines Inc.,"Nashville, TN","Atlanta, GA",36.1622767,-86.7742984,33.7544657,-84.3898151
+439669,316122011,"United Air Lines Inc.-Chicago, IL-Newark, NJ Total Total",United Air Lines Inc.,"Chicago, IL","Newark, NJ",41.8755616,-87.6244212,40.735657,-74.1723667
+435526,93202564,"Delta Air Lines Inc.-Atlanta, GA-Nashville, TN Total Total",Delta Air Lines Inc.,"Atlanta, GA","Nashville, TN",33.7544657,-84.3898151,36.1622767,-86.7742984
+433926,406154736,"American Airlines Inc.-Charlotte, NC-Dallas/Fort Worth, TX Total Total",American Airlines Inc.,"Charlotte, NC","Dallas/Fort Worth, TX",35.2272086,-80.8430827,32.8369894,-97.033926
+430515,258833981,"United Air Lines Inc.-Washington, DC-Chicago, IL Total Total",United Air Lines Inc.,"Washington, DC","Chicago, IL",38.8950368,-77.0365427,41.8755616,-87.6244212
+428340,651505140,"Southwest Airlines Co.-Las Vegas, NV-Chicago, IL Total Total",Southwest Airlines Co.,"Las Vegas, NV","Chicago, IL",36.1674263,-115.1484131,41.8755616,-87.6244212
+428071,934050922,"Delta Air Lines Inc.-Seattle, WA-Atlanta, GA Total Total",Delta Air Lines Inc.,"Seattle, WA","Atlanta, GA",47.6038321,-122.330062,33.7544657,-84.3898151
+427424,400068864,"American Airlines Inc.-Dallas/Fort Worth, TX-Charlotte, NC Total Total",American Airlines Inc.,"Dallas/Fort Worth, TX","Charlotte, NC",32.8369894,-97.033926,35.2272086,-80.8430827
+426895,931484890,"Delta Air Lines Inc.-Atlanta, GA-Seattle, WA Total Total",Delta Air Lines Inc.,"Atlanta, GA","Seattle, WA",33.7544657,-84.3898151,47.6038321,-122.330062
+426738,306824622,"United Air Lines Inc.-Newark, NJ-Chicago, IL Total Total",United Air Lines Inc.,"Newark, NJ","Chicago, IL",40.735657,-74.1723667,41.8755616,-87.6244212
+425914,231185383,"American Airlines Inc.-Charlotte, NC-New York, NY Total Total",American Airlines Inc.,"Charlotte, NC","New York, NY",35.2272086,-80.8430827,40.7127281,-74.0060152
+425853,369214551,"American Airlines Inc.-Chicago, IL-Boston, MA Total Total",American Airlines Inc.,"Chicago, IL","Boston, MA",41.8755616,-87.6244212,42.3554334,-71.060511
+425484,510155316,"Delta Air Lines Inc.-Atlanta, GA-Denver, CO Total Total",Delta Air Lines Inc.,"Atlanta, GA","Denver, CO",33.7544657,-84.3898151,39.7392364,-104.984862
+425243,509866357,"Delta Air Lines Inc.-Denver, CO-Atlanta, GA Total Total",Delta Air Lines Inc.,"Denver, CO","Atlanta, GA",39.7392364,-104.984862,33.7544657,-84.3898151
+424318,230333560,"American Airlines Inc.-New York, NY-Charlotte, NC Total Total",American Airlines Inc.,"New York, NY","Charlotte, NC",40.7127281,-74.0060152,35.2272086,-80.8430827
+422346,508926930,"American Airlines Inc.-Dallas/Fort Worth, TX-Santa Ana, CA Total Total",American Airlines Inc.,"Dallas/Fort Worth, TX","Santa Ana, CA",32.8369894,-97.033926,33.7494951,-117.873221
+420677,639849717,"Southwest Airlines Co.-Chicago, IL-Las Vegas, NV Total Total",Southwest Airlines Co.,"Chicago, IL","Las Vegas, NV",41.8755616,-87.6244212,36.1674263,-115.1484131
+420558,364623786,"Alaska Airlines Inc.-Seattle, WA-Las Vegas, NV Total Total",Alaska Airlines Inc.,"Seattle, WA","Las Vegas, NV",47.6038321,-122.330062,36.1674263,-115.1484131
+419900,697034000,"American Airlines Inc.-Seattle, WA-Dallas/Fort Worth, TX Total Total",American Airlines Inc.,"Seattle, WA","Dallas/Fort Worth, TX",47.6038321,-122.330062,32.8369894,-97.033926
+419392,505367360,"American Airlines Inc.-Santa Ana, CA-Dallas/Fort Worth, TX Total Total",American Airlines Inc.,"Santa Ana, CA","Dallas/Fort Worth, TX",33.7494951,-117.873221,32.8369894,-97.033926
+419362,139228184,"Delta Air Lines Inc.-Atlanta, GA-Memphis, TN Total Total",Delta Air Lines Inc.,"Atlanta, GA","Memphis, TN",33.7544657,-84.3898151,35.1460249,-90.0517638
+417945,386599125,"Southwest Airlines Co.-Baltimore, MD-Fort Lauderdale, FL Total Total",Southwest Airlines Co.,"Baltimore, MD","Fort Lauderdale, FL",39.2908816,-76.610759,26.1223084,-80.1433786
+417901,693715660,"American Airlines Inc.-Dallas/Fort Worth, TX-Seattle, WA Total Total",American Airlines Inc.,"Dallas/Fort Worth, TX","Seattle, WA",32.8369894,-97.033926,47.6038321,-122.330062
+417465,361942155,"American Airlines Inc.-Boston, MA-Chicago, IL Total Total",American Airlines Inc.,"Boston, MA","Chicago, IL",42.3554334,-71.060511,41.8755616,-87.6244212
+417169,385881325,"Southwest Airlines Co.-Fort Lauderdale, FL-Baltimore, MD Total Total",Southwest Airlines Co.,"Fort Lauderdale, FL","Baltimore, MD",26.1223084,-80.1433786,39.2908816,-76.610759
+416724,499989576,"United Air Lines Inc.-Houston, TX-Washington, DC Total Total",United Air Lines Inc.,"Houston, TX","Washington, DC",29.7589382,-95.3676974,38.8950368,-77.0365427
+416319,138217908,"Delta Air Lines Inc.-Memphis, TN-Atlanta, GA Total Total",Delta Air Lines Inc.,"Memphis, TN","Atlanta, GA",35.1460249,-90.0517638,33.7544657,-84.3898151
+415590,498554706,"United Air Lines Inc.-Washington, DC-Houston, TX Total Total",United Air Lines Inc.,"Washington, DC","Houston, TX",38.8950368,-77.0365427,29.7589382,-95.3676974
+415002,326606574,"Southwest Airlines Co.-Orlando, FL-Baltimore, MD Total Total",Southwest Airlines Co.,"Orlando, FL","Baltimore, MD",28.5421109,-81.3790304,39.2908816,-76.610759
+414464,359340288,"Alaska Airlines Inc.-Las Vegas, NV-Seattle, WA Total Total",Alaska Airlines Inc.,"Las Vegas, NV","Seattle, WA",36.1674263,-115.1484131,47.6038321,-122.330062
+413275,325247425,"Southwest Airlines Co.-Baltimore, MD-Orlando, FL Total Total",Southwest Airlines Co.,"Baltimore, MD","Orlando, FL",39.2908816,-76.610759,28.5421109,-81.3790304
+411321,631377735,"Delta Air Lines Inc.-Minneapolis, MN-Los Angeles, CA Total Total",Delta Air Lines Inc.,"Minneapolis, MN","Los Angeles, CA",44.9772995,-93.2654692,34.0536909,-118.242766
+409698,106111782,"Delta Air Lines Inc.-Charleston, SC-Atlanta, GA Total Total",Delta Air Lines Inc.,"Charleston, SC","Atlanta, GA",32.7884363,-79.9399309,33.7544657,-84.3898151
+407483,303982318,"Delta Air Lines Inc.-Atlanta, GA-Newark, NJ Total Total",Delta Air Lines Inc.,"Atlanta, GA","Newark, NJ",33.7544657,-84.3898151,40.735657,-74.1723667
+406257,2782454193,"Emirates-Dubai, United Arab Emirates-New York, NY Total Total",Emirates,"Dubai, United Arab Emirates","New York, NY",25.0742823,55.1885387,40.7127281,-74.0060152
+405438,105008442,"Delta Air Lines Inc.-Atlanta, GA-Charleston, SC Total Total",Delta Air Lines Inc.,"Atlanta, GA","Charleston, SC",33.7544657,-84.3898151,32.7884363,-79.9399309
+404051,104245158,"Southwest Airlines Co.-Las Vegas, NV-San Diego, CA Total Total",Southwest Airlines Co.,"Las Vegas, NV","San Diego, CA",36.1674263,-115.1484131,32.7174202,-117.162772
+403418,619246630,"Delta Air Lines Inc.-Los Angeles, CA-Minneapolis, MN Total Total",Delta Air Lines Inc.,"Los Angeles, CA","Minneapolis, MN",34.0536909,-118.242766,44.9772995,-93.2654692
+402984,300626064,"Delta Air Lines Inc.-Newark, NJ-Atlanta, GA Total Total",Delta Air Lines Inc.,"Newark, NJ","Atlanta, GA",40.735657,-74.1723667,33.7544657,-84.3898151
+402911,440479080,"Delta Air Lines Inc.-New York, NY-Miami, FL Total Total",Delta Air Lines Inc.,"New York, NY","Miami, FL",40.7127281,-74.0060152,25.7741728,-80.19362
+402624,103876992,"Southwest Airlines Co.-San Diego, CA-Las Vegas, NV Total Total",Southwest Airlines Co.,"San Diego, CA","Las Vegas, NV",32.7174202,-117.162772,36.1674263,-115.1484131
+401677,130545025,"Southwest Airlines Co.-Oakland, CA-Burbank, CA Total Total",Southwest Airlines Co.,"Oakland, CA","Burbank, CA",37.8044557,-122.271356,34.1812089,-118.307201
+400845,173165040,"Delta Air Lines Inc.-Indianapolis, IN-Atlanta, GA Total Total",Delta Air Lines Inc.,"Indianapolis, IN","Atlanta, GA",39.7683331,-86.1583502,33.7544657,-84.3898151
+399227,129748775,"Southwest Airlines Co.-Burbank, CA-Oakland, CA Total Total",Southwest Airlines Co.,"Burbank, CA","Oakland, CA",34.1812089,-118.307201,37.8044557,-122.271356
+398841,172299312,"Delta Air Lines Inc.-Atlanta, GA-Indianapolis, IN Total Total",Delta Air Lines Inc.,"Atlanta, GA","Indianapolis, IN",33.7544657,-84.3898151,39.7683331,-86.1583502
+398314,1374581614,"Virgin Atlantic Airways-London, United Kingdom-New York, NY Total Total",Virgin Atlantic Airways,"London, United Kingdom","New York, NY",51.4893335,-0.1440551,40.7127281,-74.0060152
+395996,93455056,"Southwest Airlines Co.-Los Angeles, CA-Las Vegas, NV Total Total",Southwest Airlines Co.,"Los Angeles, CA","Las Vegas, NV",34.0536909,-118.242766,36.1674263,-115.1484131
+395861,432793020,"Delta Air Lines Inc.-Miami, FL-New York, NY Total Total",Delta Air Lines Inc.,"Miami, FL","New York, NY",25.7741728,-80.19362,40.7127281,-74.0060152
+395080,412858600,"American Airlines Inc.-San Juan, PR-Miami, FL Total Total",American Airlines Inc.,"San Juan, PR","Miami, FL",18.384239,-66.05344,25.7741728,-80.19362
+395035,552653965,"Delta Air Lines Inc.-Minneapolis, MN-Seattle, WA Total Total",Delta Air Lines Inc.,"Minneapolis, MN","Seattle, WA",44.9772995,-93.2654692,47.6038321,-122.330062
+394699,288524969,"American Airlines Inc.-Atlanta, GA-Dallas/Fort Worth, TX Total Total",American Airlines Inc.,"Atlanta, GA","Dallas/Fort Worth, TX",33.7544657,-84.3898151,32.8369894,-97.033926
+393755,92926180,"Southwest Airlines Co.-Las Vegas, NV-Los Angeles, CA Total Total",Southwest Airlines Co.,"Las Vegas, NV","Los Angeles, CA",36.1674263,-115.1484131,34.0536909,-118.242766
+391701,2682760149,"Emirates-New York, NY-Dubai, United Arab Emirates Total Total",Emirates,"New York, NY","Dubai, United Arab Emirates",40.7127281,-74.0060152,25.0742823,55.1885387
+391519,337489378,"United Air Lines Inc.-Denver, CO-Los Angeles, CA Total Total",United Air Lines Inc.,"Denver, CO","Los Angeles, CA",39.7392364,-104.984862,34.0536909,-118.242766
+391361,337353182,"United Air Lines Inc.-Los Angeles, CA-Denver, CO Total Total",United Air Lines Inc.,"Los Angeles, CA","Denver, CO",34.0536909,-118.242766,39.7392364,-104.984862
+390237,285263247,"American Airlines Inc.-Dallas/Fort Worth, TX-Atlanta, GA Total Total",American Airlines Inc.,"Dallas/Fort Worth, TX","Atlanta, GA",32.8369894,-97.033926,33.7544657,-84.3898151
+390049,1346059099,"Virgin Atlantic Airways-New York, NY-London, United Kingdom Total Total",Virgin Atlantic Airways,"New York, NY","London, United Kingdom",40.7127281,-74.0060152,51.4893335,-0.1440551
+389492,348595340,"Southwest Airlines Co.-Chicago, IL-Denver, CO Total Total",Southwest Airlines Co.,"Chicago, IL","Denver, CO",41.8755616,-87.6244212,39.7392364,-104.984862
+388197,405665865,"American Airlines Inc.-Miami, FL-San Juan, PR Total Total",American Airlines Inc.,"Miami, FL","San Juan, PR",25.7741728,-80.19362,18.384239,-66.05344
+388071,268544516,"Delta Air Lines Inc.-Atlanta, GA-Kansas City, MO Total Total",Delta Air Lines Inc.,"Atlanta, GA","Kansas City, MO",33.7544657,-84.3898151,39.100105,-94.5781416
+388047,186650607,"Delta Air Lines Inc.-Richmond, VA-Atlanta, GA Total Total",Delta Air Lines Inc.,"Richmond, VA","Atlanta, GA",37.5385087,-77.43428,33.7544657,-84.3898151
+386783,172505218,"Southwest Airlines Co.-San Diego, CA-Oakland, CA Total Total",Southwest Airlines Co.,"San Diego, CA","Oakland, CA",32.7174202,-117.162772,37.8044557,-122.271356
+386726,370096782,"Delta Air Lines Inc.-Detroit, MI-Orlando, FL Total Total",Delta Air Lines Inc.,"Detroit, MI","Orlando, FL",42.3315509,-83.0466403,28.5421109,-81.3790304
+385490,186577160,"Delta Air Lines Inc.-St. Louis, MO-Atlanta, GA Total Total",Delta Air Lines Inc.,"St. Louis, MO","Atlanta, GA",38.6280278,-90.1910154,33.7544657,-84.3898151
+385332,484747656,"American Airlines Inc.-Miami, FL-Boston, MA Total Total",American Airlines Inc.,"Miami, FL","Boston, MA",25.7741728,-80.19362,42.3554334,-71.060511
+384983,560199828,"United Air Lines Inc.-Denver, CO-Washington, DC Total Total",United Air Lines Inc.,"Denver, CO","Washington, DC",39.7392364,-104.984862,38.8950368,-77.0365427
+384205,265869860,"Delta Air Lines Inc.-Kansas City, MO-Atlanta, GA Total Total",Delta Air Lines Inc.,"Kansas City, MO","Atlanta, GA",39.100105,-94.5781416,33.7544657,-84.3898151
+384185,537474764,"Delta Air Lines Inc.-Seattle, WA-Minneapolis, MN Total Total",Delta Air Lines Inc.,"Seattle, WA","Minneapolis, MN",47.6038321,-122.330062,44.9772995,-93.2654692
+384169,184785289,"Delta Air Lines Inc.-Atlanta, GA-Richmond, VA Total Total",Delta Air Lines Inc.,"Atlanta, GA","Richmond, VA",33.7544657,-84.3898151,37.5385087,-77.43428
+384009,185859149,"Delta Air Lines Inc.-Atlanta, GA-St. Louis, MO Total Total",Delta Air Lines Inc.,"Atlanta, GA","St. Louis, MO",33.7544657,-84.3898151,38.6280278,-90.1910154
+383748,558441624,"United Air Lines Inc.-Washington, DC-Denver, CO Total Total",United Air Lines Inc.,"Washington, DC","Denver, CO",38.8950368,-77.0365427,39.7392364,-104.984862
+383021,947976975,"JetBlue Airways-Los Angeles, CA-New York, NY Total Total",JetBlue Airways,"Los Angeles, CA","New York, NY",34.0536909,-118.242766,40.7127281,-74.0060152
+381665,365253405,"Delta Air Lines Inc.-Orlando, FL-Detroit, MI Total Total",Delta Air Lines Inc.,"Orlando, FL","Detroit, MI",28.5421109,-81.3790304,42.3315509,-83.0466403
+380623,340657585,"Southwest Airlines Co.-Denver, CO-Chicago, IL Total Total",Southwest Airlines Co.,"Denver, CO","Chicago, IL",39.7392364,-104.984862,41.8755616,-87.6244212
+380205,324695070,"United Air Lines Inc.-Orlando, FL-Houston, TX Total Total",United Air Lines Inc.,"Orlando, FL","Houston, TX",28.5421109,-81.3790304,29.7589382,-95.3676974
+378939,937874025,"JetBlue Airways-New York, NY-Los Angeles, CA Total Total",JetBlue Airways,"New York, NY","Los Angeles, CA",40.7127281,-74.0060152,34.0536909,-118.242766
+378702,127622574,"Southwest Airlines Co.-Los Angeles, CA-Oakland, CA Total Total",Southwest Airlines Co.,"Los Angeles, CA","Oakland, CA",34.0536909,-118.242766,37.8044557,-122.271356
+378683,387141216,"Delta Air Lines Inc.-New York, NY-Minneapolis, MN Total Total",Delta Air Lines Inc.,"New York, NY","Minneapolis, MN",40.7127281,-74.0060152,44.9772995,-93.2654692
+378302,386732886,"Delta Air Lines Inc.-Minneapolis, MN-New York, NY Total Total",Delta Air Lines Inc.,"Minneapolis, MN","New York, NY",44.9772995,-93.2654692,40.7127281,-74.0060152
+377267,50553778,"Delta Air Lines Inc.-Birmingham, AL-Atlanta, GA Total Total",Delta Air Lines Inc.,"Birmingham, AL","Atlanta, GA",33.5206824,-86.8024326,33.7544657,-84.3898151
+376549,167940854,"Southwest Airlines Co.-Oakland, CA-San Diego, CA Total Total",Southwest Airlines Co.,"Oakland, CA","San Diego, CA",37.8044557,-122.271356,32.7174202,-117.162772
+376464,126868368,"Southwest Airlines Co.-Oakland, CA-Los Angeles, CA Total Total",Southwest Airlines Co.,"Oakland, CA","Los Angeles, CA",37.8044557,-122.271356,34.0536909,-118.242766
+375878,472854524,"American Airlines Inc.-Boston, MA-Miami, FL Total Total",American Airlines Inc.,"Boston, MA","Miami, FL",42.3554334,-71.060511,25.7741728,-80.19362
+375853,1016306512,"United Air Lines Inc.-San Francisco, CA-Boston, MA Total Total",United Air Lines Inc.,"San Francisco, CA","Boston, MA",37.7792588,-122.4193286,42.3554334,-71.060511
+375072,95643360,"Southwest Airlines Co.-Las Vegas, NV-Phoenix, AZ Total Total",Southwest Airlines Co.,"Las Vegas, NV","Phoenix, AZ",36.1674263,-115.1484131,33.4484367,-112.074141
+374385,926601423,"American Airlines Inc.-Los Angeles, CA-New York, NY Total Total",American Airlines Inc.,"Los Angeles, CA","New York, NY",34.0536909,-118.242766,40.7127281,-74.0060152
+374141,925996743,"American Airlines Inc.-New York, NY-Los Angeles, CA Total Total",American Airlines Inc.,"New York, NY","Los Angeles, CA",40.7127281,-74.0060152,34.0536909,-118.242766
+373568,113564672,"Southwest Airlines Co.-San Diego, CA-Phoenix, AZ Total Total",Southwest Airlines Co.,"San Diego, CA","Phoenix, AZ",32.7174202,-117.162772,33.4484367,-112.074141
+373362,318851148,"United Air Lines Inc.-Houston, TX-Orlando, FL Total Total",United Air Lines Inc.,"Houston, TX","Orlando, FL",29.7589382,-95.3676974,28.5421109,-81.3790304
+372913,125671681,"Virgin America-Los Angeles, CA-San Francisco, CA Total Total",Virgin America,"Los Angeles, CA","San Francisco, CA",34.0536909,-118.242766,37.7792588,-122.4193286
+372369,383924194,"JetBlue Airways-New York, NY-West Palm Beach/Palm Beach, FL Total Total",JetBlue Airways,"New York, NY","West Palm Beach/Palm Beach, FL",40.7127281,-74.0060152,26.715364,-80.0532942
+372110,49862740,"Delta Air Lines Inc.-Atlanta, GA-Birmingham, AL Total Total",Delta Air Lines Inc.,"Atlanta, GA","Birmingham, AL",33.7544657,-84.3898151,33.5206824,-86.8024326
+371764,153910296,"United Air Lines Inc.-Las Vegas, NV-San Francisco, CA Total Total",United Air Lines Inc.,"Las Vegas, NV","San Francisco, CA",36.1674263,-115.1484131,37.7792588,-122.4193286
+371688,94780440,"Southwest Airlines Co.-Phoenix, AZ-Las Vegas, NV Total Total",Southwest Airlines Co.,"Phoenix, AZ","Las Vegas, NV",33.4484367,-112.074141,36.1674263,-115.1484131
+371152,1003595008,"United Air Lines Inc.-Boston, MA-San Francisco, CA Total Total",United Air Lines Inc.,"Boston, MA","San Francisco, CA",42.3554334,-71.060511,37.7792588,-122.4193286
+370477,381956083,"JetBlue Airways-West Palm Beach/Palm Beach, FL-New York, NY Total Total",JetBlue Airways,"West Palm Beach/Palm Beach, FL","New York, NY",26.715364,-80.0532942,40.7127281,-74.0060152
+369669,190749204,"Delta Air Lines Inc.-Atlanta, GA-Norfolk, VA Total Total",Delta Air Lines Inc.,"Atlanta, GA","Norfolk, VA",33.7544657,-84.3898151,36.8493695,-76.2899539
+368215,78798010,"Delta Air Lines Inc.-Atlanta, GA-Savannah, GA Total Total",Delta Air Lines Inc.,"Atlanta, GA","Savannah, GA",33.7544657,-84.3898151,32.0790074,-81.0921335
+367855,111827920,"Southwest Airlines Co.-Phoenix, AZ-San Diego, CA Total Total",Southwest Airlines Co.,"Phoenix, AZ","San Diego, CA",33.4484367,-112.074141,32.7174202,-117.162772
+367226,193895328,"Delta Air Lines Inc.-Minneapolis, MN-Detroit, MI Total Total",Delta Air Lines Inc.,"Minneapolis, MN","Detroit, MI",44.9772995,-93.2654692,42.3315509,-83.0466403
+366632,572679184,"American Airlines Inc.-Dallas/Fort Worth, TX-Boston, MA Total Total",American Airlines Inc.,"Dallas/Fort Worth, TX","Boston, MA",32.8369894,-97.033926,42.3554334,-71.060511
+366588,67817316,"Delta Air Lines Inc.-New York, NY-Boston, MA Total Total",Delta Air Lines Inc.,"New York, NY","Boston, MA",40.7127281,-74.0060152,42.3554334,-71.060511
+366532,216253880,"Delta Air Lines Inc.-Salt Lake City, UT-Los Angeles, CA Total Total",Delta Air Lines Inc.,"Salt Lake City, UT","Los Angeles, CA",40.7596198,-111.886797,34.0536909,-118.242766
+365953,78313942,"Delta Air Lines Inc.-Savannah, GA-Atlanta, GA Total Total",Delta Air Lines Inc.,"Savannah, GA","Atlanta, GA",32.0790074,-81.0921335,33.7544657,-84.3898151
+364842,569883204,"American Airlines Inc.-Boston, MA-Dallas/Fort Worth, TX Total Total",American Airlines Inc.,"Boston, MA","Dallas/Fort Worth, TX",42.3554334,-71.060511,32.8369894,-97.033926
+364833,361184670,"Southwest Airlines Co.-Orlando, FL-Chicago, IL Total Total",Southwest Airlines Co.,"Orlando, FL","Chicago, IL",28.5421109,-81.3790304,41.8755616,-87.6244212
+364583,360937170,"Southwest Airlines Co.-Chicago, IL-Orlando, FL Total Total",Southwest Airlines Co.,"Chicago, IL","Orlando, FL",41.8755616,-87.6244212,28.5421109,-81.3790304
+364293,67396530,"Delta Air Lines Inc.-Boston, MA-New York, NY Total Total",Delta Air Lines Inc.,"Boston, MA","New York, NY",42.3554334,-71.060511,40.7127281,-74.0060152
+363720,187679520,"Delta Air Lines Inc.-Norfolk, VA-Atlanta, GA Total Total",Delta Air Lines Inc.,"Norfolk, VA","Atlanta, GA",36.8493695,-76.2899539,33.7544657,-84.3898151
+363550,687836600,"Delta Air Lines Inc.-San Diego, CA-Atlanta, GA Total Total",Delta Air Lines Inc.,"San Diego, CA","Atlanta, GA",32.7174202,-117.162772,33.7544657,-84.3898151
+363197,162349059,"Delta Air Lines Inc.-Atlanta, GA-Columbus, OH Total Total",Delta Air Lines Inc.,"Atlanta, GA","Columbus, OH",33.7544657,-84.3898151,39.9622601,-83.0007065
+362913,197056686,"US Airways Inc.-Charlotte, NC-New York, NY Total Total",US Airways Inc.,"Charlotte, NC","New York, NY",35.2272086,-80.8430827,40.7127281,-74.0060152
+362842,122277754,"Virgin America-San Francisco, CA-Los Angeles, CA Total Total",Virgin America,"San Francisco, CA","Los Angeles, CA",37.7792588,-122.4193286,34.0536909,-118.242766
+362559,191431152,"Delta Air Lines Inc.-Detroit, MI-Minneapolis, MN Total Total",Delta Air Lines Inc.,"Detroit, MI","Minneapolis, MN",42.3315509,-83.0466403,44.9772995,-93.2654692
+362459,829310056,"United Air Lines Inc.-Los Angeles, CA-Washington, DC Total Total",United Air Lines Inc.,"Los Angeles, CA","Washington, DC",34.0536909,-118.242766,38.8950368,-77.0365427
+361394,826876809,"United Air Lines Inc.-Washington, DC-Los Angeles, CA Total Total",United Air Lines Inc.,"Washington, DC","Los Angeles, CA",38.8950368,-77.0365427,34.0536909,-118.242766
+361000,293493000,"Delta Air Lines Inc.-Atlanta, GA-Austin, TX Total Total",Delta Air Lines Inc.,"Atlanta, GA","Austin, TX",33.7544657,-84.3898151,30.2711286,-97.7436995
+360128,314751872,"Delta Air Lines Inc.-Atlanta, GA-San Antonio, TX Total Total",Delta Air Lines Inc.,"Atlanta, GA","San Antonio, TX",33.7544657,-84.3898151,29.4246002,-98.4951405
+360041,160938327,"Delta Air Lines Inc.-Columbus, OH-Atlanta, GA Total Total",Delta Air Lines Inc.,"Columbus, OH","Atlanta, GA",39.9622601,-83.0007065,33.7544657,-84.3898151
+359934,680995128,"Delta Air Lines Inc.-Atlanta, GA-San Diego, CA Total Total",Delta Air Lines Inc.,"Atlanta, GA","San Diego, CA",33.7544657,-84.3898151,32.7174202,-117.162772
+357740,466135220,"American Airlines Inc.-Philadelphia, PA-Dallas/Fort Worth, TX Total Total",American Airlines Inc.,"Philadelphia, PA","Dallas/Fort Worth, TX",39.9527237,-75.1635262,32.8369894,-97.033926
+357062,515597528,"Southwest Airlines Co.-Chicago, IL-Phoenix, AZ Total Total",Southwest Airlines Co.,"Chicago, IL","Phoenix, AZ",41.8755616,-87.6244212,33.4484367,-112.074141
+356800,290078400,"Delta Air Lines Inc.-Austin, TX-Atlanta, GA Total Total",Delta Air Lines Inc.,"Austin, TX","Atlanta, GA",30.2711286,-97.7436995,33.7544657,-84.3898151
+355799,310968326,"Delta Air Lines Inc.-San Antonio, TX-Atlanta, GA Total Total",Delta Air Lines Inc.,"San Antonio, TX","Atlanta, GA",29.4246002,-98.4951405,33.7544657,-84.3898151
+355721,463504463,"American Airlines Inc.-Dallas/Fort Worth, TX-Philadelphia, PA Total Total",American Airlines Inc.,"Dallas/Fort Worth, TX","Philadelphia, PA",32.8369894,-97.033926,39.9527237,-75.1635262
+355714,122721330,"Southwest Airlines Co.-Las Vegas, NV-Reno, NV Total Total",Southwest Airlines Co.,"Las Vegas, NV","Reno, NV",36.1674263,-115.1484131,39.5261206,-119.8126581
+355694,122714430,"Southwest Airlines Co.-Reno, NV-Las Vegas, NV Total Total",Southwest Airlines Co.,"Reno, NV","Las Vegas, NV",39.5261206,-119.8126581,36.1674263,-115.1484131
+355541,513401204,"Southwest Airlines Co.-Phoenix, AZ-Chicago, IL Total Total",Southwest Airlines Co.,"Phoenix, AZ","Chicago, IL",33.4484367,-112.074141,41.8755616,-87.6244212
+355456,147158784,"United Air Lines Inc.-San Francisco, CA-Las Vegas, NV Total Total",United Air Lines Inc.,"San Francisco, CA","Las Vegas, NV",37.7792588,-122.4193286,36.1674263,-115.1484131
+355445,193011530,"US Airways Inc.-New York, NY-Charlotte, NC Total Total",US Airways Inc.,"New York, NY","Charlotte, NC",40.7127281,-74.0060152,35.2272086,-80.8430827
+354631,209232290,"Delta Air Lines Inc.-Los Angeles, CA-Salt Lake City, UT Total Total",Delta Air Lines Inc.,"Los Angeles, CA","Salt Lake City, UT",34.0536909,-118.242766,40.7596198,-111.886797
+353619,130485411,"Southwest Airlines Co.-Baltimore, MD-Boston, MA Total Total",Southwest Airlines Co.,"Baltimore, MD","Boston, MA",39.2908816,-76.610759,42.3554334,-71.060511
+353608,240100632,"Alaska Airlines Inc.-Seattle, WA-San Francisco, CA Total Total",Alaska Airlines Inc.,"Seattle, WA","San Francisco, CA",47.6038321,-122.330062,37.7792588,-122.4193286
+353334,147340278,"Southwest Airlines Co.-San Diego, CA-San Jose, CA Total Total",Southwest Airlines Co.,"San Diego, CA","San Jose, CA",32.7174202,-117.162772,37.3361663,-121.890591
+352611,130113459,"Southwest Airlines Co.-Boston, MA-Baltimore, MD Total Total",Southwest Airlines Co.,"Boston, MA","Baltimore, MD",42.3554334,-71.060511,39.2908816,-76.610759
+352492,378280518,"Delta Air Lines Inc.-New York, NY-Fort Lauderdale, FL Total Total",Delta Air Lines Inc.,"New York, NY","Fort Lauderdale, FL",40.7127281,-74.0060152,26.1223084,-80.1433786
+351710,70342000,"United Air Lines Inc.-Newark, NJ-Boston, MA Total Total",United Air Lines Inc.,"Newark, NJ","Boston, MA",40.735657,-74.1723667,42.3554334,-71.060511
+350937,146340729,"Southwest Airlines Co.-San Jose, CA-San Diego, CA Total Total",Southwest Airlines Co.,"San Jose, CA","San Diego, CA",37.3361663,-121.890591,32.7174202,-117.162772
+350474,376116752,"Delta Air Lines Inc.-Fort Lauderdale, FL-New York, NY Total Total",Delta Air Lines Inc.,"Fort Lauderdale, FL","New York, NY",26.1223084,-80.1433786,40.7127281,-74.0060152
+350212,184211512,"Delta Air Lines Inc.-Pittsburgh, PA-Atlanta, GA Total Total",Delta Air Lines Inc.,"Pittsburgh, PA","Atlanta, GA",40.4416941,-79.9900861,33.7544657,-84.3898151
+349898,237581537,"Alaska Airlines Inc.-San Francisco, CA-Seattle, WA Total Total",Alaska Airlines Inc.,"San Francisco, CA","Seattle, WA",37.7792588,-122.4193286,47.6038321,-122.330062
+347429,687561991,"Delta Air Lines Inc.-Los Angeles, CA-Detroit, MI Total Total",Delta Air Lines Inc.,"Los Angeles, CA","Detroit, MI",34.0536909,-118.242766,42.3315509,-83.0466403
+346964,218934284,"American Airlines Inc.-Nashville, TN-Dallas/Fort Worth, TX Total Total",American Airlines Inc.,"Nashville, TN","Dallas/Fort Worth, TX",36.1622767,-86.7742984,32.8369894,-97.033926
+346774,550330338,"Delta Air Lines Inc.-Atlanta, GA-Phoenix, AZ Total Total",Delta Air Lines Inc.,"Atlanta, GA","Phoenix, AZ",33.7544657,-84.3898151,33.4484367,-112.074141
+345797,139061867,"JetBlue Airways-Washington, DC-Boston, MA Total Total",JetBlue Airways,"Washington, DC","Boston, MA",38.8950368,-77.0365427,42.3554334,-71.060511
+345571,288206214,"Alaska Airlines Inc.-Portland, OR-Los Angeles, CA Total Total",Alaska Airlines Inc.,"Portland, OR","Los Angeles, CA",45.5202471,-122.674194,34.0536909,-118.242766
+345327,138830979,"JetBlue Airways-Boston, MA-Washington, DC Total Total",JetBlue Airways,"Boston, MA","Washington, DC",42.3554334,-71.060511,38.8950368,-77.0365427
+344816,205465088,"Southwest Airlines Co.-Washington, DC-Chicago, IL Total Total",Southwest Airlines Co.,"Washington, DC","Chicago, IL",38.8950368,-77.0365427,41.8755616,-87.6244212
+344720,216484160,"Southwest Airlines Co.-Denver, CO-Las Vegas, NV Total Total",Southwest Airlines Co.,"Denver, CO","Las Vegas, NV",39.7392364,-104.984862,36.1674263,-115.1484131
+344361,825777678,"United Air Lines Inc.-San Francisco, CA-Honolulu, HI Total Total",United Air Lines Inc.,"San Francisco, CA","Honolulu, HI",37.7792588,-122.4193286,21.304547,-157.855676
+342665,139464655,"Southwest Airlines Co.-Las Vegas, NV-Oakland, CA Total Total",Southwest Airlines Co.,"Las Vegas, NV","Oakland, CA",36.1674263,-115.1484131,37.8044557,-122.271356
+342153,84853944,"Southwest Airlines Co.-San Antonio, TX-Dallas, TX Total Total",Southwest Airlines Co.,"San Antonio, TX","Dallas, TX",29.4246002,-98.4951405,32.7762719,-96.7968559
+341822,542471514,"Delta Air Lines Inc.-Phoenix, AZ-Atlanta, GA Total Total",Delta Air Lines Inc.,"Phoenix, AZ","Atlanta, GA",33.4484367,-112.074141,33.7544657,-84.3898151
+341556,64554084,"Southwest Airlines Co.-Austin, TX-Dallas, TX Total Total",Southwest Airlines Co.,"Austin, TX","Dallas, TX",30.2711286,-97.7436995,32.7762719,-96.7968559
+341444,284764296,"Alaska Airlines Inc.-Los Angeles, CA-Portland, OR Total Total",Alaska Airlines Inc.,"Los Angeles, CA","Portland, OR",34.0536909,-118.242766,45.5202471,-122.674194
+340603,234675467,"Delta Air Lines Inc.-Salt Lake City, UT-Seattle, WA Total Total",Delta Air Lines Inc.,"Salt Lake City, UT","Seattle, WA",40.7596198,-111.886797,47.6038321,-122.330062
+340560,179134560,"Delta Air Lines Inc.-Atlanta, GA-Pittsburgh, PA Total Total",Delta Air Lines Inc.,"Atlanta, GA","Pittsburgh, PA",33.7544657,-84.3898151,40.4416941,-79.9900861
+340463,138568441,"Southwest Airlines Co.-Oakland, CA-Las Vegas, NV Total Total",Southwest Airlines Co.,"Oakland, CA","Las Vegas, NV",37.8044557,-122.271356,36.1674263,-115.1484131
+340360,214767160,"American Airlines Inc.-Dallas/Fort Worth, TX-Nashville, TN Total Total",American Airlines Inc.,"Dallas/Fort Worth, TX","Nashville, TN",32.8369894,-97.033926,36.1622767,-86.7742984
+339821,92091491,"Delta Air Lines Inc.-Pensacola, FL-Atlanta, GA Total Total",Delta Air Lines Inc.,"Pensacola, FL","Atlanta, GA",30.421309,-87.2169149,33.7544657,-84.3898151
+339587,131080582,"Southwest Airlines Co.-Las Vegas, NV-San Jose, CA Total Total",Southwest Airlines Co.,"Las Vegas, NV","San Jose, CA",36.1674263,-115.1484131,37.3361663,-121.890591
+339122,876969492,"Delta Air Lines Inc.-San Francisco, CA-New York, NY Total Total",Delta Air Lines Inc.,"San Francisco, CA","New York, NY",37.7792588,-122.4193286,40.7127281,-74.0060152
+338937,162689760,"Southwest Airlines Co.-San Diego, CA-Sacramento, CA Total Total",Southwest Airlines Co.,"San Diego, CA","Sacramento, CA",32.7174202,-117.162772,38.5810606,-121.493895
+337889,130425154,"Southwest Airlines Co.-San Jose, CA-Las Vegas, NV Total Total",Southwest Airlines Co.,"San Jose, CA","Las Vegas, NV",37.3361663,-121.890591,36.1674263,-115.1484131
+337809,91546239,"Delta Air Lines Inc.-Atlanta, GA-Pensacola, FL Total Total",Delta Air Lines Inc.,"Atlanta, GA","Pensacola, FL",33.7544657,-84.3898151,30.421309,-87.2169149
+337307,63751023,"Southwest Airlines Co.-Dallas, TX-Austin, TX Total Total",Southwest Airlines Co.,"Dallas, TX","Austin, TX",32.7762719,-96.7968559,30.2711286,-97.7436995
+337231,292379277,"United Air Lines Inc.-Chicago, IL-Boston, MA Total Total",United Air Lines Inc.,"Chicago, IL","Boston, MA",41.8755616,-87.6244212,42.3554334,-71.060511
+337050,485352356,"American Airlines Inc.-Chicago, IL-Phoenix, AZ Total Total",American Airlines Inc.,"Chicago, IL","Phoenix, AZ",41.8755616,-87.6244212,33.4484367,-112.074141
+336671,437335629,"Delta Air Lines Inc.-Minneapolis, MN-Las Vegas, NV Total Total",Delta Air Lines Inc.,"Minneapolis, MN","Las Vegas, NV",44.9772995,-93.2654692,36.1674263,-115.1484131
+336551,666034429,"Delta Air Lines Inc.-Detroit, MI-Los Angeles, CA Total Total",Delta Air Lines Inc.,"Detroit, MI","Los Angeles, CA",42.3315509,-83.0466403,34.0536909,-118.242766
+336412,231787868,"Delta Air Lines Inc.-Seattle, WA-Salt Lake City, UT Total Total",Delta Air Lines Inc.,"Seattle, WA","Salt Lake City, UT",47.6038321,-122.330062,40.7596198,-111.886797
+336129,352935450,"Alaska Airlines Inc.-Seattle, WA-San Diego, CA Total Total",Alaska Airlines Inc.,"Seattle, WA","San Diego, CA",47.6038321,-122.330062,32.7174202,-117.162772
+335932,410508904,"United Air Lines Inc.-Houston, TX-Las Vegas, NV Total Total",United Air Lines Inc.,"Houston, TX","Las Vegas, NV",29.7589382,-95.3676974,36.1674263,-115.1484131
+335696,436069104,"Delta Air Lines Inc.-Las Vegas, NV-Minneapolis, MN Total Total",Delta Air Lines Inc.,"Las Vegas, NV","Minneapolis, MN",36.1674263,-115.1484131,44.9772995,-93.2654692
+335406,328027068,"Alaska Airlines Inc.-Seattle, WA-Santa Ana, CA Total Total",Alaska Airlines Inc.,"Seattle, WA","Santa Ana, CA",47.6038321,-122.330062,33.7494951,-117.873221
+335127,210459756,"Southwest Airlines Co.-Las Vegas, NV-Denver, CO Total Total",Southwest Airlines Co.,"Las Vegas, NV","Denver, CO",36.1674263,-115.1484131,39.7392364,-104.984862
+334248,864365328,"Delta Air Lines Inc.-New York, NY-San Francisco, CA Total Total",Delta Air Lines Inc.,"New York, NY","San Francisco, CA",40.7127281,-74.0060152,37.7792588,-122.4193286
+333817,226661743,"United Air Lines Inc.-San Francisco, CA-Seattle, WA Total Total",United Air Lines Inc.,"San Francisco, CA","Seattle, WA",37.7792588,-122.4193286,47.6038321,-122.330062
+333798,326454444,"Alaska Airlines Inc.-Santa Ana, CA-Seattle, WA Total Total",Alaska Airlines Inc.,"Santa Ana, CA","Seattle, WA",33.7494951,-117.873221,47.6038321,-122.330062
+333718,407803396,"United Air Lines Inc.-Las Vegas, NV-Houston, TX Total Total",United Air Lines Inc.,"Las Vegas, NV","Houston, TX",36.1674263,-115.1484131,29.7589382,-95.3676974
+333368,160016640,"Southwest Airlines Co.-Sacramento, CA-San Diego, CA Total Total",Southwest Airlines Co.,"Sacramento, CA","San Diego, CA",38.5810606,-121.493895,32.7174202,-117.162772
+333224,167511674,"Delta Air Lines Inc.-Detroit, MI-New York, NY Total Total",Delta Air Lines Inc.,"Detroit, MI","New York, NY",42.3315509,-83.0466403,40.7127281,-74.0060152
+332994,198604602,"Southwest Airlines Co.-Chicago, IL-Washington, DC Total Total",Southwest Airlines Co.,"Chicago, IL","Washington, DC",41.8755616,-87.6244212,38.8950368,-77.0365427
+332810,288545922,"United Air Lines Inc.-Boston, MA-Chicago, IL Total Total",United Air Lines Inc.,"Boston, MA","Chicago, IL",42.3554334,-71.060511,41.8755616,-87.6244212
+331802,348392100,"Alaska Airlines Inc.-San Diego, CA-Seattle, WA Total Total",Alaska Airlines Inc.,"San Diego, CA","Seattle, WA",32.7174202,-117.162772,47.6038321,-122.330062
+331391,113335722,"Southwest Airlines Co.-Santa Ana, CA-San Jose, CA Total Total",Southwest Airlines Co.,"Santa Ana, CA","San Jose, CA",33.7494951,-117.873221,37.3361663,-121.890591
+330022,112867524,"Southwest Airlines Co.-San Jose, CA-Santa Ana, CA Total Total",Southwest Airlines Co.,"San Jose, CA","Santa Ana, CA",37.3361663,-121.890591,33.7494951,-117.873221
+329166,65833200,"United Air Lines Inc.-Boston, MA-Newark, NJ Total Total",United Air Lines Inc.,"Boston, MA","Newark, NJ",42.3554334,-71.060511,40.735657,-74.1723667
+329022,330667110,"United Air Lines Inc.-Chicago, IL-Orlando, FL Total Total",United Air Lines Inc.,"Chicago, IL","Orlando, FL",41.8755616,-87.6244212,28.5421109,-81.3790304
+327976,472285440,"American Airlines Inc.-Phoenix, AZ-Chicago, IL Total Total",American Airlines Inc.,"Phoenix, AZ","Chicago, IL",33.4484367,-112.074141,41.8755616,-87.6244212
+325861,199426701,"American Airlines Inc.-Washington, DC-Chicago, IL Total Total",American Airlines Inc.,"Washington, DC","Chicago, IL",38.8950368,-77.0365427,41.8755616,-87.6244212
+325336,104432856,"Delta Air Lines Inc.-Louisville, KY-Atlanta, GA Total Total",Delta Air Lines Inc.,"Louisville, KY","Atlanta, GA",38.2542376,-85.759407,33.7544657,-84.3898151
+324418,80455664,"Southwest Airlines Co.-Dallas, TX-San Antonio, TX Total Total",Southwest Airlines Co.,"Dallas, TX","San Antonio, TX",32.7762719,-96.7968559,29.4246002,-98.4951405
+323870,1240156705,"Japan Air Lines Co. Ltd.-Honolulu, HI-Tokyo, Japan Total Total",Japan Air Lines Co. Ltd.,"Honolulu, HI","Tokyo, Japan",21.304547,-157.855676,35.6768601,139.7638947
+323274,219503336,"United Air Lines Inc.-Seattle, WA-San Francisco, CA Total Total",United Air Lines Inc.,"Seattle, WA","San Francisco, CA",47.6038321,-122.330062,37.7792588,-122.4193286
+322695,324308475,"United Air Lines Inc.-Orlando, FL-Chicago, IL Total Total",United Air Lines Inc.,"Orlando, FL","Chicago, IL",28.5421109,-81.3790304,41.8755616,-87.6244212
+322379,215671551,"Delta Air Lines Inc.-Atlanta, GA-Milwaukee, WI Total Total",Delta Air Lines Inc.,"Atlanta, GA","Milwaukee, WI",33.7544657,-84.3898151,43.0386475,-87.9090751
+321672,103256712,"Delta Air Lines Inc.-Atlanta, GA-Louisville, KY Total Total",Delta Air Lines Inc.,"Atlanta, GA","Louisville, KY",33.7544657,-84.3898151,38.2542376,-85.759407
+321044,114612708,"Air Canada-Toronto, Canada-New York, NY Total Total",Air Canada,"Toronto, Canada","New York, NY",43.6534817,-79.3839347,40.7127281,-74.0060152
+320993,769741214,"United Air Lines Inc.-Honolulu, HI-San Francisco, CA Total Total",United Air Lines Inc.,"Honolulu, HI","San Francisco, CA",21.304547,-157.855676,37.7792588,-122.4193286
+320511,161114957,"Delta Air Lines Inc.-New York, NY-Detroit, MI Total Total",Delta Air Lines Inc.,"New York, NY","Detroit, MI",40.7127281,-74.0060152,42.3315509,-83.0466403
+320210,114314970,"Air Canada-New York, NY-Toronto, Canada Total Total",Air Canada,"New York, NY","Toronto, Canada",40.7127281,-74.0060152,43.6534817,-79.3839347
+320165,513864825,"United Air Lines Inc.-Denver, CO-Newark, NJ Total Total",United Air Lines Inc.,"Denver, CO","Newark, NJ",39.7392364,-104.984862,40.735657,-74.1723667
+319436,1223311949,"Japan Air Lines Co. Ltd.-Tokyo, Japan-Honolulu, HI Total Total",Japan Air Lines Co. Ltd.,"Tokyo, Japan","Honolulu, HI",35.6768601,139.7638947,21.304547,-157.855676
+318879,511800795,"United Air Lines Inc.-Newark, NJ-Denver, CO Total Total",United Air Lines Inc.,"Newark, NJ","Denver, CO",40.735657,-74.1723667,39.7392364,-104.984862
+317958,505235262,"Delta Air Lines Inc.-Minneapolis, MN-San Francisco, CA Total Total",Delta Air Lines Inc.,"Minneapolis, MN","San Francisco, CA",44.9772995,-93.2654692,37.7792588,-122.4193286
+316953,70680519,"Southwest Airlines Co.-Las Vegas, NV-Burbank, CA Total Total",Southwest Airlines Co.,"Las Vegas, NV","Burbank, CA",36.1674263,-115.1484131,34.1812089,-118.307201
+316851,272175009,"Delta Air Lines Inc.-Hartford, CT-Atlanta, GA Total Total",Delta Air Lines Inc.,"Hartford, CT","Atlanta, GA",41.764582,-72.6908547,33.7544657,-84.3898151
+316816,103598832,"Southwest Airlines Co.-Providence, RI-Baltimore, MD Total Total",Southwest Airlines Co.,"Providence, RI","Baltimore, MD",41.8239891,-71.4128343,39.2908816,-76.610759
+316587,505906026,"JetBlue Airways-San Juan, PR-New York, NY Total Total",JetBlue Airways,"San Juan, PR","New York, NY",18.384239,-66.05344,40.7127281,-74.0060152
+316509,193689156,"American Airlines Inc.-Chicago, IL-Washington, DC Total Total",American Airlines Inc.,"Chicago, IL","Washington, DC",41.8755616,-87.6244212,38.8950368,-77.0365427
+316253,211573257,"Delta Air Lines Inc.-Milwaukee, WI-Atlanta, GA Total Total",Delta Air Lines Inc.,"Milwaukee, WI","Atlanta, GA",43.0386475,-87.9090751,33.7544657,-84.3898151
+314474,270133166,"Delta Air Lines Inc.-Atlanta, GA-Hartford, CT Total Total",Delta Air Lines Inc.,"Atlanta, GA","Hartford, CT",33.7544657,-84.3898151,41.764582,-72.6908547
+313348,116252108,"Southwest Airlines Co.-Santa Ana, CA-Oakland, CA Total Total",Southwest Airlines Co.,"Santa Ana, CA","Oakland, CA",33.7494951,-117.873221,37.8044557,-122.271356
+311524,69469852,"Southwest Airlines Co.-Burbank, CA-Las Vegas, NV Total Total",Southwest Airlines Co.,"Burbank, CA","Las Vegas, NV",34.1812089,-118.307201,36.1674263,-115.1484131
+311394,494805066,"Delta Air Lines Inc.-San Francisco, CA-Minneapolis, MN Total Total",Delta Air Lines Inc.,"San Francisco, CA","Minneapolis, MN",37.7792588,-122.4193286,44.9772995,-93.2654692
+310788,115923924,"Delta Air Lines Inc.-Cincinnati, OH-Atlanta, GA Total Total",Delta Air Lines Inc.,"Cincinnati, OH","Atlanta, GA",39.1014537,-84.5124602,33.7544657,-84.3898151
+310511,115199581,"Southwest Airlines Co.-Oakland, CA-Santa Ana, CA Total Total",Southwest Airlines Co.,"Oakland, CA","Santa Ana, CA",37.8044557,-122.271356,33.7494951,-117.873221
+310457,101519439,"Southwest Airlines Co.-Baltimore, MD-Providence, RI Total Total",Southwest Airlines Co.,"Baltimore, MD","Providence, RI",39.2908816,-76.610759,41.8239891,-71.4128343
+310203,572634738,"American Airlines Inc.-Chicago, IL-San Francisco, CA Total Total",American Airlines Inc.,"Chicago, IL","San Francisco, CA",41.8755616,-87.6244212,37.7792588,-122.4193286
+309017,250612787,"United Air Lines Inc.-Cancun, Mexico-Houston, TX Total Total",United Air Lines Inc.,"Cancun, Mexico","Houston, TX",21.1527467,-86.8425761,29.7589382,-95.3676974
+308670,493254660,"JetBlue Airways-New York, NY-San Juan, PR Total Total",JetBlue Airways,"New York, NY","San Juan, PR",40.7127281,-74.0060152,18.384239,-66.05344
+308164,69350552,"American Airlines Inc.-Dallas/Fort Worth, TX-Houston, TX Total Total",American Airlines Inc.,"Dallas/Fort Worth, TX","Houston, TX",32.8369894,-97.033926,29.7589382,-95.3676974
+307481,435393245,"United Air Lines Inc.-Houston, TX-New York, NY Total Total",United Air Lines Inc.,"Houston, TX","New York, NY",29.7589382,-95.3676974,40.7127281,-74.0060152
+307452,567556392,"American Airlines Inc.-San Francisco, CA-Chicago, IL Total Total",American Airlines Inc.,"San Francisco, CA","Chicago, IL",37.7792588,-122.4193286,41.8755616,-87.6244212
+307004,264637448,"Southwest Airlines Co.-Denver, CO-Los Angeles, CA Total Total",Southwest Airlines Co.,"Denver, CO","Los Angeles, CA",39.7392364,-104.984862,34.0536909,-118.242766
+306924,258430008,"Southwest Airlines Co.-Tampa, FL-Baltimore, MD Total Total",Southwest Airlines Co.,"Tampa, FL","Baltimore, MD",27.9477595,-82.458444,39.2908816,-76.610759
+306899,264546938,"Southwest Airlines Co.-Los Angeles, CA-Denver, CO Total Total",Southwest Airlines Co.,"Los Angeles, CA","Denver, CO",34.0536909,-118.242766,39.7392364,-104.984862
+306414,114292422,"Delta Air Lines Inc.-Atlanta, GA-Cincinnati, OH Total Total",Delta Air Lines Inc.,"Atlanta, GA","Cincinnati, OH",33.7544657,-84.3898151,39.1014537,-84.5124602
+304937,93920596,"Southwest Airlines Co.-San Jose, CA-Los Angeles, CA Total Total",Southwest Airlines Co.,"San Jose, CA","Los Angeles, CA",37.3361663,-121.890591,34.0536909,-118.242766
+304867,68613473,"American Airlines Inc.-Houston, TX-Dallas/Fort Worth, TX Total Total",American Airlines Inc.,"Houston, TX","Dallas/Fort Worth, TX",29.7589382,-95.3676974,32.8369894,-97.033926
+304656,324458640,"United Air Lines Inc.-Newark, NJ-Fort Lauderdale, FL Total Total",United Air Lines Inc.,"Newark, NJ","Fort Lauderdale, FL",40.735657,-74.1723667,26.1223084,-80.1433786
+304609,91991918,"Southwest Airlines Co.-New Orleans, LA-Houston, TX Total Total",Southwest Airlines Co.,"New Orleans, LA","Houston, TX",29.9559145,-90.0730259,29.7589382,-95.3676974
+304479,241451847,"Southwest Airlines Co.-Dallas, TX-Chicago, IL Total Total",Southwest Airlines Co.,"Dallas, TX","Chicago, IL",32.7762719,-96.7968559,41.8755616,-87.6244212
+303910,241000630,"Southwest Airlines Co.-Chicago, IL-Dallas, TX Total Total",Southwest Airlines Co.,"Chicago, IL","Dallas, TX",41.8755616,-87.6244212,32.7762719,-96.7968559
+303874,282298946,"American Airlines Inc.-Tampa, FL-Dallas/Fort Worth, TX Total Total",American Airlines Inc.,"Tampa, FL","Dallas/Fort Worth, TX",27.9477595,-82.458444,32.8369894,-97.033926
+303862,120633214,"Southwest Airlines Co.-Sacramento, CA-Las Vegas, NV Total Total",Southwest Airlines Co.,"Sacramento, CA","Las Vegas, NV",38.5810606,-121.493895,36.1674263,-115.1484131
+303478,246120658,"United Air Lines Inc.-Houston, TX-Cancun, Mexico Total Total",United Air Lines Inc.,"Houston, TX","Cancun, Mexico",29.7589382,-95.3676974,21.1527467,-86.8425761
+303472,91648544,"Southwest Airlines Co.-Houston, TX-New Orleans, LA Total Total",Southwest Airlines Co.,"Houston, TX","New Orleans, LA",29.7589382,-95.3676974,29.9559145,-90.0730259
+303289,93413012,"Southwest Airlines Co.-Los Angeles, CA-San Jose, CA Total Total",Southwest Airlines Co.,"Los Angeles, CA","San Jose, CA",34.0536909,-118.242766,37.3361663,-121.890591
+303137,989742305,"British Airways Plc-London, United Kingdom-Boston, MA Total Total",British Airways Plc,"London, United Kingdom","Boston, MA",51.4893335,-0.1440551,42.3554334,-71.060511
+302721,120180237,"Southwest Airlines Co.-Las Vegas, NV-Sacramento, CA Total Total",Southwest Airlines Co.,"Las Vegas, NV","Sacramento, CA",36.1674263,-115.1484131,38.5810606,-121.493895
+302339,135145533,"United Air Lines Inc.-San Diego, CA-San Francisco, CA Total Total",United Air Lines Inc.,"San Diego, CA","San Francisco, CA",32.7174202,-117.162772,37.7792588,-122.4193286
+302003,280560787,"American Airlines Inc.-Dallas/Fort Worth, TX-Tampa, FL Total Total",American Airlines Inc.,"Dallas/Fort Worth, TX","Tampa, FL",32.8369894,-97.033926,27.9477595,-82.458444
+301436,321029340,"United Air Lines Inc.-Fort Lauderdale, FL-Newark, NJ Total Total",United Air Lines Inc.,"Fort Lauderdale, FL","Newark, NJ",26.1223084,-80.1433786,40.735657,-74.1723667
+301195,209932915,"Alaska Airlines Inc.-Seattle, WA-San Jose, CA Total Total",Alaska Airlines Inc.,"Seattle, WA","San Jose, CA",47.6038321,-122.330062,37.3361663,-121.890591
+300202,121581810,"Southwest Airlines Co.-Chicago, IL-Kansas City, MO Total Total",Southwest Airlines Co.,"Chicago, IL","Kansas City, MO",41.8755616,-87.6244212,39.100105,-94.5781416
+300037,424852392,"United Air Lines Inc.-New York, NY-Houston, TX Total Total",United Air Lines Inc.,"New York, NY","Houston, TX",40.7127281,-74.0060152,29.7589382,-95.3676974
+299557,765667692,"United Air Lines Inc.-Honolulu, HI-Los Angeles, CA Total Total",United Air Lines Inc.,"Honolulu, HI","Los Angeles, CA",21.304547,-157.855676,34.0536909,-118.242766
+298677,1176787380,"Delta Air Lines Inc.-Amsterdam, Netherlands-Detroit, MI Total Total",Delta Air Lines Inc.,"Amsterdam, Netherlands","Detroit, MI",52.3730796,4.8924534,42.3315509,-83.0466403
+298574,164215700,"American Airlines Inc.-Dallas/Fort Worth, TX-St. Louis, MO Total Total",American Airlines Inc.,"Dallas/Fort Worth, TX","St. Louis, MO",32.8369894,-97.033926,38.6280278,-90.1910154
+297772,207547084,"Alaska Airlines Inc.-San Jose, CA-Seattle, WA Total Total",Alaska Airlines Inc.,"San Jose, CA","Seattle, WA",37.3361663,-121.890591,47.6038321,-122.330062
+297719,379889444,"Delta Air Lines Inc.-Minneapolis, MN-Phoenix, AZ Total Total",Delta Air Lines Inc.,"Minneapolis, MN","Phoenix, AZ",44.9772995,-93.2654692,33.4484367,-112.074141
+297096,109925520,"Southwest Airlines Co.-Phoenix, AZ-Los Angeles, CA Total Total",Southwest Airlines Co.,"Phoenix, AZ","Los Angeles, CA",33.4484367,-112.074141,34.0536909,-118.242766
+296943,332279217,"American Airlines Inc.-Fort Lauderdale, FL-Dallas/Fort Worth, TX Total Total",American Airlines Inc.,"Fort Lauderdale, FL","Dallas/Fort Worth, TX",26.1223084,-80.1433786,32.8369894,-97.033926
+296882,132706254,"American Airlines Inc.-New Orleans, LA-Dallas/Fort Worth, TX Total Total",American Airlines Inc.,"New Orleans, LA","Dallas/Fort Worth, TX",29.9559145,-90.0730259,32.8369894,-97.033926
+296531,332411251,"JetBlue Airways-Boston, MA-Orlando, FL Total Total",JetBlue Airways,"Boston, MA","Orlando, FL",42.3554334,-71.060511,28.5421109,-81.3790304
+296136,304427808,"American Airlines Inc.-Cancun, Mexico-Dallas/Fort Worth, TX Total Total",American Airlines Inc.,"Cancun, Mexico","Dallas/Fort Worth, TX",21.1527467,-86.8425761,32.8369894,-97.033926
+296014,162807700,"American Airlines Inc.-St. Louis, MO-Dallas/Fort Worth, TX Total Total",American Airlines Inc.,"St. Louis, MO","Dallas/Fort Worth, TX",38.6280278,-90.1910154,32.8369894,-97.033926
+296011,69858596,"American Airlines Inc.-Las Vegas, NV-Los Angeles, CA Total Total",American Airlines Inc.,"Las Vegas, NV","Los Angeles, CA",36.1674263,-115.1484131,34.0536909,-118.242766
+295997,177302203,"American Airlines Inc.-Charlotte, NC-Chicago, IL Total Total",American Airlines Inc.,"Charlotte, NC","Chicago, IL",35.2272086,-80.8430827,41.8755616,-87.6244212
+295957,249195794,"Southwest Airlines Co.-Baltimore, MD-Tampa, FL Total Total",Southwest Airlines Co.,"Baltimore, MD","Tampa, FL",39.2908816,-76.610759,27.9477595,-82.458444
+295015,213885875,"Southwest Airlines Co.-New York, NY-Chicago, IL Total Total",Southwest Airlines Co.,"New York, NY","Chicago, IL",40.7127281,-74.0060152,41.8755616,-87.6244212
+294801,131776047,"American Airlines Inc.-Dallas/Fort Worth, TX-New Orleans, LA Total Total",American Airlines Inc.,"Dallas/Fort Worth, TX","New Orleans, LA",32.8369894,-97.033926,29.9559145,-90.0730259
+294577,567649879,"Delta Air Lines Inc.-Seattle, WA-Detroit, MI Total Total",Delta Air Lines Inc.,"Seattle, WA","Detroit, MI",47.6038321,-122.330062,42.3315509,-83.0466403
+294262,752133672,"United Air Lines Inc.-Los Angeles, CA-Honolulu, HI Total Total",United Air Lines Inc.,"Los Angeles, CA","Honolulu, HI",34.0536909,-118.242766,21.304547,-157.855676
+294120,258825600,"Delta Air Lines Inc.-Atlanta, GA-Cancun, Mexico Total Total",Delta Air Lines Inc.,"Atlanta, GA","Cancun, Mexico",33.7544657,-84.3898151,21.1527467,-86.8425761
+294079,375244804,"Delta Air Lines Inc.-Phoenix, AZ-Minneapolis, MN Total Total",Delta Air Lines Inc.,"Phoenix, AZ","Minneapolis, MN",33.4484367,-112.074141,44.9772995,-93.2654692
+293472,258255360,"Delta Air Lines Inc.-Cancun, Mexico-Atlanta, GA Total Total",Delta Air Lines Inc.,"Cancun, Mexico","Atlanta, GA",21.1527467,-86.8425761,33.7544657,-84.3898151
+293265,69210540,"American Airlines Inc.-Los Angeles, CA-Las Vegas, NV Total Total",American Airlines Inc.,"Los Angeles, CA","Las Vegas, NV",34.0536909,-118.242766,36.1674263,-115.1484131
+293209,130184796,"Delta Air Lines Inc.-Sarasota/Bradenton, FL-Atlanta, GA Total Total",Delta Air Lines Inc.,"Sarasota/Bradenton, FL","Atlanta, GA",27.3959884,-82.5540742,33.7544657,-84.3898151
+293088,564780576,"Delta Air Lines Inc.-Detroit, MI-Seattle, WA Total Total",Delta Air Lines Inc.,"Detroit, MI","Seattle, WA",42.3315509,-83.0466403,47.6038321,-122.330062
+293010,301214280,"American Airlines Inc.-Dallas/Fort Worth, TX-Cancun, Mexico Total Total",American Airlines Inc.,"Dallas/Fort Worth, TX","Cancun, Mexico",32.8369894,-97.033926,21.1527467,-86.8425761
+292576,2361088320,"Cathay Pacific Airways Ltd.-Hong Kong, Hong Kong-New York, NY Total Total",Cathay Pacific Airways Ltd.,"Hong Kong, Hong Kong","New York, NY",22.2793278,114.1628131,40.7127281,-74.0060152
+292412,102051788,"Southwest Airlines Co.-Chicago, IL-Minneapolis, MN Total Total",Southwest Airlines Co.,"Chicago, IL","Minneapolis, MN",41.8755616,-87.6244212,44.9772995,-93.2654692
+291809,174793591,"American Airlines Inc.-Chicago, IL-Charlotte, NC Total Total",American Airlines Inc.,"Chicago, IL","Charlotte, NC",41.8755616,-87.6244212,35.2272086,-80.8430827
+291680,184341760,"Delta Air Lines Inc.-Detroit, MI-Boston, MA Total Total",Delta Air Lines Inc.,"Detroit, MI","Boston, MA",42.3315509,-83.0466403,42.3554334,-71.060511
+291088,648252976,"United Air Lines Inc.-Las Vegas, NV-Newark, NJ Total Total",United Air Lines Inc.,"Las Vegas, NV","Newark, NJ",36.1674263,-115.1484131,40.735657,-74.1723667
+291087,950399055,"British Airways Plc-Boston, MA-London, United Kingdom Total Total",British Airways Plc,"Boston, MA","London, United Kingdom",42.3554334,-71.060511,51.4893335,-0.1440551
+290785,325969985,"JetBlue Airways-Orlando, FL-Boston, MA Total Total",JetBlue Airways,"Orlando, FL","Boston, MA",28.5421109,-81.3790304,42.3554334,-71.060511
+290475,128970900,"Delta Air Lines Inc.-Atlanta, GA-Sarasota/Bradenton, FL Total Total",Delta Air Lines Inc.,"Atlanta, GA","Sarasota/Bradenton, FL",33.7544657,-84.3898151,27.3959884,-82.5540742
+290251,2107222260,"Cathay Pacific Airways Ltd.-Hong Kong, Hong Kong-Los Angeles, CA Total Total",Cathay Pacific Airways Ltd.,"Hong Kong, Hong Kong","Los Angeles, CA",22.2793278,114.1628131,34.0536909,-118.242766
+289722,97636314,"Southwest Airlines Co.-Los Angeles, CA-San Francisco, CA Total Total",Southwest Airlines Co.,"Los Angeles, CA","San Francisco, CA",34.0536909,-118.242766,37.7792588,-122.4193286
+289072,448928816,"Aeromexico-Los Angeles, CA-Mexico City, Mexico Total Total",Aeromexico,"Los Angeles, CA","Mexico City, Mexico",34.0536909,-118.242766,19.3207722,-99.1514678
+289055,323452545,"American Airlines Inc.-Dallas/Fort Worth, TX-Fort Lauderdale, FL Total Total",American Airlines Inc.,"Dallas/Fort Worth, TX","Fort Lauderdale, FL",32.8369894,-97.033926,26.1223084,-80.1433786
+289037,505814750,"Southwest Airlines Co.-Chicago, IL-Los Angeles, CA Total Total",Southwest Airlines Co.,"Chicago, IL","Los Angeles, CA",41.8755616,-87.6244212,34.0536909,-118.242766
+288877,2097247020,"Cathay Pacific Airways Ltd.-Los Angeles, CA-Hong Kong, Hong Kong Total Total",Cathay Pacific Airways Ltd.,"Los Angeles, CA","Hong Kong, Hong Kong",34.0536909,-118.242766,22.2793278,114.1628131
+288606,116885430,"Southwest Airlines Co.-Kansas City, MO-Chicago, IL Total Total",Southwest Airlines Co.,"Kansas City, MO","Chicago, IL",39.100105,-94.5781416,41.8755616,-87.6244212
+288446,504492054,"Delta Air Lines Inc.-Las Vegas, NV-Detroit, MI Total Total",Delta Air Lines Inc.,"Las Vegas, NV","Detroit, MI",36.1674263,-115.1484131,42.3315509,-83.0466403
+288322,106679140,"Southwest Airlines Co.-Los Angeles, CA-Phoenix, AZ Total Total",Southwest Airlines Co.,"Los Angeles, CA","Phoenix, AZ",34.0536909,-118.242766,33.4484367,-112.074141
+288137,269984369,"Southwest Airlines Co.-Chicago, IL-Houston, TX Total Total",Southwest Airlines Co.,"Chicago, IL","Houston, TX",41.8755616,-87.6244212,29.7589382,-95.3676974
+287417,502692333,"Delta Air Lines Inc.-Detroit, MI-Las Vegas, NV Total Total",Delta Air Lines Inc.,"Detroit, MI","Las Vegas, NV",42.3315509,-83.0466403,36.1674263,-115.1484131
+286444,96531628,"Southwest Airlines Co.-San Francisco, CA-Los Angeles, CA Total Total",Southwest Airlines Co.,"San Francisco, CA","Los Angeles, CA",37.7792588,-122.4193286,34.0536909,-118.242766
+286395,207636375,"Southwest Airlines Co.-Chicago, IL-New York, NY Total Total",Southwest Airlines Co.,"Chicago, IL","New York, NY",41.8755616,-87.6244212,40.7127281,-74.0060152
+285693,636238311,"United Air Lines Inc.-Newark, NJ-Las Vegas, NV Total Total",United Air Lines Inc.,"Newark, NJ","Las Vegas, NV",40.735657,-74.1723667,36.1674263,-115.1484131
+285582,2304646740,"Cathay Pacific Airways Ltd.-New York, NY-Hong Kong, Hong Kong Total Total",Cathay Pacific Airways Ltd.,"New York, NY","Hong Kong, Hong Kong",40.7127281,-74.0060152,22.2793278,114.1628131
+285366,1556956896,"British Airways Plc-London, United Kingdom-Los Angeles, CA Total Total",British Airways Plc,"London, United Kingdom","Los Angeles, CA",51.4893335,-0.1440551,34.0536909,-118.242766
+284950,266998150,"Southwest Airlines Co.-Houston, TX-Chicago, IL Total Total",Southwest Airlines Co.,"Houston, TX","Chicago, IL",29.7589382,-95.3676974,41.8755616,-87.6244212
+284862,498508500,"Southwest Airlines Co.-Los Angeles, CA-Chicago, IL Total Total",Southwest Airlines Co.,"Los Angeles, CA","Chicago, IL",34.0536909,-118.242766,41.8755616,-87.6244212
+284587,117819018,"Virgin America-Las Vegas, NV-San Francisco, CA Total Total",Virgin America,"Las Vegas, NV","San Francisco, CA",36.1674263,-115.1484131,37.7792588,-122.4193286
+284480,192877440,"American Airlines Inc.-Philadelphia, PA-Chicago, IL Total Total",American Airlines Inc.,"Philadelphia, PA","Chicago, IL",39.9527237,-75.1635262,41.8755616,-87.6244212
+284270,96083260,"Southwest Airlines Co.-Phoenix, AZ-Santa Ana, CA Total Total",Southwest Airlines Co.,"Phoenix, AZ","Santa Ana, CA",33.4484367,-112.074141,33.7494951,-117.873221
+283438,1927094962,"Eva Airways Corporation-Los Angeles, CA-Taipei, Taiwan Total Total",Eva Airways Corporation,"Los Angeles, CA","Taipei, Taiwan",34.0536909,-118.242766,25.0375198,121.5636796
+283090,530510660,"United Air Lines Inc.-Houston, TX-Seattle, WA Total Total",United Air Lines Inc.,"Houston, TX","Seattle, WA",29.7589382,-95.3676974,47.6038321,-122.330062
+282688,117032832,"Virgin America-San Francisco, CA-Las Vegas, NV Total Total",Virgin America,"San Francisco, CA","Las Vegas, NV",37.7792588,-122.4193286,36.1674263,-115.1484131
+282279,191385162,"American Airlines Inc.-Chicago, IL-Philadelphia, PA Total Total",American Airlines Inc.,"Chicago, IL","Philadelphia, PA",41.8755616,-87.6244212,39.9527237,-75.1635262
+281797,437630741,"Aeromexico-Mexico City, Mexico-Los Angeles, CA Total Total",Aeromexico,"Mexico City, Mexico","Los Angeles, CA",19.3207722,-99.1514678,34.0536909,-118.242766
+281475,1143728280,"American Airlines Inc.-Miami, FL-Sao Paulo, Brazil Total Total",American Airlines Inc.,"Miami, FL","Sao Paulo, Brazil",25.7741728,-80.19362,-23.5506507,-46.6333824
+281379,129434340,"American Airlines Inc.-Dallas/Fort Worth, TX-Kansas City, MO Total Total",American Airlines Inc.,"Dallas/Fort Worth, TX","Kansas City, MO",32.8369894,-97.033926,39.100105,-94.5781416
+281099,526779526,"United Air Lines Inc.-Seattle, WA-Houston, TX Total Total",United Air Lines Inc.,"Seattle, WA","Houston, TX",47.6038321,-122.330062,29.7589382,-95.3676974
+280463,97881587,"Southwest Airlines Co.-Minneapolis, MN-Chicago, IL Total Total",Southwest Airlines Co.,"Minneapolis, MN","Chicago, IL",44.9772995,-93.2654692,41.8755616,-87.6244212
+280016,182010400,"American Airlines Inc.-Charlotte, NC-Miami, FL Total Total",American Airlines Inc.,"Charlotte, NC","Miami, FL",35.2272086,-80.8430827,25.7741728,-80.19362
+279763,115821882,"Southwest Airlines Co.-Las Vegas, NV-San Francisco, CA Total Total",Southwest Airlines Co.,"Las Vegas, NV","San Francisco, CA",36.1674263,-115.1484131,37.7792588,-122.4193286
+279723,128672580,"American Airlines Inc.-Kansas City, MO-Dallas/Fort Worth, TX Total Total",American Airlines Inc.,"Kansas City, MO","Dallas/Fort Worth, TX",39.100105,-94.5781416,32.8369894,-97.033926
+279595,366269450,"Delta Air Lines Inc.-Orlando, FL-Minneapolis, MN Total Total",Delta Air Lines Inc.,"Orlando, FL","Minneapolis, MN",28.5421109,-81.3790304,44.9772995,-93.2654692
+279511,190067480,"Delta Air Lines Inc.-Denver, CO-Minneapolis, MN Total Total",Delta Air Lines Inc.,"Denver, CO","Minneapolis, MN",39.7392364,-104.984862,44.9772995,-93.2654692
+279362,1137562064,"Transportes Aeros Meridiona-Sao Paulo, Brazil-Miami, FL Total Total",Transportes Aeros Meridiona,"Sao Paulo, Brazil","Miami, FL",-23.5506507,-46.6333824,25.7741728,-80.19362
+279260,1137146720,"Transportes Aeros Meridiona-Miami, FL-Sao Paulo, Brazil Total Total",Transportes Aeros Meridiona,"Miami, FL","Sao Paulo, Brazil",25.7741728,-80.19362,-23.5506507,-46.6333824
+278985,1099200900,"Delta Air Lines Inc.-Detroit, MI-Amsterdam, Netherlands Total Total",Delta Air Lines Inc.,"Detroit, MI","Amsterdam, Netherlands",42.3315509,-83.0466403,52.3730796,4.8924534
+278172,281788236,"American Airlines Inc.-Miami, FL-Philadelphia, PA Total Total",American Airlines Inc.,"Miami, FL","Philadelphia, PA",25.7741728,-80.19362,39.9527237,-75.1635262
+278032,62835232,"Southwest Airlines Co.-Las Vegas, NV-Santa Ana, CA Total Total",Southwest Airlines Co.,"Las Vegas, NV","Santa Ana, CA",36.1674263,-115.1484131,33.7494951,-117.873221
+277892,1516178752,"British Airways Plc-Los Angeles, CA-London, United Kingdom Total Total",British Airways Plc,"Los Angeles, CA","London, United Kingdom",34.0536909,-118.242766,51.4893335,-0.1440551
+277873,188953640,"Delta Air Lines Inc.-Minneapolis, MN-Denver, CO Total Total",Delta Air Lines Inc.,"Minneapolis, MN","Denver, CO",44.9772995,-93.2654692,39.7392364,-104.984862
+277854,225895302,"American Airlines Inc.-Dallas/Fort Worth, TX-Tucson, AZ Total Total",American Airlines Inc.,"Dallas/Fort Worth, TX","Tucson, AZ",32.8369894,-97.033926,32.2228765,-110.974847
+277529,275031239,"Delta Air Lines Inc.-Minneapolis, MN-Salt Lake City, UT Total Total",Delta Air Lines Inc.,"Minneapolis, MN","Salt Lake City, UT",44.9772995,-93.2654692,40.7596198,-111.886797
+276447,1879563153,"Eva Airways Corporation-Taipei, Taiwan-Los Angeles, CA Total Total",Eva Airways Corporation,"Taipei, Taiwan","Los Angeles, CA",25.0375198,121.5636796,34.0536909,-118.242766
+276410,120514760,"Southwest Airlines Co.-New Orleans, LA-Dallas, TX Total Total",Southwest Airlines Co.,"New Orleans, LA","Dallas, TX",29.9559145,-90.0730259,32.7762719,-96.7968559
+276011,1121504360,"American Airlines Inc.-Sao Paulo, Brazil-Miami, FL Total Total",American Airlines Inc.,"Sao Paulo, Brazil","Miami, FL",-23.5506507,-46.6333824,25.7741728,-80.19362
+275470,111289880,"Southwest Airlines Co.-Sacramento, CA-Santa Ana, CA Total Total",Southwest Airlines Co.,"Sacramento, CA","Santa Ana, CA",38.5810606,-121.493895,33.7494951,-117.873221
+275235,173948520,"Delta Air Lines Inc.-Boston, MA-Detroit, MI Total Total",Delta Air Lines Inc.,"Boston, MA","Detroit, MI",42.3554334,-71.060511,42.3315509,-83.0466403
+275154,111162216,"Southwest Airlines Co.-Santa Ana, CA-Sacramento, CA Total Total",Southwest Airlines Co.,"Santa Ana, CA","Sacramento, CA",33.7494951,-117.873221,38.5810606,-121.493895
+274891,223486383,"American Airlines Inc.-Tucson, AZ-Dallas/Fort Worth, TX Total Total",American Airlines Inc.,"Tucson, AZ","Dallas/Fort Worth, TX",32.2228765,-110.974847,32.8369894,-97.033926
+274807,359997170,"Delta Air Lines Inc.-Minneapolis, MN-Orlando, FL Total Total",Delta Air Lines Inc.,"Minneapolis, MN","Orlando, FL",44.9772995,-93.2654692,28.5421109,-81.3790304
+274602,597533952,"Air Canada-Los Angeles, CA-Toronto, Canada Total Total",Air Canada,"Los Angeles, CA","Toronto, Canada",34.0536909,-118.242766,43.6534817,-79.3839347
+274378,103440506,"Southwest Airlines Co.-Manchester, NH-Baltimore, MD Total Total",Southwest Airlines Co.,"Manchester, NH","Baltimore, MD",42.9956397,-71.4547891,39.2908816,-76.610759
+274062,700502472,"Hawaiian Airlines Inc.-Honolulu, HI-Los Angeles, CA Total Total",Hawaiian Airlines Inc.,"Honolulu, HI","Los Angeles, CA",21.304547,-157.855676,34.0536909,-118.242766
+273722,145346382,"American Airlines Inc.-Miami, FL-Cancun, Mexico Total Total",American Airlines Inc.,"Miami, FL","Cancun, Mexico",25.7741728,-80.19362,21.1527467,-86.8425761
+273609,92479842,"Southwest Airlines Co.-Santa Ana, CA-Phoenix, AZ Total Total",Southwest Airlines Co.,"Santa Ana, CA","Phoenix, AZ",33.7494951,-117.873221,33.4484367,-112.074141
+272333,112745862,"Southwest Airlines Co.-San Francisco, CA-Las Vegas, NV Total Total",Southwest Airlines Co.,"San Francisco, CA","Las Vegas, NV",37.7792588,-122.4193286,36.1674263,-115.1484131
+272188,102614876,"Southwest Airlines Co.-Baltimore, MD-Manchester, NH Total Total",Southwest Airlines Co.,"Baltimore, MD","Manchester, NH",39.2908816,-76.610759,42.9956397,-71.4547891
+271980,118583280,"Southwest Airlines Co.-Dallas, TX-New Orleans, LA Total Total",Southwest Airlines Co.,"Dallas, TX","New Orleans, LA",32.7762719,-96.7968559,29.9559145,-90.0730259
+271878,300969566,"Alaska Airlines Inc.-Phoenix, AZ-Seattle, WA Total Total",Alaska Airlines Inc.,"Phoenix, AZ","Seattle, WA",33.4484367,-112.074141,47.6038321,-122.330062
+271878,565234362,"Delta Air Lines Inc.-San Francisco, CA-Detroit, MI Total Total",Delta Air Lines Inc.,"San Francisco, CA","Detroit, MI",37.7792588,-122.4193286,42.3315509,-83.0466403
+271821,76925343,"Southwest Airlines Co.-Hartford, CT-Baltimore, MD Total Total",Southwest Airlines Co.,"Hartford, CT","Baltimore, MD",41.764582,-72.6908547,39.2908816,-76.610759
+270830,109415320,"Southwest Airlines Co.-Atlanta, GA-Orlando, FL Total Total",Southwest Airlines Co.,"Atlanta, GA","Orlando, FL",33.7544657,-84.3898151,28.5421109,-81.3790304
+270322,61092772,"Southwest Airlines Co.-Santa Ana, CA-Las Vegas, NV Total Total",Southwest Airlines Co.,"Santa Ana, CA","Las Vegas, NV",33.7494951,-117.873221,36.1674263,-115.1484131
+268931,297707217,"Alaska Airlines Inc.-Seattle, WA-Phoenix, AZ Total Total",Alaska Airlines Inc.,"Seattle, WA","Phoenix, AZ",47.6038321,-122.330062,33.4484367,-112.074141
+268838,275021274,"United Air Lines Inc.-West Palm Beach/Palm Beach, FL-Newark, NJ Total Total",United Air Lines Inc.,"West Palm Beach/Palm Beach, FL","Newark, NJ",26.715364,-80.0532942,40.735657,-74.1723667
+268819,169355970,"Delta Air Lines Inc.-Salt Lake City, UT-Portland, OR Total Total",Delta Air Lines Inc.,"Salt Lake City, UT","Portland, OR",40.7596198,-111.886797,45.5202471,-122.674194
+268787,76066721,"Southwest Airlines Co.-Baltimore, MD-Hartford, CT Total Total",Southwest Airlines Co.,"Baltimore, MD","Hartford, CT",39.2908816,-76.610759,41.764582,-72.6908547
+268775,584854400,"Air Canada-Toronto, Canada-Los Angeles, CA Total Total",Air Canada,"Toronto, Canada","Los Angeles, CA",43.6534817,-79.3839347,34.0536909,-118.242766
+268713,274893399,"United Air Lines Inc.-Newark, NJ-West Palm Beach/Palm Beach, FL Total Total",United Air Lines Inc.,"Newark, NJ","West Palm Beach/Palm Beach, FL",40.735657,-74.1723667,26.715364,-80.0532942
+268190,265776290,"Delta Air Lines Inc.-Salt Lake City, UT-Minneapolis, MN Total Total",Delta Air Lines Inc.,"Salt Lake City, UT","Minneapolis, MN",40.7596198,-111.886797,44.9772995,-93.2654692
+268024,148485296,"Delta Air Lines Inc.-Cleveland, OH-Atlanta, GA Total Total",Delta Air Lines Inc.,"Cleveland, OH","Atlanta, GA",41.4996574,-81.6936772,33.7544657,-84.3898151
+267931,49741231,"American Airlines Inc.-Boston, MA-New York, NY Total Total",American Airlines Inc.,"Boston, MA","New York, NY",42.3554334,-71.060511,40.7127281,-74.0060152
+267498,367007256,"American Airlines Inc.-Dallas/Fort Worth, TX-Newark, NJ Total Total",American Airlines Inc.,"Dallas/Fort Worth, TX","Newark, NJ",32.8369894,-97.033926,40.735657,-74.1723667
+267339,148105806,"Delta Air Lines Inc.-Atlanta, GA-Cleveland, OH Total Total",Delta Air Lines Inc.,"Atlanta, GA","Cleveland, OH",33.7544657,-84.3898151,41.4996574,-81.6936772
+267207,266405379,"United Air Lines Inc.-Newark, NJ-Tampa, FL Total Total",United Air Lines Inc.,"Newark, NJ","Tampa, FL",40.735657,-74.1723667,27.9477595,-82.458444
+266685,89872845,"American Airlines Inc.-Los Angeles, CA-San Francisco, CA Total Total",American Airlines Inc.,"Los Angeles, CA","San Francisco, CA",34.0536909,-118.242766,37.7792588,-122.4193286
+265885,141184935,"American Airlines Inc.-Cancun, Mexico-Miami, FL Total Total",American Airlines Inc.,"Cancun, Mexico","Miami, FL",21.1527467,-86.8425761,25.7741728,-80.19362
+265639,89520343,"American Airlines Inc.-San Francisco, CA-Los Angeles, CA Total Total",American Airlines Inc.,"San Francisco, CA","Los Angeles, CA",37.7792588,-122.4193286,34.0536909,-118.242766
+265060,551059740,"Delta Air Lines Inc.-Detroit, MI-San Francisco, CA Total Total",Delta Air Lines Inc.,"Detroit, MI","San Francisco, CA",42.3315509,-83.0466403,37.7792588,-122.4193286
+264881,264086357,"United Air Lines Inc.-Tampa, FL-Newark, NJ Total Total",United Air Lines Inc.,"Tampa, FL","Newark, NJ",27.9477595,-82.458444,40.735657,-74.1723667
+264296,98582408,"Southwest Airlines Co.-Sacramento, CA-Los Angeles, CA Total Total",Southwest Airlines Co.,"Sacramento, CA","Los Angeles, CA",38.5810606,-121.493895,34.0536909,-118.242766
+264236,297793972,"Delta Air Lines Inc.-Fort Lauderdale, FL-Detroit, MI Total Total",Delta Air Lines Inc.,"Fort Lauderdale, FL","Detroit, MI",26.1223084,-80.1433786,42.3315509,-83.0466403
+263833,265563245,"JetBlue Airways-Tampa, FL-New York, NY Total Total",JetBlue Airways,"Tampa, FL","New York, NY",27.9477595,-82.458444,40.7127281,-74.0060152
+263749,155875659,"Southwest Airlines Co.-Atlanta, GA-Chicago, IL Total Total",Southwest Airlines Co.,"Atlanta, GA","Chicago, IL",33.7544657,-84.3898151,41.8755616,-87.6244212
+263643,267070359,"American Airlines Inc.-Philadelphia, PA-Miami, FL Total Total",American Airlines Inc.,"Philadelphia, PA","Miami, FL",39.9527237,-75.1635262,25.7741728,-80.19362
+262758,387568050,"JetBlue Airways-Santiago, Dominican Republic-New York, NY Total Total",JetBlue Airways,"Santiago, Dominican Republic","New York, NY",19.336389,-70.9521277,40.7127281,-74.0060152
+262710,671486760,"Hawaiian Airlines Inc.-Los Angeles, CA-Honolulu, HI Total Total",Hawaiian Airlines Inc.,"Los Angeles, CA","Honolulu, HI",34.0536909,-118.242766,21.304547,-157.855676
+262474,670883544,"Delta Air Lines Inc.-Los Angeles, CA-Honolulu, HI Total Total",Delta Air Lines Inc.,"Los Angeles, CA","Honolulu, HI",34.0536909,-118.242766,21.304547,-157.855676
+262401,425089620,"United Air Lines Inc.-Denver, CO-New York, NY Total Total",United Air Lines Inc.,"Denver, CO","New York, NY",39.7392364,-104.984862,40.7127281,-74.0060152
+261923,97697279,"Southwest Airlines Co.-Los Angeles, CA-Sacramento, CA Total Total",Southwest Airlines Co.,"Los Angeles, CA","Sacramento, CA",34.0536909,-118.242766,38.5810606,-121.493895
+261916,359348752,"American Airlines Inc.-Newark, NJ-Dallas/Fort Worth, TX Total Total",American Airlines Inc.,"Newark, NJ","Dallas/Fort Worth, TX",40.735657,-74.1723667,32.8369894,-97.033926
+261884,164986920,"Delta Air Lines Inc.-Portland, OR-Salt Lake City, UT Total Total",Delta Air Lines Inc.,"Portland, OR","Salt Lake City, UT",45.5202471,-122.674194,40.7596198,-111.886797
+261731,263441445,"JetBlue Airways-New York, NY-Tampa, FL Total Total",JetBlue Airways,"New York, NY","Tampa, FL",40.7127281,-74.0060152,27.9477595,-82.458444
+261221,159606031,"Southwest Airlines Co.-Chicago, IL-Baltimore, MD Total Total",Southwest Airlines Co.,"Chicago, IL","Baltimore, MD",41.8755616,-87.6244212,39.2908816,-76.610759
+261008,116670576,"Southwest Airlines Co.-San Diego, CA-San Francisco, CA Total Total",Southwest Airlines Co.,"San Diego, CA","San Francisco, CA",32.7174202,-117.162772,37.7792588,-122.4193286
+260381,221844612,"American Airlines Inc.-Dallas/Fort Worth, TX-Minneapolis, MN Total Total",American Airlines Inc.,"Dallas/Fort Worth, TX","Minneapolis, MN",32.8369894,-97.033926,44.9772995,-93.2654692
+260324,116364828,"United Air Lines Inc.-San Francisco, CA-San Diego, CA Total Total",United Air Lines Inc.,"San Francisco, CA","San Diego, CA",37.7792588,-122.4193286,32.7174202,-117.162772
+260190,257327910,"American Airlines Inc.-Dallas/Fort Worth, TX-Salt Lake City, UT Total Total",American Airlines Inc.,"Dallas/Fort Worth, TX","Salt Lake City, UT",32.8369894,-97.033926,40.7596198,-111.886797
+260034,121695912,"US Airways Inc.-Charlotte, NC-Orlando, FL Total Total",US Airways Inc.,"Charlotte, NC","Orlando, FL",35.2272086,-80.8430827,28.5421109,-81.3790304
+259797,338515491,"United Air Lines Inc.-Houston, TX-San Diego, CA Total Total",United Air Lines Inc.,"Houston, TX","San Diego, CA",29.7589382,-95.3676974,32.7174202,-117.162772
+259351,292288577,"Delta Air Lines Inc.-Detroit, MI-Fort Lauderdale, FL Total Total",Delta Air Lines Inc.,"Detroit, MI","Fort Lauderdale, FL",42.3315509,-83.0466403,26.1223084,-80.1433786
+259293,401644857,"JetBlue Airways-Santo Domingo, Dominican Republic-New York, NY Total Total",JetBlue Airways,"Santo Domingo, Dominican Republic","New York, NY",18.4801972,-69.942111,40.7127281,-74.0060152
+259244,1300367904,"Turk Hava Yollari A.O.-Istanbul, Turkey-New York, NY Total Total",Turk Hava Yollari A.O.,"Istanbul, Turkey","New York, NY",41.006381,28.9758715,40.7127281,-74.0060152
+258932,121180176,"US Airways Inc.-Orlando, FL-Charlotte, NC Total Total",US Airways Inc.,"Orlando, FL","Charlotte, NC",28.5421109,-81.3790304,35.2272086,-80.8430827
+258820,220514640,"American Airlines Inc.-Minneapolis, MN-Dallas/Fort Worth, TX Total Total",American Airlines Inc.,"Minneapolis, MN","Dallas/Fort Worth, TX",44.9772995,-93.2654692,32.8369894,-97.033926
+258734,158086474,"Southwest Airlines Co.-Baltimore, MD-Chicago, IL Total Total",Southwest Airlines Co.,"Baltimore, MD","Chicago, IL",39.2908816,-76.610759,41.8755616,-87.6244212
+258528,48001551,"American Airlines Inc.-New York, NY-Boston, MA Total Total",American Airlines Inc.,"New York, NY","Boston, MA",40.7127281,-74.0060152,42.3554334,-71.060511
+258498,381284550,"JetBlue Airways-New York, NY-Santiago, Dominican Republic Total Total",JetBlue Airways,"New York, NY","Santiago, Dominican Republic",40.7127281,-74.0060152,19.336389,-70.9521277
+258088,167757200,"American Airlines Inc.-Miami, FL-Charlotte, NC Total Total",American Airlines Inc.,"Miami, FL","Charlotte, NC",25.7741728,-80.19362,35.2272086,-80.8430827
+257979,120734172,"American Airlines Inc.-Charlotte, NC-Orlando, FL Total Total",American Airlines Inc.,"Charlotte, NC","Orlando, FL",35.2272086,-80.8430827,28.5421109,-81.3790304
+256299,52284996,"American Airlines Inc.-Miami, FL-Tampa, FL Total Total",American Airlines Inc.,"Miami, FL","Tampa, FL",25.7741728,-80.19362,27.9477595,-82.458444
+255988,114426636,"Southwest Airlines Co.-San Francisco, CA-San Diego, CA Total Total",Southwest Airlines Co.,"San Francisco, CA","San Diego, CA",37.7792588,-122.4193286,32.7174202,-117.162772
+255851,414478620,"United Air Lines Inc.-New York, NY-Denver, CO Total Total",United Air Lines Inc.,"New York, NY","Denver, CO",40.7127281,-74.0060152,39.7392364,-104.984862
+255673,653500188,"Delta Air Lines Inc.-Honolulu, HI-Los Angeles, CA Total Total",Delta Air Lines Inc.,"Honolulu, HI","Los Angeles, CA",21.304547,-157.855676,34.0536909,-118.242766
+254860,117235600,"Southwest Airlines Co.-Kansas City, MO-Dallas, TX Total Total",Southwest Airlines Co.,"Kansas City, MO","Dallas, TX",39.100105,-94.5781416,32.7762719,-96.7968559
+254821,119256228,"American Airlines Inc.-Orlando, FL-Charlotte, NC Total Total",American Airlines Inc.,"Orlando, FL","Charlotte, NC",28.5421109,-81.3790304,35.2272086,-80.8430827
+254665,77672345,"United Air Lines Inc.-Houston, TX-New Orleans, LA Total Total",United Air Lines Inc.,"Houston, TX","New Orleans, LA",29.7589382,-95.3676974,29.9559145,-90.0730259
+254399,251600611,"American Airlines Inc.-Salt Lake City, UT-Dallas/Fort Worth, TX Total Total",American Airlines Inc.,"Salt Lake City, UT","Dallas/Fort Worth, TX",40.7596198,-111.886797,32.8369894,-97.033926
+254244,256256575,"Delta Air Lines Inc.-New York, NY-Tampa, FL Total Total",Delta Air Lines Inc.,"New York, NY","Tampa, FL",40.7127281,-74.0060152,27.9477595,-82.458444
+253972,56889728,"Horizon Air-Seattle, WA-Spokane, WA Total Total",Horizon Air,"Seattle, WA","Spokane, WA",47.6038321,-122.330062,47.6571934,-117.42351
+253814,235653844,"Delta Air Lines Inc.-Washington, DC-Minneapolis, MN Total Total",Delta Air Lines Inc.,"Washington, DC","Minneapolis, MN",38.8950368,-77.0365427,44.9772995,-93.2654692
+253209,255205660,"Delta Air Lines Inc.-Tampa, FL-New York, NY Total Total",Delta Air Lines Inc.,"Tampa, FL","New York, NY",27.9477595,-82.458444,40.7127281,-74.0060152
+253060,448675380,"US Airways Inc.-Charlotte, NC-Phoenix, AZ Total Total",US Airways Inc.,"Charlotte, NC","Phoenix, AZ",35.2272086,-80.8430827,33.4484367,-112.074141
+252460,51501840,"American Airlines Inc.-Tampa, FL-Miami, FL Total Total",American Airlines Inc.,"Tampa, FL","Miami, FL",27.9477595,-82.458444,25.7741728,-80.19362
+252194,1109905794,"Delta Air Lines Inc.-Amsterdam, Netherlands-Atlanta, GA Total Total",Delta Air Lines Inc.,"Amsterdam, Netherlands","Atlanta, GA",52.3730796,4.8924534,33.7544657,-84.3898151
+251919,233873430,"Delta Air Lines Inc.-Minneapolis, MN-Washington, DC Total Total",Delta Air Lines Inc.,"Minneapolis, MN","Washington, DC",44.9772995,-93.2654692,38.8950368,-77.0365427
+251714,92630752,"Delta Air Lines Inc.-Las Vegas, NV-Salt Lake City, UT Total Total",Delta Air Lines Inc.,"Las Vegas, NV","Salt Lake City, UT",36.1674263,-115.1484131,40.7596198,-111.886797
+251627,380963278,"United Air Lines Inc.-Las Vegas, NV-Chicago, IL Total Total",United Air Lines Inc.,"Las Vegas, NV","Chicago, IL",36.1674263,-115.1484131,41.8755616,-87.6244212
+251498,445905954,"American Airlines Inc.-Charlotte, NC-Phoenix, AZ Total Total",American Airlines Inc.,"Charlotte, NC","Phoenix, AZ",35.2272086,-80.8430827,33.4484367,-112.074141
+251471,282653404,"Delta Air Lines Inc.-Boston, MA-Minneapolis, MN Total Total",Delta Air Lines Inc.,"Boston, MA","Minneapolis, MN",42.3554334,-71.060511,44.9772995,-93.2654692
+251215,389132035,"JetBlue Airways-New York, NY-Santo Domingo, Dominican Republic Total Total",JetBlue Airways,"New York, NY","Santo Domingo, Dominican Republic",40.7127281,-74.0060152,18.4801972,-69.942111
+250901,388143847,"Delta Air Lines Inc.-San Juan, PR-Atlanta, GA Total Total",Delta Air Lines Inc.,"San Juan, PR","Atlanta, GA",18.384239,-66.05344,33.7544657,-84.3898151
+250892,98098772,"Southwest Airlines Co.-Denver, CO-Salt Lake City, UT Total Total",Southwest Airlines Co.,"Denver, CO","Salt Lake City, UT",39.7392364,-104.984862,40.7596198,-111.886797
+250867,869254155,"United Air Lines Inc.-Newark, NJ-London, United Kingdom Total Total",United Air Lines Inc.,"Newark, NJ","London, United Kingdom",40.735657,-74.1723667,51.4893335,-0.1440551
+250834,101336936,"Southwest Airlines Co.-Orlando, FL-Atlanta, GA Total Total",Southwest Airlines Co.,"Orlando, FL","Atlanta, GA",28.5421109,-81.3790304,33.7544657,-84.3898151
+250609,648064206,"United Air Lines Inc.-New York, NY-San Francisco, CA Total Total",United Air Lines Inc.,"New York, NY","San Francisco, CA",40.7127281,-74.0060152,37.7792588,-122.4193286
+250487,563094776,"Delta Air Lines Inc.-Las Vegas, NV-New York, NY Total Total",Delta Air Lines Inc.,"Las Vegas, NV","New York, NY",36.1674263,-115.1484131,40.7127281,-74.0060152
+250413,115189980,"Southwest Airlines Co.-Dallas, TX-Kansas City, MO Total Total",Southwest Airlines Co.,"Dallas, TX","Kansas City, MO",32.7762719,-96.7968559,39.100105,-94.5781416
+250378,1255896048,"Turk Hava Yollari A.O.-New York, NY-Istanbul, Turkey Total Total",Turk Hava Yollari A.O.,"New York, NY","Istanbul, Turkey",40.7127281,-74.0060152,41.006381,28.9758715
+250237,647106393,"United Air Lines Inc.-San Francisco, CA-New York, NY Total Total",United Air Lines Inc.,"San Francisco, CA","New York, NY",37.7792588,-122.4193286,40.7127281,-74.0060152
+250108,84286396,"Compass Airlines-Los Angeles, CA-San Francisco, CA Total Total",Compass Airlines,"Los Angeles, CA","San Francisco, CA",34.0536909,-118.242766,37.7792588,-122.4193286
+249095,388153038,"United Air Lines Inc.-Guam, TT-Tokyo, Japan Total Total",United Air Lines Inc.,"Guam, TT","Tokyo, Japan",16.7113157,121.8909626,35.6768601,139.7638947
+249043,377051102,"United Air Lines Inc.-Chicago, IL-Las Vegas, NV Total Total",United Air Lines Inc.,"Chicago, IL","Las Vegas, NV",41.8755616,-87.6244212,36.1674263,-115.1484131
+248584,58914408,"American Airlines Inc.-Tulsa, OK-Dallas/Fort Worth, TX Total Total",American Airlines Inc.,"Tulsa, OK","Dallas/Fort Worth, TX",36.1563122,-95.9927516,32.8369894,-97.033926
+248294,91372192,"Delta Air Lines Inc.-Salt Lake City, UT-Las Vegas, NV Total Total",Delta Air Lines Inc.,"Salt Lake City, UT","Las Vegas, NV",40.7596198,-111.886797,36.1674263,-115.1484131
+248185,1092262185,"Delta Air Lines Inc.-Atlanta, GA-Amsterdam, Netherlands Total Total",Delta Air Lines Inc.,"Atlanta, GA","Amsterdam, Netherlands",33.7544657,-84.3898151,52.3730796,4.8924534
+247995,180540360,"American Airlines Inc.-Charlotte, NC-Boston, MA Total Total",American Airlines Inc.,"Charlotte, NC","Boston, MA",35.2272086,-80.8430827,42.3554334,-71.060511
+247778,75571822,"United Air Lines Inc.-New Orleans, LA-Houston, TX Total Total",United Air Lines Inc.,"New Orleans, LA","Houston, TX",29.9559145,-90.0730259,29.7589382,-95.3676974
+247360,146189760,"Southwest Airlines Co.-Chicago, IL-Atlanta, GA Total Total",Southwest Airlines Co.,"Chicago, IL","Atlanta, GA",41.8755616,-87.6244212,33.7544657,-84.3898151
+247340,210981020,"Southwest Airlines Co.-Denver, CO-San Diego, CA Total Total",Southwest Airlines Co.,"Denver, CO","San Diego, CA",39.7392364,-104.984862,32.7174202,-117.162772
+247152,265935552,"Spirit Air Lines-Fort Lauderdale, FL-New York, NY Total Total",Spirit Air Lines,"Fort Lauderdale, FL","New York, NY",26.1223084,-80.1433786,40.7127281,-74.0060152
+246542,381400474,"Delta Air Lines Inc.-Atlanta, GA-San Juan, PR Total Total",Delta Air Lines Inc.,"Atlanta, GA","San Juan, PR",33.7544657,-84.3898151,18.384239,-66.05344
+246507,437056911,"US Airways Inc.-Phoenix, AZ-Charlotte, NC Total Total",US Airways Inc.,"Phoenix, AZ","Charlotte, NC",33.4484367,-112.074141,35.2272086,-80.8430827
+246251,89142862,"Southwest Airlines Co.-Ontario, CA-Oakland, CA Total Total",Southwest Airlines Co.,"Ontario, CA","Oakland, CA",50.000678,-86.000977,37.8044557,-122.271356
+246244,58359828,"American Airlines Inc.-Dallas/Fort Worth, TX-Tulsa, OK Total Total",American Airlines Inc.,"Dallas/Fort Worth, TX","Tulsa, OK",32.8369894,-97.033926,36.1563122,-95.9927516
+245698,292134922,"JetBlue Airways-San Juan, PR-Orlando, FL Total Total",JetBlue Airways,"San Juan, PR","Orlando, FL",18.384239,-66.05344,28.5421109,-81.3790304
+245132,551056736,"Delta Air Lines Inc.-New York, NY-Las Vegas, NV Total Total",Delta Air Lines Inc.,"New York, NY","Las Vegas, NV",40.7127281,-74.0060152,36.1674263,-115.1484131
+244738,381363674,"United Air Lines Inc.-Tokyo, Japan-Guam, TT Total Total",United Air Lines Inc.,"Tokyo, Japan","Guam, TT",35.6768601,139.7638947,16.7113157,121.8909626
+244411,81907684,"Delta Air Lines Inc.-Minneapolis, MN-Chicago, IL Total Total",Delta Air Lines Inc.,"Minneapolis, MN","Chicago, IL",44.9772995,-93.2654692,41.8755616,-87.6244212
+244339,262908764,"Spirit Air Lines-New York, NY-Fort Lauderdale, FL Total Total",Spirit Air Lines,"New York, NY","Fort Lauderdale, FL",40.7127281,-74.0060152,26.1223084,-80.1433786
+244241,274526884,"Delta Air Lines Inc.-Minneapolis, MN-Boston, MA Total Total",Delta Air Lines Inc.,"Minneapolis, MN","Boston, MA",44.9772995,-93.2654692,42.3554334,-71.060511
+243114,95057574,"Southwest Airlines Co.-Salt Lake City, UT-Denver, CO Total Total",Southwest Airlines Co.,"Salt Lake City, UT","Denver, CO",40.7596198,-111.886797,39.7392364,-104.984862
+242814,1455669930,"Asiana Airlines Inc.-Los Angeles, CA-Seoul, South Korea Total Total",Asiana Airlines Inc.,"Los Angeles, CA","Seoul, South Korea",34.0536909,-118.242766,37.5666791,126.9782914
+242320,87719840,"Southwest Airlines Co.-Oakland, CA-Ontario, CA Total Total",Southwest Airlines Co.,"Oakland, CA","Ontario, CA",37.8044557,-122.271356,50.000678,-86.000977
+242221,386826937,"United Air Lines Inc.-Boston, MA-Houston, TX Total Total",United Air Lines Inc.,"Boston, MA","Houston, TX",42.3554334,-71.060511,29.7589382,-95.3676974
+242046,81569502,"Compass Airlines-San Francisco, CA-Los Angeles, CA Total Total",Compass Airlines,"San Francisco, CA","Los Angeles, CA",37.7792588,-122.4193286,34.0536909,-118.242766
+241977,96548823,"American Airlines Inc.-Boston, MA-Washington, DC Total Total",American Airlines Inc.,"Boston, MA","Washington, DC",42.3554334,-71.060511,38.8950368,-77.0365427
+241645,80968540,"Delta Air Lines Inc.-Chicago, IL-Minneapolis, MN Total Total",Delta Air Lines Inc.,"Chicago, IL","Minneapolis, MN",41.8755616,-87.6244212,44.9772995,-93.2654692
+241565,95418175,"Southwest Airlines Co.-Nashville, TN-Chicago, IL Total Total",Southwest Airlines Co.,"Nashville, TN","Chicago, IL",36.1622767,-86.7742984,41.8755616,-87.6244212
+241066,831918766,"American Airlines Inc.-London, United Kingdom-New York, NY Total Total",American Airlines Inc.,"London, United Kingdom","New York, NY",51.4893335,-0.1440551,40.7127281,-74.0060152
+241002,427296546,"American Airlines Inc.-Phoenix, AZ-Charlotte, NC Total Total",American Airlines Inc.,"Phoenix, AZ","Charlotte, NC",33.4484367,-112.074141,35.2272086,-80.8430827
+240826,622776036,"JetBlue Airways-New York, NY-San Francisco, CA Total Total",JetBlue Airways,"New York, NY","San Francisco, CA",40.7127281,-74.0060152,37.7792588,-122.4193286
+240705,145626525,"Alaska Airlines Inc.-Sacramento, CA-Seattle, WA Total Total",Alaska Airlines Inc.,"Sacramento, CA","Seattle, WA",38.5810606,-121.493895,47.6038321,-122.330062
+240700,1442996500,"Korean Air Lines Co. Ltd.-Los Angeles, CA-Seoul, South Korea Total Total",Korean Air Lines Co. Ltd.,"Los Angeles, CA","Seoul, South Korea",34.0536909,-118.242766,37.5666791,126.9782914
+240413,212284679,"Southwest Airlines Co.-Houston, TX-Denver, CO Total Total",Southwest Airlines Co.,"Houston, TX","Denver, CO",29.7589382,-95.3676974,39.7392364,-104.984862
+240382,621627852,"JetBlue Airways-San Francisco, CA-New York, NY Total Total",JetBlue Airways,"San Francisco, CA","New York, NY",37.7792588,-122.4193286,40.7127281,-74.0060152
+240109,150788452,"Frontier Airlines Inc.-Denver, CO-Las Vegas, NV Total Total",Frontier Airlines Inc.,"Denver, CO","Las Vegas, NV",39.7392364,-104.984862,36.1674263,-115.1484131
+240107,1439441465,"Asiana Airlines Inc.-Seoul, South Korea-Los Angeles, CA Total Total",Asiana Airlines Inc.,"Seoul, South Korea","Los Angeles, CA",37.5666791,126.9782914,34.0536909,-118.242766
+239753,206427333,"US Airways Inc.-Orlando, FL-Philadelphia, PA Total Total",US Airways Inc.,"Orlando, FL","Philadelphia, PA",28.5421109,-81.3790304,39.9527237,-75.1635262
+239275,60058025,"Southwest Airlines Co.-Chicago, IL-St. Louis, MO Total Total",Southwest Airlines Co.,"Chicago, IL","St. Louis, MO",41.8755616,-87.6244212,38.6280278,-90.1910154
+239199,382000803,"United Air Lines Inc.-Houston, TX-Boston, MA Total Total",United Air Lines Inc.,"Houston, TX","Boston, MA",29.7589382,-95.3676974,42.3554334,-71.060511
+239169,93275910,"Southwest Airlines Co.-Sacramento, CA-Ontario, CA Total Total",Southwest Airlines Co.,"Sacramento, CA","Ontario, CA",38.5810606,-121.493895,50.000678,-86.000977
+239096,1355674320,"Compagnie Natl Air France-Paris, France-Los Angeles, CA Total Total",Compagnie Natl Air France,"Paris, France","Los Angeles, CA",48.8534951,2.3483915,34.0536909,-118.242766
+238940,59973940,"Southwest Airlines Co.-St. Louis, MO-Chicago, IL Total Total",Southwest Airlines Co.,"St. Louis, MO","Chicago, IL",38.6280278,-90.1910154,41.8755616,-87.6244212
+238719,108139707,"Delta Air Lines Inc.-Little Rock, AR-Atlanta, GA Total Total",Delta Air Lines Inc.,"Little Rock, AR","Atlanta, GA",34.7465071,-92.2896267,33.7544657,-84.3898151
+238550,283635950,"JetBlue Airways-Orlando, FL-San Juan, PR Total Total",JetBlue Airways,"Orlando, FL","San Juan, PR",28.5421109,-81.3790304,18.384239,-66.05344
+238307,173487496,"American Airlines Inc.-Boston, MA-Charlotte, NC Total Total",American Airlines Inc.,"Boston, MA","Charlotte, NC",42.3554334,-71.060511,35.2272086,-80.8430827
+237935,106832815,"American Airlines Inc.-Charlotte, NC-Philadelphia, PA Total Total",American Airlines Inc.,"Charlotte, NC","Philadelphia, PA",35.2272086,-80.8430827,39.9527237,-75.1635262
+237877,53284448,"Horizon Air-Spokane, WA-Seattle, WA Total Total",Horizon Air,"Spokane, WA","Seattle, WA",47.6571934,-117.42351,47.6038321,-122.330062
+237861,173162808,"US Airways Inc.-Charlotte, NC-Boston, MA Total Total",US Airways Inc.,"Charlotte, NC","Boston, MA",35.2272086,-80.8430827,42.3554334,-71.060511
+237835,129857910,"Southwest Airlines Co.-Dallas, TX-St. Louis, MO Total Total",Southwest Airlines Co.,"Dallas, TX","St. Louis, MO",32.7762719,-96.7968559,38.6280278,-90.1910154
+237778,823900770,"United Air Lines Inc.-London, United Kingdom-Newark, NJ Total Total",United Air Lines Inc.,"London, United Kingdom","Newark, NJ",51.4893335,-0.1440551,40.735657,-74.1723667
+237772,143852060,"Alaska Airlines Inc.-Seattle, WA-Sacramento, CA Total Total",Alaska Airlines Inc.,"Seattle, WA","Sacramento, CA",47.6038321,-122.330062,38.5810606,-121.493895
+237573,107620569,"Delta Air Lines Inc.-Atlanta, GA-Little Rock, AR Total Total",Delta Air Lines Inc.,"Atlanta, GA","Little Rock, AR",33.7544657,-84.3898151,34.7465071,-92.2896267
+237047,159250776,"Southwest Airlines Co.-Oakland, CA-Seattle, WA Total Total",Southwest Airlines Co.,"Oakland, CA","Seattle, WA",37.8044557,-122.271356,47.6038321,-122.330062
+236633,232610239,"Delta Air Lines Inc.-Detroit, MI-Tampa, FL Total Total",Delta Air Lines Inc.,"Detroit, MI","Tampa, FL",42.3315509,-83.0466403,27.9477595,-82.458444
+236122,814857022,"American Airlines Inc.-New York, NY-London, United Kingdom Total Total",American Airlines Inc.,"New York, NY","London, United Kingdom",40.7127281,-74.0060152,51.4893335,-0.1440551
+236022,1535087088,"Air New Zealand-Auckland, New Zealand-Los Angeles, CA Total Total",Air New Zealand,"Auckland, New Zealand","Los Angeles, CA",-36.852095,174.7631803,34.0536909,-118.242766
+235823,128759358,"Southwest Airlines Co.-St. Louis, MO-Dallas, TX Total Total",Southwest Airlines Co.,"St. Louis, MO","Dallas, TX",38.6280278,-90.1910154,32.7762719,-96.7968559
+235614,291454518,"JetBlue Airways-Fort Lauderdale, FL-Boston, MA Total Total",JetBlue Airways,"Fort Lauderdale, FL","Boston, MA",26.1223084,-80.1433786,42.3554334,-71.060511
+235360,468366400,"Delta Air Lines Inc.-New York, NY-Salt Lake City, UT Total Total",Delta Air Lines Inc.,"New York, NY","Salt Lake City, UT",40.7127281,-74.0060152,40.7596198,-111.886797
+235334,582446790,"Virgin America-Los Angeles, CA-New York, NY Total Total",Virgin America,"Los Angeles, CA","New York, NY",34.0536909,-118.242766,40.7127281,-74.0060152
+235333,232038338,"American Airlines Inc.-Detroit, MI-Dallas/Fort Worth, TX Total Total",American Airlines Inc.,"Detroit, MI","Dallas/Fort Worth, TX",42.3315509,-83.0466403,32.8369894,-97.033926
+235214,1333663380,"Compagnie Natl Air France-Los Angeles, CA-Paris, France Total Total",Compagnie Natl Air France,"Los Angeles, CA","Paris, France",34.0536909,-118.242766,48.8534951,2.3483915
+235097,231100351,"Delta Air Lines Inc.-Tampa, FL-Detroit, MI Total Total",Delta Air Lines Inc.,"Tampa, FL","Detroit, MI",27.9477595,-82.458444,42.3315509,-83.0466403
+234822,200303166,"Southwest Airlines Co.-San Diego, CA-Denver, CO Total Total",Southwest Airlines Co.,"San Diego, CA","Denver, CO",32.7174202,-117.162772,39.7392364,-104.984862
+234814,231526604,"American Airlines Inc.-Dallas/Fort Worth, TX-Detroit, MI Total Total",American Airlines Inc.,"Dallas/Fort Worth, TX","Detroit, MI",32.8369894,-97.033926,42.3315509,-83.0466403
+234767,91559130,"Southwest Airlines Co.-Ontario, CA-Sacramento, CA Total Total",Southwest Airlines Co.,"Ontario, CA","Sacramento, CA",50.000678,-86.000977,38.5810606,-121.493895
+234750,1031726250,"Compagnie Natl Air France-Atlanta, GA-Paris, France Total Total",Compagnie Natl Air France,"Atlanta, GA","Paris, France",33.7544657,-84.3898151,48.8534951,2.3483915
+234644,466941560,"Delta Air Lines Inc.-Salt Lake City, UT-New York, NY Total Total",Delta Air Lines Inc.,"Salt Lake City, UT","New York, NY",40.7596198,-111.886797,40.7127281,-74.0060152
+234305,92550475,"Southwest Airlines Co.-Chicago, IL-Nashville, TN Total Total",Southwest Airlines Co.,"Chicago, IL","Nashville, TN",41.8755616,-87.6244212,36.1622767,-86.7742984
+234268,93472932,"American Airlines Inc.-Washington, DC-Boston, MA Total Total",American Airlines Inc.,"Washington, DC","Boston, MA",38.8950368,-77.0365427,42.3554334,-71.060511
+233856,974244096,"Delta Air Lines Inc.-Amsterdam, Netherlands-Minneapolis, MN Total Total",Delta Air Lines Inc.,"Amsterdam, Netherlands","Minneapolis, MN",52.3730796,4.8924534,44.9772995,-93.2654692
+233815,578688375,"Virgin America-New York, NY-Los Angeles, CA Total Total",Virgin America,"New York, NY","Los Angeles, CA",40.7127281,-74.0060152,34.0536909,-118.242766
+233711,201225171,"US Airways Inc.-Philadelphia, PA-Orlando, FL Total Total",US Airways Inc.,"Philadelphia, PA","Orlando, FL",39.9527237,-75.1635262,28.5421109,-81.3790304
+233684,201201924,"American Airlines Inc.-Philadelphia, PA-Orlando, FL Total Total",American Airlines Inc.,"Philadelphia, PA","Orlando, FL",39.9527237,-75.1635262,28.5421109,-81.3790304
+233479,1518547416,"Air New Zealand-Los Angeles, CA-Auckland, New Zealand Total Total",Air New Zealand,"Los Angeles, CA","Auckland, New Zealand",34.0536909,-118.242766,-36.852095,174.7631803
+233435,644747470,"Hawaiian Airlines Inc.-Las Vegas, NV-Honolulu, HI Total Total",Hawaiian Airlines Inc.,"Las Vegas, NV","Honolulu, HI",36.1674263,-115.1484131,21.304547,-157.855676
+233095,156595299,"Southwest Airlines Co.-Seattle, WA-Oakland, CA Total Total",Southwest Airlines Co.,"Seattle, WA","Oakland, CA",47.6038321,-122.330062,37.8044557,-122.271356
+232855,155547140,"Southwest Airlines Co.-Chicago, IL-Philadelphia, PA Total Total",Southwest Airlines Co.,"Chicago, IL","Philadelphia, PA",41.8755616,-87.6244212,39.9527237,-75.1635262
+232688,145662688,"Delta Air Lines Inc.-Salt Lake City, UT-San Diego, CA Total Total",Delta Air Lines Inc.,"Salt Lake City, UT","San Diego, CA",40.7596198,-111.886797,32.7174202,-117.162772
+232560,287676720,"JetBlue Airways-Boston, MA-Fort Lauderdale, FL Total Total",JetBlue Airways,"Boston, MA","Fort Lauderdale, FL",42.3554334,-71.060511,26.1223084,-80.1433786
+232343,1392896285,"Korean Air Lines Co. Ltd.-Seoul, South Korea-Los Angeles, CA Total Total",Korean Air Lines Co. Ltd.,"Seoul, South Korea","Los Angeles, CA",37.5666791,126.9782914,34.0536909,-118.242766
+232069,145739332,"Frontier Airlines Inc.-Las Vegas, NV-Denver, CO Total Total",Frontier Airlines Inc.,"Las Vegas, NV","Denver, CO",36.1674263,-115.1484131,39.7392364,-104.984862
+231908,122679332,"American Airlines Inc.-Newark, NJ-Charlotte, NC Total Total",American Airlines Inc.,"Newark, NJ","Charlotte, NC",40.735657,-74.1723667,35.2272086,-80.8430827
+231886,104116814,"American Airlines Inc.-Philadelphia, PA-Charlotte, NC Total Total",American Airlines Inc.,"Philadelphia, PA","Charlotte, NC",39.9527237,-75.1635262,35.2272086,-80.8430827
+231804,204682932,"Southwest Airlines Co.-Denver, CO-Houston, TX Total Total",Southwest Airlines Co.,"Denver, CO","Houston, TX",39.7392364,-104.984862,29.7589382,-95.3676974
+231775,1025604375,"British Airways Plc-Miami, FL-London, United Kingdom Total Total",British Airways Plc,"Miami, FL","London, United Kingdom",25.7741728,-80.19362,51.4893335,-0.1440551
+231466,131704154,"American Airlines Inc.-Albuquerque, NM-Dallas/Fort Worth, TX Total Total",American Airlines Inc.,"Albuquerque, NM","Dallas/Fort Worth, TX",35.0841034,-106.650985,32.8369894,-97.033926
+231202,342410162,"Delta Air Lines Inc.-Detroit, MI-Salt Lake City, UT Total Total",Delta Air Lines Inc.,"Detroit, MI","Salt Lake City, UT",42.3315509,-83.0466403,40.7596198,-111.886797
+231133,1240490811,"British Airways Plc-London, United Kingdom-San Francisco, CA Total Total",British Airways Plc,"London, United Kingdom","San Francisco, CA",51.4893335,-0.1440551,37.7792588,-122.4193286
+231036,93800616,"Southwest Airlines Co.-Atlanta, GA-Tampa, FL Total Total",Southwest Airlines Co.,"Atlanta, GA","Tampa, FL",33.7544657,-84.3898151,27.9477595,-82.458444
+230983,198876363,"American Airlines Inc.-Orlando, FL-Philadelphia, PA Total Total",American Airlines Inc.,"Orlando, FL","Philadelphia, PA",28.5421109,-81.3790304,39.9527237,-75.1635262
+230971,122183659,"American Airlines Inc.-Charlotte, NC-Newark, NJ Total Total",American Airlines Inc.,"Charlotte, NC","Newark, NJ",35.2272086,-80.8430827,40.735657,-74.1723667
+230881,92121519,"US Airways Inc.-Boston, MA-Washington, DC Total Total",US Airways Inc.,"Boston, MA","Washington, DC",42.3554334,-71.060511,38.8950368,-77.0365427
+229875,153556500,"Southwest Airlines Co.-Philadelphia, PA-Chicago, IL Total Total",Southwest Airlines Co.,"Philadelphia, PA","Chicago, IL",39.9527237,-75.1635262,41.8755616,-87.6244212
+229764,91675836,"US Airways Inc.-Washington, DC-Boston, MA Total Total",US Airways Inc.,"Washington, DC","Boston, MA",38.8950368,-77.0365427,42.3554334,-71.060511
+229629,180718023,"United Air Lines Inc.-Tampa, FL-Houston, TX Total Total",United Air Lines Inc.,"Tampa, FL","Houston, TX",27.9477595,-82.458444,29.7589382,-95.3676974
+229617,215151129,"JetBlue Airways-Newark, NJ-Orlando, FL Total Total",JetBlue Airways,"Newark, NJ","Orlando, FL",40.735657,-74.1723667,28.5421109,-81.3790304
+229323,264180096,"Compania Panamena (Copa)-Miami, FL-Panama City, Panama Total Total",Compania Panamena (Copa),"Miami, FL","Panama City, Panama",25.7741728,-80.19362,8.9714493,-79.5341802
+229230,1007465850,"Compagnie Natl Air France-Paris, France-Atlanta, GA Total Total",Compagnie Natl Air France,"Paris, France","Atlanta, GA",48.8534951,2.3483915,33.7544657,-84.3898151
+228746,1227679782,"British Airways Plc-San Francisco, CA-London, United Kingdom Total Total",British Airways Plc,"San Francisco, CA","London, United Kingdom",37.7792588,-122.4193286,51.4893335,-0.1440551
+228631,234118144,"Alaska Airlines Inc.-Denver, CO-Seattle, WA Total Total",Alaska Airlines Inc.,"Denver, CO","Seattle, WA",39.7392364,-104.984862,47.6038321,-122.330062
+228379,220556466,"United Air Lines Inc.-Fort Lauderdale, FL-Houston, TX Total Total",United Air Lines Inc.,"Fort Lauderdale, FL","Houston, TX",26.1223084,-80.1433786,29.7589382,-95.3676974
+227994,142724244,"Delta Air Lines Inc.-San Diego, CA-Salt Lake City, UT Total Total",Delta Air Lines Inc.,"San Diego, CA","Salt Lake City, UT",32.7174202,-117.162772,40.7596198,-111.886797
+227702,213356774,"JetBlue Airways-Orlando, FL-Newark, NJ Total Total",JetBlue Airways,"Orlando, FL","Newark, NJ",28.5421109,-81.3790304,40.735657,-74.1723667
+227656,219859258,"United Air Lines Inc.-Houston, TX-Fort Lauderdale, FL Total Total",United Air Lines Inc.,"Houston, TX","Fort Lauderdale, FL",29.7589382,-95.3676974,26.1223084,-80.1433786
+227635,1007284875,"British Airways Plc-London, United Kingdom-Miami, FL Total Total",British Airways Plc,"London, United Kingdom","Miami, FL",51.4893335,-0.1440551,25.7741728,-80.19362
+227494,513908946,"Air Canada-San Francisco, CA-Toronto, Canada Total Total",Air Canada,"San Francisco, CA","Toronto, Canada",37.7792588,-122.4193286,43.6534817,-79.3839347
+227178,226496466,"Southwest Airlines Co.-Tampa, FL-Chicago, IL Total Total",Southwest Airlines Co.,"Tampa, FL","Chicago, IL",27.9477595,-82.458444,41.8755616,-87.6244212
+227054,478175724,"Southwest Airlines Co.-Baltimore, MD-Las Vegas, NV Total Total",Southwest Airlines Co.,"Baltimore, MD","Las Vegas, NV",39.2908816,-76.610759,36.1674263,-115.1484131
+226621,82943286,"Delta Air Lines Inc.-Daytona Beach, FL-Atlanta, GA Total Total",Delta Air Lines Inc.,"Daytona Beach, FL","Atlanta, GA",29.2108147,-81.0228331,33.7544657,-84.3898151
+226302,164747856,"US Airways Inc.-Boston, MA-Charlotte, NC Total Total",US Airways Inc.,"Boston, MA","Charlotte, NC",42.3554334,-71.060511,35.2272086,-80.8430827
+226174,342427436,"American Airlines Inc.-Las Vegas, NV-Chicago, IL Total Total",American Airlines Inc.,"Las Vegas, NV","Chicago, IL",36.1674263,-115.1484131,41.8755616,-87.6244212
+226025,361187950,"Delta Air Lines Inc.-New York, NY-San Juan, PR Total Total",Delta Air Lines Inc.,"New York, NY","San Juan, PR",40.7127281,-74.0060152,18.384239,-66.05344
+226015,510567885,"Air Canada-Toronto, Canada-San Francisco, CA Total Total",Air Canada,"Toronto, Canada","San Francisco, CA",43.6534817,-79.3839347,37.7792588,-122.4193286
+225981,75479364,"United Air Lines Inc.-Minneapolis, MN-Chicago, IL Total Total",United Air Lines Inc.,"Minneapolis, MN","Chicago, IL",44.9772995,-93.2654692,41.8755616,-87.6244212
+225810,236197260,"JetBlue Airways-San Juan, PR-Fort Lauderdale, FL Total Total",JetBlue Airways,"San Juan, PR","Fort Lauderdale, FL",18.384239,-66.05344,26.1223084,-80.1433786
+225733,124153150,"United Air Lines Inc.-Portland, OR-San Francisco, CA Total Total",United Air Lines Inc.,"Portland, OR","San Francisco, CA",45.5202471,-122.674194,37.7792588,-122.4193286
+225677,80792366,"Southwest Airlines Co.-Burbank, CA-Sacramento, CA Total Total",Southwest Airlines Co.,"Burbank, CA","Sacramento, CA",34.1812089,-118.307201,38.5810606,-121.493895
+225486,230897664,"Alaska Airlines Inc.-Seattle, WA-Denver, CO Total Total",Alaska Airlines Inc.,"Seattle, WA","Denver, CO",47.6038321,-122.330062,39.7392364,-104.984862
+225271,146651421,"Southwest Airlines Co.-Dallas, TX-Denver, CO Total Total",Southwest Airlines Co.,"Dallas, TX","Denver, CO",32.7762719,-96.7968559,39.7392364,-104.984862
+225194,340943716,"American Airlines Inc.-Chicago, IL-Las Vegas, NV Total Total",American Airlines Inc.,"Chicago, IL","Las Vegas, NV",41.8755616,-87.6244212,36.1674263,-115.1484131
+225137,70969024,"United Air Lines Inc.-Cleveland, OH-Chicago, IL Total Total",United Air Lines Inc.,"Cleveland, OH","Chicago, IL",41.4996574,-81.6936772,41.8755616,-87.6244212
+225071,128065399,"American Airlines Inc.-Dallas/Fort Worth, TX-Albuquerque, NM Total Total",American Airlines Inc.,"Dallas/Fort Worth, TX","Albuquerque, NM",32.8369894,-97.033926,35.0841034,-106.650985
+224722,386746562,"American Airlines Inc.-Chicago, IL-Seattle, WA Total Total",American Airlines Inc.,"Chicago, IL","Seattle, WA",41.8755616,-87.6244212,47.6038321,-122.330062
+224642,91204652,"Southwest Airlines Co.-Tampa, FL-Atlanta, GA Total Total",Southwest Airlines Co.,"Tampa, FL","Atlanta, GA",27.9477595,-82.458444,33.7544657,-84.3898151
+224488,386344616,"United Air Lines Inc.-Seattle, WA-Chicago, IL Total Total",United Air Lines Inc.,"Seattle, WA","Chicago, IL",47.6038321,-122.330062,41.8755616,-87.6244212
+224395,225516975,"American Airlines Inc.-Orlando, FL-Chicago, IL Total Total",American Airlines Inc.,"Orlando, FL","Chicago, IL",28.5421109,-81.3790304,41.8755616,-87.6244212
+224368,225489840,"American Airlines Inc.-Chicago, IL-Orlando, FL Total Total",American Airlines Inc.,"Chicago, IL","Orlando, FL",41.8755616,-87.6244212,28.5421109,-81.3790304
+224368,24456112,"SkyWest Airlines Inc.-San Diego, CA-Los Angeles, CA Total Total",SkyWest Airlines Inc.,"San Diego, CA","Los Angeles, CA",32.7174202,-117.162772,34.0536909,-118.242766
+224261,82079526,"Delta Air Lines Inc.-Atlanta, GA-Daytona Beach, FL Total Total",Delta Air Lines Inc.,"Atlanta, GA","Daytona Beach, FL",33.7544657,-84.3898151,29.2108147,-81.0228331
+224260,129398020,"Southwest Airlines Co.-Baltimore, MD-Atlanta, GA Total Total",Southwest Airlines Co.,"Baltimore, MD","Atlanta, GA",39.2908816,-76.610759,33.7544657,-84.3898151
+224048,72815600,"Southwest Airlines Co.-Phoenix, AZ-Ontario, CA Total Total",Southwest Airlines Co.,"Phoenix, AZ","Ontario, CA",33.4484367,-112.074141,50.000678,-86.000977
+224011,80195938,"Southwest Airlines Co.-Sacramento, CA-Burbank, CA Total Total",Southwest Airlines Co.,"Sacramento, CA","Burbank, CA",38.5810606,-121.493895,34.1812089,-118.307201
+223976,238982392,"Southwest Airlines Co.-Dallas, TX-Las Vegas, NV Total Total",Southwest Airlines Co.,"Dallas, TX","Las Vegas, NV",32.7762719,-96.7968559,36.1674263,-115.1484131
+223941,572393196,"American Airlines Inc.-Honolulu, HI-Los Angeles, CA Total Total",American Airlines Inc.,"Honolulu, HI","Los Angeles, CA",21.304547,-157.855676,34.0536909,-118.242766
+223930,113532510,"US Airways Inc.-Tampa, FL-Charlotte, NC Total Total",US Airways Inc.,"Tampa, FL","Charlotte, NC",27.9477595,-82.458444,35.2272086,-80.8430827
+223876,123131800,"United Air Lines Inc.-San Francisco, CA-Portland, OR Total Total",United Air Lines Inc.,"San Francisco, CA","Portland, OR",37.7792588,-122.4193286,45.5202471,-122.674194
+223869,257897088,"Compania Panamena (Copa)-Panama City, Panama-Miami, FL Total Total",Compania Panamena (Copa),"Panama City, Panama","Miami, FL",8.9714493,-79.5341802,25.7741728,-80.19362
+223638,145588338,"Southwest Airlines Co.-Denver, CO-Dallas, TX Total Total",Southwest Airlines Co.,"Denver, CO","Dallas, TX",39.7392364,-104.984862,32.7762719,-96.7968559
+223414,128909878,"Southwest Airlines Co.-Atlanta, GA-Baltimore, MD Total Total",Southwest Airlines Co.,"Atlanta, GA","Baltimore, MD",33.7544657,-84.3898151,39.2908816,-76.610759
+223076,330375556,"Delta Air Lines Inc.-Salt Lake City, UT-Detroit, MI Total Total",Delta Air Lines Inc.,"Salt Lake City, UT","Detroit, MI",40.7596198,-111.886797,42.3315509,-83.0466403
+222897,615641514,"Hawaiian Airlines Inc.-Honolulu, HI-Las Vegas, NV Total Total",Hawaiian Airlines Inc.,"Honolulu, HI","Las Vegas, NV",21.304547,-157.855676,36.1674263,-115.1484131
+222362,926360092,"Delta Air Lines Inc.-Minneapolis, MN-Amsterdam, Netherlands Total Total",Delta Air Lines Inc.,"Minneapolis, MN","Amsterdam, Netherlands",44.9772995,-93.2654692,52.3730796,4.8924534
+222325,355275350,"Delta Air Lines Inc.-San Juan, PR-New York, NY Total Total",Delta Air Lines Inc.,"San Juan, PR","New York, NY",18.384239,-66.05344,40.7127281,-74.0060152
+222076,41528212,"JetBlue Airways-Boston, MA-New York, NY Total Total",JetBlue Airways,"Boston, MA","New York, NY",42.3554334,-71.060511,40.7127281,-74.0060152
+222033,65943801,"Delta Air Lines Inc.-Milwaukee, WI-Minneapolis, MN Total Total",Delta Air Lines Inc.,"Milwaukee, WI","Minneapolis, MN",43.0386475,-87.9090751,44.9772995,-93.2654692
+221941,236811047,"Southwest Airlines Co.-Las Vegas, NV-Dallas, TX Total Total",Southwest Airlines Co.,"Las Vegas, NV","Dallas, TX",36.1674263,-115.1484131,32.7762719,-96.7968559
+221936,467397216,"Southwest Airlines Co.-Las Vegas, NV-Baltimore, MD Total Total",Southwest Airlines Co.,"Las Vegas, NV","Baltimore, MD",36.1674263,-115.1484131,39.2908816,-76.610759
+221805,1386503055,"Air China-Los Angeles, CA-Beijing, China Total Total",Air China,"Los Angeles, CA","Beijing, China",34.0536909,-118.242766,40.190632,116.412144
+221647,112375029,"American Airlines Inc.-Tampa, FL-Charlotte, NC Total Total",American Airlines Inc.,"Tampa, FL","Charlotte, NC",27.9477595,-82.458444,35.2272086,-80.8430827
+221516,566194896,"American Airlines Inc.-Los Angeles, CA-Honolulu, HI Total Total",American Airlines Inc.,"Los Angeles, CA","Honolulu, HI",34.0536909,-118.242766,21.304547,-157.855676
+221033,173952971,"United Air Lines Inc.-Houston, TX-Tampa, FL Total Total",United Air Lines Inc.,"Houston, TX","Tampa, FL",29.7589382,-95.3676974,27.9477595,-82.458444
+220719,314745294,"Delta Air Lines Inc.-Minneapolis, MN-Portland, OR Total Total",Delta Air Lines Inc.,"Minneapolis, MN","Portland, OR",44.9772995,-93.2654692,45.5202471,-122.674194
+220531,56235405,"Southwest Airlines Co.-Baltimore, MD-Raleigh/Durham, NC Total Total",Southwest Airlines Co.,"Baltimore, MD","Raleigh/Durham, NC",39.2908816,-76.610759,35.8803614,-78.7872382
+220204,33691212,"Delta Air Lines Inc.-Greer, SC-Atlanta, GA Total Total",Delta Air Lines Inc.,"Greer, SC","Atlanta, GA",34.9381361,-82.2272119,33.7544657,-84.3898151
+219972,111525804,"American Airlines Inc.-Charlotte, NC-Tampa, FL Total Total",American Airlines Inc.,"Charlotte, NC","Tampa, FL",35.2272086,-80.8430827,27.9477595,-82.458444
+219890,1248439728,"El Al Israel Airlines Ltd.-New York, NY-Tel Aviv, Israel Total Total",El Al Israel Airlines Ltd.,"New York, NY","Tel Aviv, Israel",40.7127281,-74.0060152,32.0852997,34.7818064
+219640,41072680,"JetBlue Airways-New York, NY-Boston, MA Total Total",JetBlue Airways,"New York, NY","Boston, MA",40.7127281,-74.0060152,42.3554334,-71.060511
+219421,81624612,"Southwest Airlines Co.-Santa Ana, CA-San Francisco, CA Total Total",Southwest Airlines Co.,"Santa Ana, CA","San Francisco, CA",33.7494951,-117.873221,37.7792588,-122.4193286
+219264,377353344,"American Airlines Inc.-Seattle, WA-Chicago, IL Total Total",American Airlines Inc.,"Seattle, WA","Chicago, IL",47.6038321,-122.330062,41.8755616,-87.6244212
+218812,1039357000,"American Airlines Inc.-Dallas/Fort Worth, TX-London, United Kingdom Total Total",American Airlines Inc.,"Dallas/Fort Worth, TX","London, United Kingdom",32.8369894,-97.033926,51.4893335,-0.1440551
+218602,1366481102,"Air China-Beijing, China-Los Angeles, CA Total Total",Air China,"Beijing, China","Los Angeles, CA",40.190632,116.412144,34.0536909,-118.242766
+218023,228052058,"JetBlue Airways-Fort Lauderdale, FL-San Juan, PR Total Total",JetBlue Airways,"Fort Lauderdale, FL","San Juan, PR",26.1223084,-80.1433786,18.384239,-66.05344
+218021,33357213,"Delta Air Lines Inc.-Atlanta, GA-Greer, SC Total Total",Delta Air Lines Inc.,"Atlanta, GA","Greer, SC",33.7544657,-84.3898151,34.9381361,-82.2272119
+217770,310540020,"Delta Air Lines Inc.-Portland, OR-Minneapolis, MN Total Total",Delta Air Lines Inc.,"Portland, OR","Minneapolis, MN",45.5202471,-122.674194,44.9772995,-93.2654692
+217310,55414050,"Southwest Airlines Co.-Raleigh/Durham, NC-Baltimore, MD Total Total",Southwest Airlines Co.,"Raleigh/Durham, NC","Baltimore, MD",35.8803614,-78.7872382,39.2908816,-76.610759
+217126,79902368,"Southwest Airlines Co.-Las Vegas, NV-Salt Lake City, UT Total Total",Southwest Airlines Co.,"Las Vegas, NV","Salt Lake City, UT",36.1674263,-115.1484131,40.7596198,-111.886797
+216814,216163558,"Southwest Airlines Co.-Chicago, IL-Tampa, FL Total Total",Southwest Airlines Co.,"Chicago, IL","Tampa, FL",41.8755616,-87.6244212,27.9477595,-82.458444
+216484,190289436,"Southwest Airlines Co.-Dallas, TX-Phoenix, AZ Total Total",Southwest Airlines Co.,"Dallas, TX","Phoenix, AZ",32.7762719,-96.7968559,33.4484367,-112.074141
+216353,97142497,"US Airways Inc.-Charlotte, NC-Philadelphia, PA Total Total",US Airways Inc.,"Charlotte, NC","Philadelphia, PA",35.2272086,-80.8430827,39.9527237,-75.1635262
+216118,109571826,"US Airways Inc.-Charlotte, NC-Tampa, FL Total Total",US Airways Inc.,"Charlotte, NC","Tampa, FL",35.2272086,-80.8430827,27.9477595,-82.458444
+216032,80363904,"Southwest Airlines Co.-San Francisco, CA-Santa Ana, CA Total Total",Southwest Airlines Co.,"San Francisco, CA","Santa Ana, CA",37.7792588,-122.4193286,33.7494951,-117.873221
+215936,522996874,"Delta Air Lines Inc.-Seattle, WA-New York, NY Total Total",Delta Air Lines Inc.,"Seattle, WA","New York, NY",47.6038321,-122.330062,40.7127281,-74.0060152
+215816,66255512,"Southwest Airlines Co.-Cleveland, OH-Chicago, IL Total Total",Southwest Airlines Co.,"Cleveland, OH","Chicago, IL",41.4996574,-81.6936772,41.8755616,-87.6244212
+215746,64076562,"Delta Air Lines Inc.-Minneapolis, MN-Milwaukee, WI Total Total",Delta Air Lines Inc.,"Minneapolis, MN","Milwaukee, WI",44.9772995,-93.2654692,43.0386475,-87.9090751
+215697,533846025,"United Air Lines Inc.-Los Angeles, CA-New York, NY Total Total",United Air Lines Inc.,"Los Angeles, CA","New York, NY",34.0536909,-118.242766,40.7127281,-74.0060152
+215677,281027131,"United Air Lines Inc.-San Diego, CA-Houston, TX Total Total",United Air Lines Inc.,"San Diego, CA","Houston, TX",32.7174202,-117.162772,29.7589382,-95.3676974
+215651,114941983,"Southwest Airlines Co.-Denver, CO-Kansas City, MO Total Total",Southwest Airlines Co.,"Denver, CO","Kansas City, MO",39.7392364,-104.984862,39.100105,-94.5781416
+215502,205589168,"Delta Air Lines Inc.-Los Angeles, CA-Seattle, WA Total Total",Delta Air Lines Inc.,"Los Angeles, CA","Seattle, WA",34.0536909,-118.242766,47.6038321,-122.330062
+215134,71857426,"United Air Lines Inc.-Chicago, IL-Minneapolis, MN Total Total",United Air Lines Inc.,"Chicago, IL","Minneapolis, MN",41.8755616,-87.6244212,44.9772995,-93.2654692
+214644,23396196,"SkyWest Airlines Inc.-Los Angeles, CA-San Diego, CA Total Total",SkyWest Airlines Inc.,"Los Angeles, CA","San Diego, CA",34.0536909,-118.242766,32.7174202,-117.162772
+214492,530862234,"United Air Lines Inc.-New York, NY-Los Angeles, CA Total Total",United Air Lines Inc.,"New York, NY","Los Angeles, CA",40.7127281,-74.0060152,34.0536909,-118.242766
+214430,369033893,"United Air Lines Inc.-Chicago, IL-Seattle, WA Total Total",United Air Lines Inc.,"Chicago, IL","Seattle, WA",41.8755616,-87.6244212,47.6038321,-122.330062
+214347,826522032,"Lufthansa German Airlines-Frankfurt, Germany-New York, NY Total Total",Lufthansa German Airlines,"Frankfurt, Germany","New York, NY",50.1106444,8.6820917,40.7127281,-74.0060152
+214314,108657198,"Southwest Airlines Co.-Salt Lake City, UT-Phoenix, AZ Total Total",Southwest Airlines Co.,"Salt Lake City, UT","Phoenix, AZ",40.7596198,-111.886797,33.4484367,-112.074141
+214001,162212758,"United Air Lines Inc.-Orlando, FL-Washington, DC Total Total",United Air Lines Inc.,"Orlando, FL","Washington, DC",28.5421109,-81.3790304,38.8950368,-77.0365427
+213989,1214938381,"El Al Israel Airlines Ltd.-Tel Aviv, Israel-New York, NY Total Total",El Al Israel Airlines Ltd.,"Tel Aviv, Israel","New York, NY",32.0852997,34.7818064,40.7127281,-74.0060152
+213602,218728746,"United Air Lines Inc.-Denver, CO-Seattle, WA Total Total",United Air Lines Inc.,"Denver, CO","Seattle, WA",39.7392364,-104.984862,47.6038321,-122.330062
+213133,927767949,"Virgin Atlantic Airways-London, United Kingdom-Orlando, FL Total Total",Virgin Atlantic Airways,"London, United Kingdom","Orlando, FL",51.4893335,-0.1440551,28.5421109,-81.3790304
+212919,187155801,"Southwest Airlines Co.-Phoenix, AZ-Dallas, TX Total Total",Southwest Airlines Co.,"Phoenix, AZ","Dallas, TX",33.4484367,-112.074141,32.7762719,-96.7968559
+212855,113451715,"Southwest Airlines Co.-Kansas City, MO-Denver, CO Total Total",Southwest Airlines Co.,"Kansas City, MO","Denver, CO",39.100105,-94.5781416,39.7392364,-104.984862
+212803,59797643,"Southwest Airlines Co.-Buffalo, NY-Baltimore, MD Total Total",Southwest Airlines Co.,"Buffalo, NY","Baltimore, MD",42.8867166,-78.8783922,39.2908816,-76.610759
+212691,14251090,"SkyWest Airlines Inc.-Milwaukee, WI-Chicago, IL Total Total",SkyWest Airlines Inc.,"Milwaukee, WI","Chicago, IL",43.0386475,-87.9090751,41.8755616,-87.6244212
+212535,225499635,"American Airlines Inc.-Raleigh/Durham, NC-Dallas/Fort Worth, TX Total Total",American Airlines Inc.,"Raleigh/Durham, NC","Dallas/Fort Worth, TX",35.8803614,-78.7872382,32.8369894,-97.033926
+212489,224175895,"Air Canada rouge LP-Toronto, Canada-Orlando, FL Total Total",Air Canada rouge LP,"Toronto, Canada","Orlando, FL",43.6534817,-79.3839347,28.5421109,-81.3790304
+212394,69665232,"Southwest Airlines Co.-Albuquerque, NM-Phoenix, AZ Total Total",Southwest Airlines Co.,"Albuquerque, NM","Phoenix, AZ",35.0841034,-106.650985,33.4484367,-112.074141
+212346,61367994,"Southwest Airlines Co.-Baltimore, MD-Albany, NY Total Total",Southwest Airlines Co.,"Baltimore, MD","Albany, NY",39.2908816,-76.610759,42.6511674,-73.754968
+212020,1455941340,"Etihad Airways-Abu Dhabi, United Arab Emirates-New York, NY Total Total",Etihad Airways,"Abu Dhabi, United Arab Emirates","New York, NY",24.4538352,54.3774014,40.7127281,-74.0060152
+211991,78012688,"Southwest Airlines Co.-Salt Lake City, UT-Las Vegas, NV Total Total",Southwest Airlines Co.,"Salt Lake City, UT","Las Vegas, NV",40.7596198,-111.886797,36.1674263,-115.1484131
+211985,460431420,"Delta Air Lines Inc.-Portland, OR-Atlanta, GA Total Total",Delta Air Lines Inc.,"Portland, OR","Atlanta, GA",45.5202471,-122.674194,33.7544657,-84.3898151
+211885,112087165,"US Airways Inc.-Newark, NJ-Charlotte, NC Total Total",US Airways Inc.,"Newark, NJ","Charlotte, NC",40.735657,-74.1723667,35.2272086,-80.8430827
+211871,47882846,"American Airlines Inc.-Atlanta, GA-Charlotte, NC Total Total",American Airlines Inc.,"Atlanta, GA","Charlotte, NC",33.7544657,-84.3898151,35.2272086,-80.8430827
+211322,136514012,"Southwest Airlines Co.-Phoenix, AZ-Oakland, CA Total Total",Southwest Airlines Co.,"Phoenix, AZ","Oakland, CA",33.4484367,-112.074141,37.8044557,-122.271356
+211321,68679325,"Southwest Airlines Co.-Ontario, CA-Phoenix, AZ Total Total",Southwest Airlines Co.,"Ontario, CA","Phoenix, AZ",50.000678,-86.000977,33.4484367,-112.074141
+211218,116169900,"Alaska Airlines Inc.-Portland, OR-San Francisco, CA Total Total",Alaska Airlines Inc.,"Portland, OR","San Francisco, CA",45.5202471,-122.674194,37.7792588,-122.4193286
+211164,114662052,"Southwest Airlines Co.-Oakland, CA-Portland, OR Total Total",Southwest Airlines Co.,"Oakland, CA","Portland, OR",37.8044557,-122.271356,45.5202471,-122.674194
+211133,107044431,"Southwest Airlines Co.-Phoenix, AZ-Salt Lake City, UT Total Total",Southwest Airlines Co.,"Phoenix, AZ","Salt Lake City, UT",33.4484367,-112.074141,40.7596198,-111.886797
+210868,60940852,"Southwest Airlines Co.-Albany, NY-Baltimore, MD Total Total",Southwest Airlines Co.,"Albany, NY","Baltimore, MD",42.6511674,-73.754968,39.2908816,-76.610759
+210822,201124188,"Delta Air Lines Inc.-Seattle, WA-Los Angeles, CA Total Total",Delta Air Lines Inc.,"Seattle, WA","Los Angeles, CA",47.6038321,-122.330062,34.0536909,-118.242766
+210721,510366262,"Delta Air Lines Inc.-New York, NY-Seattle, WA Total Total",Delta Air Lines Inc.,"New York, NY","Seattle, WA",40.7127281,-74.0060152,47.6038321,-122.330062
+210699,136111554,"Southwest Airlines Co.-Oakland, CA-Phoenix, AZ Total Total",Southwest Airlines Co.,"Oakland, CA","Phoenix, AZ",37.8044557,-122.271356,33.4484367,-112.074141
+210674,544781915,"Virgin America-San Francisco, CA-New York, NY Total Total",Virgin America,"San Francisco, CA","New York, NY",37.7792588,-122.4193286,40.7127281,-74.0060152
+210589,159626462,"United Air Lines Inc.-Washington, DC-Orlando, FL Total Total",United Air Lines Inc.,"Washington, DC","Orlando, FL",38.8950368,-77.0365427,28.5421109,-81.3790304
+210576,457792224,"American Airlines Inc.-Las Vegas, NV-Miami, FL Total Total",American Airlines Inc.,"Las Vegas, NV","Miami, FL",36.1674263,-115.1484131,25.7741728,-80.19362
+210421,69018088,"Southwest Airlines Co.-Phoenix, AZ-Albuquerque, NM Total Total",Southwest Airlines Co.,"Phoenix, AZ","Albuquerque, NM",33.4484367,-112.074141,35.0841034,-106.650985
+210302,456775944,"Delta Air Lines Inc.-Atlanta, GA-Portland, OR Total Total",Delta Air Lines Inc.,"Atlanta, GA","Portland, OR",33.7544657,-84.3898151,45.5202471,-122.674194
+210285,146358360,"Southwest Airlines Co.-Atlanta, GA-Houston, TX Total Total",Southwest Airlines Co.,"Atlanta, GA","Houston, TX",33.7544657,-84.3898151,29.7589382,-95.3676974
+210201,64321506,"Delta Air Lines Inc.-Greensboro/High Point, NC-Atlanta, GA Total Total",Delta Air Lines Inc.,"Greensboro/High Point, NC","Atlanta, GA",36.0770773,-79.9610417,33.7544657,-84.3898151
+210158,196497730,"American Airlines Inc.-Dallas/Fort Worth, TX-Mexico City, Mexico Total Total",American Airlines Inc.,"Dallas/Fort Worth, TX","Mexico City, Mexico",32.8369894,-97.033926,19.3207722,-99.1514678
+210090,114078870,"Southwest Airlines Co.-Portland, OR-Oakland, CA Total Total",Southwest Airlines Co.,"Portland, OR","Oakland, CA",45.5202471,-122.674194,37.8044557,-122.271356
+210024,111102696,"US Airways Inc.-Charlotte, NC-Newark, NJ Total Total",US Airways Inc.,"Charlotte, NC","Newark, NJ",35.2272086,-80.8430827,40.735657,-74.1723667
+209997,142377966,"United Air Lines Inc.-Philadelphia, PA-Chicago, IL Total Total",United Air Lines Inc.,"Philadelphia, PA","Chicago, IL",39.9527237,-75.1635262,41.8755616,-87.6244212
+209955,121983855,"Southwest Airlines Co.-Atlanta, GA-Fort Lauderdale, FL Total Total",Southwest Airlines Co.,"Atlanta, GA","Fort Lauderdale, FL",33.7544657,-84.3898151,26.1223084,-80.1433786
+209562,249169218,"Southwest Airlines Co.-San Juan, PR-Orlando, FL Total Total",Southwest Airlines Co.,"San Juan, PR","Orlando, FL",18.384239,-66.05344,28.5421109,-81.3790304
+209535,541825919,"Virgin America-New York, NY-San Francisco, CA Total Total",Virgin America,"New York, NY","San Francisco, CA",40.7127281,-74.0060152,37.7792588,-122.4193286
+209422,895907316,"Compagnia Aerea Italiana-Rome, Italy-New York, NY Total Total",Compagnia Aerea Italiana,"Rome, Italy","New York, NY",41.8933203,12.4829321,40.7127281,-74.0060152
+209206,115063300,"Alaska Airlines Inc.-San Francisco, CA-Portland, OR Total Total",Alaska Airlines Inc.,"San Francisco, CA","Portland, OR",37.7792588,-122.4193286,45.5202471,-122.674194
+209116,210998044,"United Air Lines Inc.-Houston, TX-Phoenix, AZ Total Total",United Air Lines Inc.,"Houston, TX","Phoenix, AZ",29.7589382,-95.3676974,33.4484367,-112.074141
+209061,88432803,"Southwest Airlines Co.-Chicago, IL-Omaha, NE Total Total",Southwest Airlines Co.,"Chicago, IL","Omaha, NE",41.8755616,-87.6244212,41.2587459,-95.9383758
+209056,290587840,"Southwest Airlines Co.-Houston, TX-Los Angeles, CA Total Total",Southwest Airlines Co.,"Houston, TX","Los Angeles, CA",29.7589382,-95.3676974,34.0536909,-118.242766
+208939,46802336,"Alaska Airlines Inc.-Spokane, WA-Seattle, WA Total Total",Alaska Airlines Inc.,"Spokane, WA","Seattle, WA",47.6571934,-117.42351,47.6038321,-122.330062
+208686,226424310,"United Air Lines Inc.-Newark, NJ-Miami, FL Total Total",United Air Lines Inc.,"Newark, NJ","Miami, FL",40.735657,-74.1723667,25.7741728,-80.19362
+208371,152737063,"Shuttle America Corp.-New York, NY-Chicago, IL Total Total",Shuttle America Corp.,"New York, NY","Chicago, IL",40.7127281,-74.0060152,41.8755616,-87.6244212
+208167,141137226,"United Air Lines Inc.-Chicago, IL-Philadelphia, PA Total Total",United Air Lines Inc.,"Chicago, IL","Philadelphia, PA",41.8755616,-87.6244212,39.9527237,-75.1635262
+208081,84183419,"Delta Air Lines Inc.-Detroit, MI-Washington, DC Total Total",Delta Air Lines Inc.,"Detroit, MI","Washington, DC",42.3315509,-83.0466403,38.8950368,-77.0365427
+208016,209888144,"United Air Lines Inc.-Phoenix, AZ-Houston, TX Total Total",United Air Lines Inc.,"Phoenix, AZ","Houston, TX",33.4484367,-112.074141,29.7589382,-95.3676974
+207995,158492190,"Southwest Airlines Co.-New York, NY-Atlanta, GA Total Total",Southwest Airlines Co.,"New York, NY","Atlanta, GA",40.7127281,-74.0060152,33.7544657,-84.3898151
+207961,144740856,"Southwest Airlines Co.-Houston, TX-Atlanta, GA Total Total",Southwest Airlines Co.,"Houston, TX","Atlanta, GA",29.7589382,-95.3676974,33.7544657,-84.3898151
+207889,215030673,"Delta Air Lines Inc.-West Palm Beach/Palm Beach, FL-New York, NY Total Total",Delta Air Lines Inc.,"West Palm Beach/Palm Beach, FL","New York, NY",26.715364,-80.0532942,40.7127281,-74.0060152
+207740,58790420,"Southwest Airlines Co.-Columbus, OH-Chicago, IL Total Total",Southwest Airlines Co.,"Columbus, OH","Chicago, IL",39.9622601,-83.0007065,41.8755616,-87.6244212
+207718,220388798,"American Airlines Inc.-Dallas/Fort Worth, TX-Raleigh/Durham, NC Total Total",American Airlines Inc.,"Dallas/Fort Worth, TX","Raleigh/Durham, NC",32.8369894,-97.033926,35.8803614,-78.7872382
+207315,275728950,"Delta Air Lines Inc.-Mexico City, Mexico-Atlanta, GA Total Total",Delta Air Lines Inc.,"Mexico City, Mexico","Atlanta, GA",19.3207722,-99.1514678,33.7544657,-84.3898151
+207178,63603646,"Southwest Airlines Co.-Chicago, IL-Cleveland, OH Total Total",Southwest Airlines Co.,"Chicago, IL","Cleveland, OH",41.8755616,-87.6244212,41.4996574,-81.6936772
+207167,287962130,"Southwest Airlines Co.-Los Angeles, CA-Houston, TX Total Total",Southwest Airlines Co.,"Los Angeles, CA","Houston, TX",34.0536909,-118.242766,29.7589382,-95.3676974
+207062,70608142,"Delta Air Lines Inc.-Atlanta, GA-Jackson/Vicksburg, MS Total Total",Delta Air Lines Inc.,"Atlanta, GA","Jackson/Vicksburg, MS",33.7544657,-84.3898151,32.3629857,-90.8403402
+206752,157545024,"Southwest Airlines Co.-Atlanta, GA-New York, NY Total Total",Southwest Airlines Co.,"Atlanta, GA","New York, NY",33.7544657,-84.3898151,40.7127281,-74.0060152
+206701,539696311,"American Airlines Inc.-Los Angeles, CA-Boston, MA Total Total",American Airlines Inc.,"Los Angeles, CA","Boston, MA",34.0536909,-118.242766,42.3554334,-71.060511
+206508,62158908,"JetBlue Airways-New York, NY-Buffalo, NY Total Total",JetBlue Airways,"New York, NY","Buffalo, NY",40.7127281,-74.0060152,42.8867166,-78.8783922
+206486,224037310,"United Air Lines Inc.-Miami, FL-Newark, NJ Total Total",United Air Lines Inc.,"Miami, FL","Newark, NJ",25.7741728,-80.19362,40.735657,-74.1723667
+206452,656310908,"Aer Lingus Plc-Dublin, Ireland-New York, NY Total Total",Aer Lingus Plc,"Dublin, Ireland","New York, NY",53.3493795,-6.2605593,40.7127281,-74.0060152
+206334,119880054,"Southwest Airlines Co.-Fort Lauderdale, FL-Atlanta, GA Total Total",Southwest Airlines Co.,"Fort Lauderdale, FL","Atlanta, GA",26.1223084,-80.1433786,33.7544657,-84.3898151
+206311,898071783,"Virgin Atlantic Airways-Orlando, FL-London, United Kingdom Total Total",Virgin Atlantic Airways,"Orlando, FL","London, United Kingdom",28.5421109,-81.3790304,51.4893335,-0.1440551
+206240,274299200,"Delta Air Lines Inc.-Atlanta, GA-Mexico City, Mexico Total Total",Delta Air Lines Inc.,"Atlanta, GA","Mexico City, Mexico",33.7544657,-84.3898151,19.3207722,-99.1514678
+206224,63104544,"Delta Air Lines Inc.-Atlanta, GA-Greensboro/High Point, NC Total Total",Delta Air Lines Inc.,"Atlanta, GA","Greensboro/High Point, NC",33.7544657,-84.3898151,36.0770773,-79.9610417
+205950,244668600,"American Airlines Inc.-Dallas/Fort Worth, TX-Ontario, CA Total Total",American Airlines Inc.,"Dallas/Fort Worth, TX","Ontario, CA",32.8369894,-97.033926,50.000678,-86.000977
+205830,57838230,"Southwest Airlines Co.-Baltimore, MD-Buffalo, NY Total Total",Southwest Airlines Co.,"Baltimore, MD","Buffalo, NY",39.2908816,-76.610759,42.8867166,-78.8783922
+205415,1418595990,"Korean Air Lines Co. Ltd.-New York, NY-Seoul, South Korea Total Total",Korean Air Lines Co. Ltd.,"New York, NY","Seoul, South Korea",40.7127281,-74.0060152,37.5666791,126.9782914
+205118,86764914,"Southwest Airlines Co.-Omaha, NE-Chicago, IL Total Total",Southwest Airlines Co.,"Omaha, NE","Chicago, IL",41.2587459,-95.9383758,41.8755616,-87.6244212
+205027,150286912,"Shuttle America Corp.-Chicago, IL-New York, NY Total Total",Shuttle America Corp.,"Chicago, IL","New York, NY",41.8755616,-87.6244212,40.7127281,-74.0060152
+204924,60657504,"Southwest Airlines Co.-Burbank, CA-San Jose, CA Total Total",Southwest Airlines Co.,"Burbank, CA","San Jose, CA",34.1812089,-118.307201,37.3361663,-121.890591
+204877,145872424,"Delta Air Lines Inc.-Buffalo, NY-Atlanta, GA Total Total",Delta Air Lines Inc.,"Buffalo, NY","Atlanta, GA",42.8867166,-78.8783922,33.7544657,-84.3898151
+204452,533824172,"American Airlines Inc.-Boston, MA-Los Angeles, CA Total Total",American Airlines Inc.,"Boston, MA","Los Angeles, CA",42.3554334,-71.060511,34.0536909,-118.242766
+204401,211456517,"Delta Air Lines Inc.-New York, NY-West Palm Beach/Palm Beach, FL Total Total",Delta Air Lines Inc.,"New York, NY","West Palm Beach/Palm Beach, FL",40.7127281,-74.0060152,26.715364,-80.0532942
+204292,252300620,"Southwest Airlines Co.-Houston, TX-Las Vegas, NV Total Total",Southwest Airlines Co.,"Houston, TX","Las Vegas, NV",29.7589382,-95.3676974,36.1674263,-115.1484131
+204041,69577981,"Delta Air Lines Inc.-Jackson/Vicksburg, MS-Atlanta, GA Total Total",Delta Air Lines Inc.,"Jackson/Vicksburg, MS","Atlanta, GA",32.3629857,-90.8403402,33.7544657,-84.3898151
+203886,872224308,"Compagnia Aerea Italiana-New York, NY-Rome, Italy Total Total",Compagnia Aerea Italiana,"New York, NY","Rome, Italy",40.7127281,-74.0060152,41.8933203,12.4829321
+203847,144935217,"Southwest Airlines Co.-Newark, NJ-Chicago, IL Total Total",Southwest Airlines Co.,"Newark, NJ","Chicago, IL",40.735657,-74.1723667,41.8755616,-87.6244212
+203759,949720699,"Aeroflot Russian Airlines-Moscow, Russia-New York, NY Total Total",Aeroflot Russian Airlines,"Moscow, Russia","New York, NY",55.625578,37.6063916,40.7127281,-74.0060152
+203649,967332750,"American Airlines Inc.-London, United Kingdom-Dallas/Fort Worth, TX Total Total",American Airlines Inc.,"London, United Kingdom","Dallas/Fort Worth, TX",51.4893335,-0.1440551,32.8369894,-97.033926
+203326,60184496,"Southwest Airlines Co.-San Jose, CA-Burbank, CA Total Total",Southwest Airlines Co.,"San Jose, CA","Burbank, CA",37.3361663,-121.890591,34.1812089,-118.307201
+203285,82264183,"Delta Air Lines Inc.-Washington, DC-Detroit, MI Total Total",Delta Air Lines Inc.,"Washington, DC","Detroit, MI",38.8950368,-77.0365427,42.3315509,-83.0466403
+203280,119325360,"Southwest Airlines Co.-Baltimore, MD-Nashville, TN Total Total",Southwest Airlines Co.,"Baltimore, MD","Nashville, TN",39.2908816,-76.610759,36.1622767,-86.7742984
+202970,739419710,"Klm Royal Dutch Airlines-Amsterdam, Netherlands-New York, NY Total Total",Klm Royal Dutch Airlines,"Amsterdam, Netherlands","New York, NY",52.3730796,4.8924534,40.7127281,-74.0060152
+202952,144501824,"Delta Air Lines Inc.-Atlanta, GA-Buffalo, NY Total Total",Delta Air Lines Inc.,"Atlanta, GA","Buffalo, NY",33.7544657,-84.3898151,42.8867166,-78.8783922
+202591,13573597,"SkyWest Airlines Inc.-Chicago, IL-Milwaukee, WI Total Total",SkyWest Airlines Inc.,"Chicago, IL","Milwaukee, WI",41.8755616,-87.6244212,43.0386475,-87.9090751
+202581,1403278587,"Cathay Pacific Airways Ltd.-Hong Kong, Hong Kong-San Francisco, CA Total Total",Cathay Pacific Airways Ltd.,"Hong Kong, Hong Kong","San Francisco, CA",22.2793278,114.1628131,37.7792588,-122.4193286
+202379,301747089,"Southwest Airlines Co.-Baltimore, MD-Denver, CO Total Total",Southwest Airlines Co.,"Baltimore, MD","Denver, CO",39.2908816,-76.610759,39.7392364,-104.984862
+202320,439843680,"American Airlines Inc.-Miami, FL-Las Vegas, NV Total Total",American Airlines Inc.,"Miami, FL","Las Vegas, NV",25.7741728,-80.19362,36.1674263,-115.1484131
+202274,60884474,"JetBlue Airways-Buffalo, NY-New York, NY Total Total",JetBlue Airways,"Buffalo, NY","New York, NY",42.8867166,-78.8783922,40.7127281,-74.0060152
+202264,48543360,"Delta Air Lines Inc.-Atlanta, GA-Panama City, FL Total Total",Delta Air Lines Inc.,"Atlanta, GA","Panama City, FL",33.7544657,-84.3898151,30.1586518,-85.6602936
+202248,240270624,"American Airlines Inc.-Ontario, CA-Dallas/Fort Worth, TX Total Total",American Airlines Inc.,"Ontario, CA","Dallas/Fort Worth, TX",50.000678,-86.000977,32.8369894,-97.033926
+201992,130688824,"Southwest Airlines Co.-Phoenix, AZ-Sacramento, CA Total Total",Southwest Airlines Co.,"Phoenix, AZ","Sacramento, CA",33.4484367,-112.074141,38.5810606,-121.493895
+201743,777921008,"Lufthansa German Airlines-New York, NY-Frankfurt, Germany Total Total",Lufthansa German Airlines,"New York, NY","Frankfurt, Germany",40.7127281,-74.0060152,50.1106444,8.6820917
+201668,206508032,"United Air Lines Inc.-Seattle, WA-Denver, CO Total Total",United Air Lines Inc.,"Seattle, WA","Denver, CO",47.6038321,-122.330062,39.7392364,-104.984862
+201617,245367889,"American Airlines Inc.-Baltimore, MD-Dallas/Fort Worth, TX Total Total",American Airlines Inc.,"Baltimore, MD","Dallas/Fort Worth, TX",39.2908816,-76.610759,32.8369894,-97.033926
+201455,1395478785,"Cathay Pacific Airways Ltd.-San Francisco, CA-Hong Kong, Hong Kong Total Total",Cathay Pacific Airways Ltd.,"San Francisco, CA","Hong Kong, Hong Kong",37.7792588,-122.4193286,22.2793278,114.1628131
+201427,1391054862,"Korean Air Lines Co. Ltd.-Seoul, South Korea-New York, NY Total Total",Korean Air Lines Co. Ltd.,"Seoul, South Korea","New York, NY",37.5666791,126.9782914,40.7127281,-74.0060152
+201335,1302436115,"Eva Airways Corporation-Taipei, Taiwan-San Francisco, CA Total Total",Eva Airways Corporation,"Taipei, Taiwan","San Francisco, CA",25.0375198,121.5636796,37.7792588,-122.4193286
+201285,45490410,"American Airlines Inc.-Charlotte, NC-Atlanta, GA Total Total",American Airlines Inc.,"Charlotte, NC","Atlanta, GA",35.2272086,-80.8430827,33.7544657,-84.3898151
+201037,639096623,"Aer Lingus Plc-New York, NY-Dublin, Ireland Total Total",Aer Lingus Plc,"New York, NY","Dublin, Ireland",40.7127281,-74.0060152,53.3493795,-6.2605593
+200979,56274120,"American Airlines Inc.-Boston, MA-Philadelphia, PA Total Total",American Airlines Inc.,"Boston, MA","Philadelphia, PA",42.3554334,-71.060511,39.9527237,-75.1635262
+200711,731190173,"Klm Royal Dutch Airlines-New York, NY-Amsterdam, Netherlands Total Total",Klm Royal Dutch Airlines,"New York, NY","Amsterdam, Netherlands",40.7127281,-74.0060152,52.3730796,4.8924534
+200668,247824980,"Southwest Airlines Co.-Las Vegas, NV-Houston, TX Total Total",Southwest Airlines Co.,"Las Vegas, NV","Houston, TX",36.1674263,-115.1484131,29.7589382,-95.3676974
+200466,48111840,"Delta Air Lines Inc.-Panama City, FL-Atlanta, GA Total Total",Delta Air Lines Inc.,"Panama City, FL","Atlanta, GA",30.1586518,-85.6602936,33.7544657,-84.3898151
+200449,238333861,"Southwest Airlines Co.-Orlando, FL-San Juan, PR Total Total",Southwest Airlines Co.,"Orlando, FL","San Juan, PR",28.5421109,-81.3790304,18.384239,-66.05344
+200436,272592960,"Santa Barbara Airlines, C.A-Caracas, Venezuela-Miami, FL Total Total","Santa Barbara Airlines, C.A","Caracas, Venezuela","Miami, FL",10.5060934,-66.9146008,25.7741728,-80.19362
+200339,187316965,"American Airlines Inc.-Mexico City, Mexico-Dallas/Fort Worth, TX Total Total",American Airlines Inc.,"Mexico City, Mexico","Dallas/Fort Worth, TX",19.3207722,-99.1514678,32.8369894,-97.033926
+200318,346149504,"Southwest Airlines Co.-Chicago, IL-San Diego, CA Total Total",Southwest Airlines Co.,"Chicago, IL","San Diego, CA",41.8755616,-87.6244212,32.7174202,-117.162772
+200190,89484930,"Virgin America-San Francisco, CA-San Diego, CA Total Total",Virgin America,"San Francisco, CA","San Diego, CA",37.7792588,-122.4193286,32.7174202,-117.162772
+200131,56036680,"American Airlines Inc.-Philadelphia, PA-Boston, MA Total Total",American Airlines Inc.,"Philadelphia, PA","Boston, MA",39.9527237,-75.1635262,42.3554334,-71.060511
+200015,46704103,"Mesa Airlines Inc.-Dallas/Fort Worth, TX-Houston, TX Total Total",Mesa Airlines Inc.,"Dallas/Fort Worth, TX","Houston, TX",32.8369894,-97.033926,29.7589382,-95.3676974
+199626,417218340,"Aeromexico-New York, NY-Mexico City, Mexico Total Total",Aeromexico,"New York, NY","Mexico City, Mexico",40.7127281,-74.0060152,19.3207722,-99.1514678
+199534,34918450,"American Airlines Inc.-Oklahoma City, OK-Dallas/Fort Worth, TX Total Total",American Airlines Inc.,"Oklahoma City, OK","Dallas/Fort Worth, TX",35.4729886,-97.5170536,32.8369894,-97.033926
+199518,66639012,"American Airlines Inc.-Chicago, IL-Minneapolis, MN Total Total",American Airlines Inc.,"Chicago, IL","Minneapolis, MN",41.8755616,-87.6244212,44.9772995,-93.2654692
+199237,71127609,"Westjet-New York, NY-Toronto, Canada Total Total",Westjet,"New York, NY","Toronto, Canada",40.7127281,-74.0060152,43.6534817,-79.3839347
+198800,116695600,"Southwest Airlines Co.-Nashville, TN-Baltimore, MD Total Total",Southwest Airlines Co.,"Nashville, TN","Baltimore, MD",36.1622767,-86.7742984,39.2908816,-76.610759
+198542,342087866,"American Airlines Inc.-Chicago, IL-San Diego, CA Total Total",American Airlines Inc.,"Chicago, IL","San Diego, CA",41.8755616,-87.6244212,32.7174202,-117.162772
+198491,141127101,"Southwest Airlines Co.-Chicago, IL-Newark, NJ Total Total",Southwest Airlines Co.,"Chicago, IL","Newark, NJ",41.8755616,-87.6244212,40.735657,-74.1723667
+198363,215223855,"American Airlines Inc.-Miami, FL-Newark, NJ Total Total",American Airlines Inc.,"Miami, FL","Newark, NJ",25.7741728,-80.19362,40.735657,-74.1723667
+198134,241129078,"American Airlines Inc.-Dallas/Fort Worth, TX-Baltimore, MD Total Total",American Airlines Inc.,"Dallas/Fort Worth, TX","Baltimore, MD",32.8369894,-97.033926,39.2908816,-76.610759
+198096,284862048,"American Airlines Inc.-Dallas/Fort Worth, TX-San Jose, CA Total Total",American Airlines Inc.,"Dallas/Fort Worth, TX","San Jose, CA",32.8369894,-97.033926,37.3361663,-121.890591
+197955,341076465,"American Airlines Inc.-San Diego, CA-Chicago, IL Total Total",American Airlines Inc.,"San Diego, CA","Chicago, IL",32.7174202,-117.162772,41.8755616,-87.6244212
+197848,1279878712,"Eva Airways Corporation-San Francisco, CA-Taipei, Taiwan Total Total",Eva Airways Corporation,"San Francisco, CA","Taipei, Taiwan",37.7792588,-122.4193286,25.0375198,121.5636796
+197838,124242264,"United Air Lines Inc.-Las Vegas, NV-Denver, CO Total Total",United Air Lines Inc.,"Las Vegas, NV","Denver, CO",36.1674263,-115.1484131,39.7392364,-104.984862
+197550,118925100,"United Air Lines Inc.-Phoenix, AZ-Denver, CO Total Total",United Air Lines Inc.,"Phoenix, AZ","Denver, CO",33.4484367,-112.074141,39.7392364,-104.984862
+197396,725825092,"British Airways Plc-London, United Kingdom-Washington, DC Total Total",British Airways Plc,"London, United Kingdom","Washington, DC",51.4893335,-0.1440551,38.8950368,-77.0365427
+197352,919857672,"Aeroflot Russian Airlines-New York, NY-Moscow, Russia Total Total",Aeroflot Russian Airlines,"New York, NY","Moscow, Russia",40.7127281,-74.0060152,55.625578,37.6063916
+197179,134081720,"Southwest Airlines Co.-Denver, CO-Minneapolis, MN Total Total",Southwest Airlines Co.,"Denver, CO","Minneapolis, MN",39.7392364,-104.984862,44.9772995,-93.2654692
+197143,1144612258,"Lufthansa German Airlines-Los Angeles, CA-Frankfurt, Germany Total Total",Lufthansa German Airlines,"Los Angeles, CA","Frankfurt, Germany",34.0536909,-118.242766,50.1106444,8.6820917
+197104,44151296,"Alaska Airlines Inc.-Seattle, WA-Spokane, WA Total Total",Alaska Airlines Inc.,"Seattle, WA","Spokane, WA",47.6038321,-122.330062,47.6571934,-117.42351
+197070,65821380,"American Airlines Inc.-Minneapolis, MN-Chicago, IL Total Total",American Airlines Inc.,"Minneapolis, MN","Chicago, IL",44.9772995,-93.2654692,41.8755616,-87.6244212
+197038,283340644,"American Airlines Inc.-San Jose, CA-Dallas/Fort Worth, TX Total Total",American Airlines Inc.,"San Jose, CA","Dallas/Fort Worth, TX",37.3361663,-121.890591,32.8369894,-97.033926
+197005,72694845,"Southwest Airlines Co.-Burbank, CA-Phoenix, AZ Total Total",Southwest Airlines Co.,"Burbank, CA","Phoenix, AZ",34.1812089,-118.307201,33.4484367,-112.074141
+196967,149891887,"American Airlines Inc.-Dallas/Fort Worth, TX-Indianapolis, IN Total Total",American Airlines Inc.,"Dallas/Fort Worth, TX","Indianapolis, IN",32.8369894,-97.033926,39.7683331,-86.1583502
+196838,34446650,"American Airlines Inc.-Dallas/Fort Worth, TX-Oklahoma City, OK Total Total",American Airlines Inc.,"Dallas/Fort Worth, TX","Oklahoma City, OK",32.8369894,-97.033926,35.4729886,-97.5170536
+196834,411383060,"Aeromexico-Mexico City, Mexico-New York, NY Total Total",Aeromexico,"Mexico City, Mexico","New York, NY",19.3207722,-99.1514678,40.7127281,-74.0060152
+196675,149669675,"American Airlines Inc.-Indianapolis, IN-Dallas/Fort Worth, TX Total Total",American Airlines Inc.,"Indianapolis, IN","Dallas/Fort Worth, TX",39.7683331,-86.1583502,32.8369894,-97.033926
+196666,66079776,"Porter Airlines, Inc.-Newark, NJ-Toronto, Canada Total Total","Porter Airlines, Inc.","Newark, NJ","Toronto, Canada",40.735657,-74.1723667,43.6534817,-79.3839347
+196628,87892716,"Virgin America-San Diego, CA-San Francisco, CA Total Total",Virgin America,"San Diego, CA","San Francisco, CA",32.7174202,-117.162772,37.7792588,-122.4193286
+196526,127152322,"Southwest Airlines Co.-Sacramento, CA-Phoenix, AZ Total Total",Southwest Airlines Co.,"Sacramento, CA","Phoenix, AZ",38.5810606,-121.493895,33.4484367,-112.074141
+196230,55533090,"Southwest Airlines Co.-Chicago, IL-Columbus, OH Total Total",Southwest Airlines Co.,"Chicago, IL","Columbus, OH",41.8755616,-87.6244212,39.9622601,-83.0007065
+195880,121641480,"Southwest Airlines Co.-Phoenix, AZ-San Jose, CA Total Total",Southwest Airlines Co.,"Phoenix, AZ","San Jose, CA",33.4484367,-112.074141,37.3361663,-121.890591
+195753,336890913,"Alaska Airlines Inc.-Seattle, WA-Chicago, IL Total Total",Alaska Airlines Inc.,"Seattle, WA","Chicago, IL",47.6038321,-122.330062,41.8755616,-87.6244212
+195679,133061720,"Southwest Airlines Co.-Minneapolis, MN-Denver, CO Total Total",Southwest Airlines Co.,"Minneapolis, MN","Denver, CO",44.9772995,-93.2654692,39.7392364,-104.984862
+195631,168438291,"Southwest Airlines Co.-Philadelphia, PA-Orlando, FL Total Total",Southwest Airlines Co.,"Philadelphia, PA","Orlando, FL",39.9527237,-75.1635262,28.5421109,-81.3790304
+195544,165821312,"American Airlines Inc.-Santo Domingo, Dominican Republic-Miami, FL Total Total",American Airlines Inc.,"Santo Domingo, Dominican Republic","Miami, FL",18.4801972,-69.942111,25.7741728,-80.19362
+195269,168126609,"Southwest Airlines Co.-Orlando, FL-Philadelphia, PA Total Total",Southwest Airlines Co.,"Orlando, FL","Philadelphia, PA",28.5421109,-81.3790304,39.9527237,-75.1635262
+195124,1339916508,"Etihad Airways-New York, NY-Abu Dhabi, United Arab Emirates Total Total",Etihad Airways,"New York, NY","Abu Dhabi, United Arab Emirates",40.7127281,-74.0060152,24.4538352,54.3774014
+195081,211662885,"American Airlines Inc.-Newark, NJ-Miami, FL Total Total",American Airlines Inc.,"Newark, NJ","Miami, FL",40.735657,-74.1723667,25.7741728,-80.19362
+194912,716691424,"British Airways Plc-Washington, DC-London, United Kingdom Total Total",British Airways Plc,"Washington, DC","London, United Kingdom",38.8950368,-77.0365427,51.4893335,-0.1440551
+194783,44020958,"US Airways Inc.-Atlanta, GA-Charlotte, NC Total Total",US Airways Inc.,"Atlanta, GA","Charlotte, NC",33.7544657,-84.3898151,35.2272086,-80.8430827
+194578,290115798,"Southwest Airlines Co.-Denver, CO-Baltimore, MD Total Total",Southwest Airlines Co.,"Denver, CO","Baltimore, MD",39.7392364,-104.984862,39.2908816,-76.610759
+194167,1127333602,"Lufthansa German Airlines-Frankfurt, Germany-Los Angeles, CA Total Total",Lufthansa German Airlines,"Frankfurt, Germany","Los Angeles, CA",50.1106444,8.6820917,34.0536909,-118.242766
+194021,1319148779,"China Airlines Ltd.-Taipei, Taiwan-Los Angeles, CA Total Total",China Airlines Ltd.,"Taipei, Taiwan","Los Angeles, CA",25.0375198,121.5636796,34.0536909,-118.242766
+193815,337044285,"United Air Lines Inc.-Portland, OR-Chicago, IL Total Total",United Air Lines Inc.,"Portland, OR","Chicago, IL",45.5202471,-122.674194,41.8755616,-87.6244212
+193755,166823055,"Southwest Airlines Co.-Chicago, IL-Boston, MA Total Total",Southwest Airlines Co.,"Chicago, IL","Boston, MA",41.8755616,-87.6244212,42.3554334,-71.060511
+193422,164021856,"American Airlines Inc.-Miami, FL-Santo Domingo, Dominican Republic Total Total",American Airlines Inc.,"Miami, FL","Santo Domingo, Dominican Republic",25.7741728,-80.19362,18.4801972,-69.942111
+193307,45097436,"Mesa Airlines Inc.-Houston, TX-Dallas/Fort Worth, TX Total Total",Mesa Airlines Inc.,"Houston, TX","Dallas/Fort Worth, TX",29.7589382,-95.3676974,32.8369894,-97.033926
+192934,71192646,"Southwest Airlines Co.-Phoenix, AZ-Burbank, CA Total Total",Southwest Airlines Co.,"Phoenix, AZ","Burbank, CA",33.4484367,-112.074141,34.1812089,-118.307201
+192813,259526298,"United Air Lines Inc.-Houston, TX-Santa Ana, CA Total Total",United Air Lines Inc.,"Houston, TX","Santa Ana, CA",29.7589382,-95.3676974,33.7494951,-117.873221
+192747,64762992,"Porter Airlines, Inc.-Toronto, Canada-Newark, NJ Total Total","Porter Airlines, Inc.","Toronto, Canada","Newark, NJ",43.6534817,-79.3839347,40.735657,-74.1723667
+192250,207822250,"Air Canada rouge LP-Vancouver, Canada-Los Angeles, CA Total Total",Air Canada rouge LP,"Vancouver, Canada","Los Angeles, CA",49.2608724,-123.113952,34.0536909,-118.242766
+192055,68563635,"Westjet-Toronto, Canada-New York, NY Total Total",Westjet,"Toronto, Canada","New York, NY",43.6534817,-79.3839347,40.7127281,-74.0060152
+191882,207424442,"Air Canada rouge LP-Los Angeles, CA-Vancouver, Canada Total Total",Air Canada rouge LP,"Los Angeles, CA","Vancouver, Canada",34.0536909,-118.242766,49.2608724,-123.113952
+191840,162296640,"Southwest Airlines Co.-Denver, CO-Santa Ana, CA Total Total",Southwest Airlines Co.,"Denver, CO","Santa Ana, CA",39.7392364,-104.984862,33.7494951,-117.873221
+191719,114839681,"US Airways Inc.-Charlotte, NC-Chicago, IL Total Total",US Airways Inc.,"Charlotte, NC","Chicago, IL",35.2272086,-80.8430827,41.8755616,-87.6244212
+191622,320200362,"Delta Air Lines Inc.-Detroit, MI-Phoenix, AZ Total Total",Delta Air Lines Inc.,"Detroit, MI","Phoenix, AZ",42.3315509,-83.0466403,33.4484367,-112.074141
+191477,196072448,"Southwest Airlines Co.-Seattle, WA-Denver, CO Total Total",Southwest Airlines Co.,"Seattle, WA","Denver, CO",47.6038321,-122.330062,39.7392364,-104.984862
+191339,329294419,"Alaska Airlines Inc.-Chicago, IL-Seattle, WA Total Total",Alaska Airlines Inc.,"Chicago, IL","Seattle, WA",41.8755616,-87.6244212,47.6038321,-122.330062
+191247,195836928,"Southwest Airlines Co.-Denver, CO-Seattle, WA Total Total",Southwest Airlines Co.,"Denver, CO","Seattle, WA",39.7392364,-104.984862,47.6038321,-122.330062
+190534,82310688,"Delta Air Lines Inc.-Dayton, OH-Atlanta, GA Total Total",Delta Air Lines Inc.,"Dayton, OH","Atlanta, GA",39.7589478,-84.1916069,33.7544657,-84.3898151
+190316,327914778,"United Air Lines Inc.-San Diego, CA-Chicago, IL Total Total",United Air Lines Inc.,"San Diego, CA","Chicago, IL",32.7174202,-117.162772,41.8755616,-87.6244212
+190250,68680250,"American Airlines Inc.-Baltimore, MD-Charlotte, NC Total Total",American Airlines Inc.,"Baltimore, MD","Charlotte, NC",39.2908816,-76.610759,35.2272086,-80.8430827
+190223,119460044,"United Air Lines Inc.-Denver, CO-Las Vegas, NV Total Total",United Air Lines Inc.,"Denver, CO","Las Vegas, NV",39.7392364,-104.984862,36.1674263,-115.1484131
+189687,193480740,"Southwest Airlines Co.-Phoenix, AZ-Houston, TX Total Total",Southwest Airlines Co.,"Phoenix, AZ","Houston, TX",33.4484367,-112.074141,29.7589382,-95.3676974
+189667,117783207,"Southwest Airlines Co.-San Jose, CA-Phoenix, AZ Total Total",Southwest Airlines Co.,"San Jose, CA","Phoenix, AZ",37.3361663,-121.890591,33.4484367,-112.074141
+189614,203266208,"Southwest Airlines Co.-Orlando, FL-Providence, RI Total Total",Southwest Airlines Co.,"Orlando, FL","Providence, RI",28.5421109,-81.3790304,41.8239891,-71.4128343
+189535,163189635,"Southwest Airlines Co.-Boston, MA-Chicago, IL Total Total",Southwest Airlines Co.,"Boston, MA","Chicago, IL",42.3554334,-71.060511,41.8755616,-87.6244212
+189510,306248160,"American Airlines Inc.-Dallas/Fort Worth, TX-Portland, OR Total Total",American Airlines Inc.,"Dallas/Fort Worth, TX","Portland, OR",32.8369894,-97.033926,45.5202471,-122.674194
+189370,254892020,"United Air Lines Inc.-Santa Ana, CA-Houston, TX Total Total",United Air Lines Inc.,"Santa Ana, CA","Houston, TX",33.7494951,-117.873221,29.7589382,-95.3676974
+189349,327195072,"Southwest Airlines Co.-San Diego, CA-Chicago, IL Total Total",Southwest Airlines Co.,"San Diego, CA","Chicago, IL",32.7174202,-117.162772,41.8755616,-87.6244212
+189271,224096801,"Southwest Airlines Co.-Washington, DC-Dallas, TX Total Total",Southwest Airlines Co.,"Washington, DC","Dallas, TX",38.8950368,-77.0365427,32.7762719,-96.7968559
+189258,28577958,"Delta Air Lines Inc.-Atlanta, GA-Huntsville, AL Total Total",Delta Air Lines Inc.,"Atlanta, GA","Huntsville, AL",33.7544657,-84.3898151,34.729847,-86.5859011
+189101,103436557,"Southwest Airlines Co.-Atlanta, GA-Washington, DC Total Total",Southwest Airlines Co.,"Atlanta, GA","Washington, DC",33.7544657,-84.3898151,38.8950368,-77.0365427
+188917,235390582,"Southwest Airlines Co.-Dallas, TX-Los Angeles, CA Total Total",Southwest Airlines Co.,"Dallas, TX","Los Angeles, CA",32.7762719,-96.7968559,34.0536909,-118.242766
+188751,181955757,"American Airlines Inc.-Miami, FL-Houston, TX Total Total",American Airlines Inc.,"Miami, FL","Houston, TX",25.7741728,-80.19362,29.7589382,-95.3676974
+188070,84443430,"US Airways Inc.-Philadelphia, PA-Charlotte, NC Total Total",US Airways Inc.,"Philadelphia, PA","Charlotte, NC",39.9527237,-75.1635262,35.2272086,-80.8430827
+187995,314139645,"Delta Air Lines Inc.-Phoenix, AZ-Detroit, MI Total Total",Delta Air Lines Inc.,"Phoenix, AZ","Detroit, MI",33.4484367,-112.074141,42.3315509,-83.0466403
+187634,42405284,"US Airways Inc.-Charlotte, NC-Atlanta, GA Total Total",US Airways Inc.,"Charlotte, NC","Atlanta, GA",35.2272086,-80.8430827,33.7544657,-84.3898151
+187564,222075608,"Southwest Airlines Co.-Dallas, TX-Washington, DC Total Total",Southwest Airlines Co.,"Dallas, TX","Washington, DC",32.7762719,-96.7968559,38.8950368,-77.0365427
+187358,158504868,"Southwest Airlines Co.-Santa Ana, CA-Denver, CO Total Total",Southwest Airlines Co.,"Santa Ana, CA","Denver, CO",33.7494951,-117.873221,39.7392364,-104.984862
+187328,250457536,"Compania Panamena (Copa)-Panama City, Panama-Orlando, FL Total Total",Compania Panamena (Copa),"Panama City, Panama","Orlando, FL",8.9714493,-79.5341802,28.5421109,-81.3790304
+187318,52449040,"US Airways Inc.-Philadelphia, PA-Boston, MA Total Total",US Airways Inc.,"Philadelphia, PA","Boston, MA",39.9527237,-75.1635262,42.3554334,-71.060511
+187258,430774249,"American Airlines Inc.-Los Angeles, CA-Washington, DC Total Total",American Airlines Inc.,"Los Angeles, CA","Washington, DC",34.0536909,-118.242766,38.8950368,-77.0365427
+187093,28251043,"Delta Air Lines Inc.-Huntsville, AL-Atlanta, GA Total Total",Delta Air Lines Inc.,"Huntsville, AL","Atlanta, GA",34.729847,-86.5859011,33.7544657,-84.3898151
+187086,76518174,"Delta Air Lines Inc.-Baltimore, MD-Detroit, MI Total Total",Delta Air Lines Inc.,"Baltimore, MD","Detroit, MI",39.2908816,-76.610759,42.3315509,-83.0466403
+186866,39947490,"American Airlines Inc.-New York, NY-Washington, DC Total Total",American Airlines Inc.,"New York, NY","Washington, DC",40.7127281,-74.0060152,38.8950368,-77.0365427
+186649,1269026551,"China Airlines Ltd.-Los Angeles, CA-Taipei, Taiwan Total Total",China Airlines Ltd.,"Los Angeles, CA","Taipei, Taiwan",34.0536909,-118.242766,25.0375198,121.5636796
+186629,169645761,"Southwest Airlines Co.-Denver, CO-Sacramento, CA Total Total",Southwest Airlines Co.,"Denver, CO","Sacramento, CA",39.7392364,-104.984862,38.5810606,-121.493895
+186354,232756146,"JetBlue Airways-Boston, MA-Fort Myers, FL Total Total",JetBlue Airways,"Boston, MA","Fort Myers, FL",42.3554334,-71.060511,26.640628,-81.8723084
+186310,111599690,"US Airways Inc.-Chicago, IL-Charlotte, NC Total Total",US Airways Inc.,"Chicago, IL","Charlotte, NC",41.8755616,-87.6244212,35.2272086,-80.8430827
+186304,190030080,"Southwest Airlines Co.-Houston, TX-Phoenix, AZ Total Total",Southwest Airlines Co.,"Houston, TX","Phoenix, AZ",29.7589382,-95.3676974,33.4484367,-112.074141
+186175,184499425,"United Air Lines Inc.-Denver, CO-Portland, OR Total Total",United Air Lines Inc.,"Denver, CO","Portland, OR",39.7392364,-104.984862,45.5202471,-122.674194
+186066,179367624,"American Airlines Inc.-Houston, TX-Miami, FL Total Total",American Airlines Inc.,"Houston, TX","Miami, FL",29.7589382,-95.3676974,25.7741728,-80.19362
+185920,67117120,"American Airlines Inc.-Charlotte, NC-Baltimore, MD Total Total",American Airlines Inc.,"Charlotte, NC","Baltimore, MD",35.2272086,-80.8430827,39.2908816,-76.610759
+185825,199204400,"Southwest Airlines Co.-Providence, RI-Orlando, FL Total Total",Southwest Airlines Co.,"Providence, RI","Orlando, FL",41.8239891,-71.4128343,28.5421109,-81.3790304
+185676,169336512,"American Airlines Inc.-Houston, TX-Charlotte, NC Total Total",American Airlines Inc.,"Houston, TX","Charlotte, NC",29.7589382,-95.3676974,35.2272086,-80.8430827
+185598,157572702,"Southwest Airlines Co.-Orlando, FL-Houston, TX Total Total",Southwest Airlines Co.,"Orlando, FL","Houston, TX",28.5421109,-81.3790304,29.7589382,-95.3676974
+185574,84065022,"Delta Air Lines Inc.-Detroit, MI-Philadelphia, PA Total Total",Delta Air Lines Inc.,"Detroit, MI","Philadelphia, PA",42.3315509,-83.0466403,39.9527237,-75.1635262
+185457,117116079,"US Airways Inc.-Fort Lauderdale, FL-Charlotte, NC Total Total",US Airways Inc.,"Fort Lauderdale, FL","Charlotte, NC",26.1223084,-80.1433786,35.2272086,-80.8430827
+185358,299538528,"American Airlines Inc.-Portland, OR-Dallas/Fort Worth, TX Total Total",American Airlines Inc.,"Portland, OR","Dallas/Fort Worth, TX",45.5202471,-122.674194,32.8369894,-97.033926
+185148,168854976,"American Airlines Inc.-Charlotte, NC-Houston, TX Total Total",American Airlines Inc.,"Charlotte, NC","Houston, TX",35.2272086,-80.8430827,29.7589382,-95.3676974
+184977,39541045,"American Airlines Inc.-Washington, DC-New York, NY Total Total",American Airlines Inc.,"Washington, DC","New York, NY",38.8950368,-77.0365427,40.7127281,-74.0060152
+184964,264683484,"American Airlines Inc.-Dallas/Fort Worth, TX-Sacramento, CA Total Total",American Airlines Inc.,"Dallas/Fort Worth, TX","Sacramento, CA",32.8369894,-97.033926,38.5810606,-121.493895
+184855,321462845,"United Air Lines Inc.-Chicago, IL-Portland, OR Total Total",United Air Lines Inc.,"Chicago, IL","Portland, OR",41.8755616,-87.6244212,45.5202471,-122.674194
+184787,58250839,"United Air Lines Inc.-Chicago, IL-Cleveland, OH Total Total",United Air Lines Inc.,"Chicago, IL","Cleveland, OH",41.8755616,-87.6244212,41.4996574,-81.6936772
+184715,83675895,"Delta Air Lines Inc.-Philadelphia, PA-Detroit, MI Total Total",Delta Air Lines Inc.,"Philadelphia, PA","Detroit, MI",39.9527237,-75.1635262,42.3315509,-83.0466403
+184508,1261665704,"Air China-Beijing, China-New York, NY Total Total",Air China,"Beijing, China","New York, NY",40.190632,116.412144,40.7127281,-74.0060152
+184374,263839194,"American Airlines Inc.-Sacramento, CA-Dallas/Fort Worth, TX Total Total",American Airlines Inc.,"Sacramento, CA","Dallas/Fort Worth, TX",38.5810606,-121.493895,32.8369894,-97.033926
+184303,51604840,"US Airways Inc.-Boston, MA-Philadelphia, PA Total Total",US Airways Inc.,"Boston, MA","Philadelphia, PA",42.3554334,-71.060511,39.9527237,-75.1635262
+184075,381955625,"American Airlines Inc.-Phoenix, AZ-Philadelphia, PA Total Total",American Airlines Inc.,"Phoenix, AZ","Philadelphia, PA",33.4484367,-112.074141,39.9527237,-75.1635262
+184021,209599919,"Southwest Airlines Co.-Kansas City, MO-Las Vegas, NV Total Total",Southwest Airlines Co.,"Kansas City, MO","Las Vegas, NV",39.100105,-94.5781416,36.1674263,-115.1484131
+183525,219679425,"JetBlue Airways-Boston, MA-West Palm Beach/Palm Beach, FL Total Total",JetBlue Airways,"Boston, MA","West Palm Beach/Palm Beach, FL",42.3554334,-71.060511,26.715364,-80.0532942
+183522,100386508,"Southwest Airlines Co.-Washington, DC-Atlanta, GA Total Total",Southwest Airlines Co.,"Washington, DC","Atlanta, GA",38.8950368,-77.0365427,33.7544657,-84.3898151
+183511,79276752,"Delta Air Lines Inc.-Atlanta, GA-Dayton, OH Total Total",Delta Air Lines Inc.,"Atlanta, GA","Dayton, OH",33.7544657,-84.3898151,39.7589478,-84.1916069
+183461,73751322,"Southwest Airlines Co.-Pittsburgh, PA-Chicago, IL Total Total",Southwest Airlines Co.,"Pittsburgh, PA","Chicago, IL",40.4416941,-79.9900861,41.8755616,-87.6244212
+183277,181627507,"Southwest Airlines Co.-Denver, CO-Portland, OR Total Total",Southwest Airlines Co.,"Denver, CO","Portland, OR",39.7392364,-104.984862,45.5202471,-122.674194
+183030,723517590,"British Airways Plc-London, United Kingdom-Chicago, IL Total Total",British Airways Plc,"London, United Kingdom","Chicago, IL",51.4893335,-0.1440551,41.8755616,-87.6244212
+182858,139154938,"Delta Air Lines Inc.-Atlanta, GA-Oklahoma City, OK Total Total",Delta Air Lines Inc.,"Atlanta, GA","Oklahoma City, OK",33.7544657,-84.3898151,35.4729886,-97.5170536
+182758,40206760,"Southwest Airlines Co.-Baltimore, MD-Islip, NY Total Total",Southwest Airlines Co.,"Baltimore, MD","Islip, NY",39.2908816,-76.610759,40.7300685,-73.2107266
+182627,228101123,"JetBlue Airways-Fort Myers, FL-Boston, MA Total Total",JetBlue Airways,"Fort Myers, FL","Boston, MA",26.640628,-81.8723084,42.3554334,-71.060511
+182623,218599731,"JetBlue Airways-West Palm Beach/Palm Beach, FL-Boston, MA Total Total",JetBlue Airways,"West Palm Beach/Palm Beach, FL","Boston, MA",26.715364,-80.0532942,42.3554334,-71.060511
+182604,808022700,"American Airlines Inc.-Miami, FL-London, United Kingdom Total Total",American Airlines Inc.,"Miami, FL","London, United Kingdom",25.7741728,-80.19362,51.4893335,-0.1440551
+182520,169013520,"American Airlines Inc.-Dallas/Fort Worth, TX-Columbus, OH Total Total",American Airlines Inc.,"Dallas/Fort Worth, TX","Columbus, OH",32.8369894,-97.033926,39.9622601,-83.0007065
+182490,243989130,"Compania Panamena (Copa)-Orlando, FL-Panama City, Panama Total Total",Compania Panamena (Copa),"Orlando, FL","Panama City, Panama",28.5421109,-81.3790304,8.9714493,-79.5341802
+182453,115218453,"US Airways Inc.-Charlotte, NC-Fort Lauderdale, FL Total Total",US Airways Inc.,"Charlotte, NC","Fort Lauderdale, FL",35.2272086,-80.8430827,26.1223084,-80.1433786
